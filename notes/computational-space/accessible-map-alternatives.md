@@ -12,3 +12,7 @@ A new content and interaction exercise for making location information usable th
 ## Question
 
 Can someone complete the main location task without understanding or manipulating a map? This exercise begins with the information a visitor needs: finding a place, checking its relevant details, and following an available action. It asks whether a list can provide an equally complete route through that information. The map remains one representation of the data, while the alternative must avoid becoming a reduced summary that hides essential attributes or available destinations.
+
+## Design proposal
+
+Propose a structured location list backed by the same records as the spatial view. Each entry should expose its name, location description, relevant category, and available action using ordinary document structure. Add search, predictable sorting, and clear result counts. Selection may synchronize the map, but list navigation must not depend on that synchronization. Announce changes in a restrained way and preserve focus when filters update the visible records.
