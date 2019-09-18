@@ -24,3 +24,7 @@ Define a small dataset with duplicate names, missing coordinates, long labels, a
 ## Evaluation
 
 Check task completion, information parity, keyboard reachability, focus retention, and the clarity of filter results. Compare the fields available in the map detail panel with those in the list to find hidden dependencies. Record barriers encountered with the selected assistive technology and document its version. Automated checks can identify some structural problems, but direct task testing is still necessary. Report specific verified behaviors rather than labeling the entire interface universally accessible.
+
+## Limitations and next steps
+
+A useful list does not address every barrier in the surrounding page, and assistive technologies may behave differently. The external libraries retain their upstream attribution; no accessibility properties of a future implementation are assumed. Next, test alternate reading and input environments, revisit terminology with intended users, and examine whether location descriptions make sense without visual context. Preserve missing coordinates as a valid data state rather than hiding those records.
