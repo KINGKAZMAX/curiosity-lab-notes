@@ -16,3 +16,7 @@ Can someone complete the main location task without understanding or manipulatin
 ## Design proposal
 
 Propose a structured location list backed by the same records as the spatial view. Each entry should expose its name, location description, relevant category, and available action using ordinary document structure. Add search, predictable sorting, and clear result counts. Selection may synchronize the map, but list navigation must not depend on that synchronization. Announce changes in a restrained way and preserve focus when filters update the visible records.
+
+## Procedure
+
+Define a small dataset with duplicate names, missing coordinates, long labels, and a place that has details but no map position. Write three tasks that can be completed from either representation. Test the list using only a keyboard, then inspect its reading order with a screen reader. Apply and clear filters while tracking focus. Disable the map entirely and confirm that links, details, result counts, and empty states remain understandable and operational.
