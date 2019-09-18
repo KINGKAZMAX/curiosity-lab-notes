@@ -20,3 +20,7 @@ Propose a structured location list backed by the same records as the spatial vie
 ## Procedure
 
 Define a small dataset with duplicate names, missing coordinates, long labels, and a place that has details but no map position. Write three tasks that can be completed from either representation. Test the list using only a keyboard, then inspect its reading order with a screen reader. Apply and clear filters while tracking focus. Disable the map entirely and confirm that links, details, result counts, and empty states remain understandable and operational.
+
+## Evaluation
+
+Check task completion, information parity, keyboard reachability, focus retention, and the clarity of filter results. Compare the fields available in the map detail panel with those in the list to find hidden dependencies. Record barriers encountered with the selected assistive technology and document its version. Automated checks can identify some structural problems, but direct task testing is still necessary. Report specific verified behaviors rather than labeling the entire interface universally accessible.
