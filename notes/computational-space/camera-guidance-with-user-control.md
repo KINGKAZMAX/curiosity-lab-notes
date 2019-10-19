@@ -16,3 +16,7 @@ When an interface moves the camera toward a selected object, does the movement e
 ## Design proposal
 
 Propose a preview outline around the selected object before movement begins. Offer an explicit focus action, a persistent cancel control, and a return action that restores the previous camera state. Preserve a consistent vertical direction unless the task requires another orientation. Provide an immediate transition option alongside animation. Camera destinations should be derived from object bounds and an adjustable margin, with a clear fallback for objects whose bounds are missing or unreasonable.
+
+## Procedure
+
+Prepare objects at three sizes, including one partially hidden object and one near a scene boundary. Define the same focus and return tasks for each. Test direct movement, a brief animated transition, and an immediate change of view using identical destinations. During each transition, attempt cancellation and manual navigation. Record the camera state before and after every action. Repeat with a narrow viewport and the reduced motion preference enabled.
