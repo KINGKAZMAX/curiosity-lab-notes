@@ -20,3 +20,7 @@ Propose a preview outline around the selected object before movement begins. Off
 ## Procedure
 
 Prepare objects at three sizes, including one partially hidden object and one near a scene boundary. Define the same focus and return tasks for each. Test direct movement, a brief animated transition, and an immediate change of view using identical destinations. During each transition, attempt cancellation and manual navigation. Record the camera state before and after every action. Repeat with a narrow viewport and the reduced motion preference enabled.
+
+## Evaluation
+
+Check whether the selected object remains identifiable, whether the camera avoids clipping through geometry, and whether cancel and return behave consistently. In a planned usability session, ask the viewer to describe where the detail sits in the larger scene after focusing it. Record unexpected motion and repeated recovery actions. Assess motion discomfort through optional participant feedback rather than assuming a short animation is comfortable. Treat task understanding and control as separate evaluation dimensions.
