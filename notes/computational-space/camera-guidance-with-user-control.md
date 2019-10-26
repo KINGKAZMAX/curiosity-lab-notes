@@ -24,3 +24,7 @@ Prepare objects at three sizes, including one partially hidden object and one ne
 ## Evaluation
 
 Check whether the selected object remains identifiable, whether the camera avoids clipping through geometry, and whether cancel and return behave consistently. In a planned usability session, ask the viewer to describe where the detail sits in the larger scene after focusing it. Record unexpected motion and repeated recovery actions. Assess motion discomfort through optional participant feedback rather than assuming a short animation is comfortable. Treat task understanding and control as separate evaluation dimensions.
+
+## Limitations and next steps
+
+Object bounds alone do not determine a meaningful viewpoint, especially for thin surfaces, interiors, or articulated objects. Automated framing may also hide the context a reviewer needs. The proposed camera behavior is a new prototype requirement, not a feature attributed to the linked engines. Next, add authored viewpoints for difficult cases and document when automatic focus should be disabled. Further evaluation should include people who prefer immediate changes and people who rely primarily on keyboard navigation.
