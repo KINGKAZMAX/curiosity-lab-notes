@@ -16,3 +16,7 @@ How should a globe summarize many locations without implying that a cluster is a
 ## Design proposal
 
 Propose clusters that always reveal their membership count and open a list of constituent locations. Make the displayed cluster position a navigation convenience rather than a claimed geographic centroid. When selected, show the member extent and offer a controlled zoom to that extent. Preserve stable location identifiers through every regrouping. Define a visible transition rule so markers do not repeatedly merge and separate when the camera makes small movements near a threshold.
+
+## Procedure
+
+Create synthetic datasets containing isolated points, dense city groups, duplicate coordinates, points straddling the date line, and polar locations. Give each point a stable identifier and an ordinary display name. Inspect the aggregation at a fixed set of camera distances and after small rotations. Select several clusters and confirm that their membership list is complete. Repeat with a narrow viewport, then test whether returning to a previous view restores the same grouping.
