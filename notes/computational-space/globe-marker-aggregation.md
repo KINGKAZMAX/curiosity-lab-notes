@@ -20,3 +20,7 @@ Propose clusters that always reveal their membership count and open a list of co
 ## Procedure
 
 Create synthetic datasets containing isolated points, dense city groups, duplicate coordinates, points straddling the date line, and polar locations. Give each point a stable identifier and an ordinary display name. Inspect the aggregation at a fixed set of camera distances and after small rotations. Select several clusters and confirm that their membership list is complete. Repeat with a narrow viewport, then test whether returning to a previous view restores the same grouping.
+
+## Evaluation
+
+Check conservation of membership: every eligible point must appear exactly once as an individual marker or cluster member. Record overlap, abrupt regrouping, and selections that move the camera away from the intended region. Test whether a viewer can locate a named point from both the globe and the list. Evaluate geographic interpretation separately from rendering speed. A cluster with a correct count can still fail if its placement suggests an incorrect relationship.
