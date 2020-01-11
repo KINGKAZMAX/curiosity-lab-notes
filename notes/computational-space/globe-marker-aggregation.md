@@ -24,3 +24,7 @@ Create synthetic datasets containing isolated points, dense city groups, duplica
 ## Evaluation
 
 Check conservation of membership: every eligible point must appear exactly once as an individual marker or cluster member. Record overlap, abrupt regrouping, and selections that move the camera away from the intended region. Test whether a viewer can locate a named point from both the globe and the list. Evaluate geographic interpretation separately from rendering speed. A cluster with a correct count can still fail if its placement suggests an incorrect relationship.
+
+## Limitations and next steps
+
+A single grouping strategy may not suit both global browsing and neighborhood inspection. Synthetic fixtures reveal algorithmic mistakes but cannot establish whether a real audience understands the representation. The next step is to document the grouping distance, transition thresholds, and handling of duplicate coordinates before introducing real records. If locations relate to people, use only information appropriate for publication and avoid presenting approximate or institutional locations as precise personal whereabouts.
