@@ -16,3 +16,7 @@ How can a visually rich offshore scene communicate the difference between enviro
 ## Design proposal
 
 Propose three independently controlled layers: scene context, named assets, and synthetic status records. Use restrained labels for identity and reserve stronger emphasis for the selected record. Every status should include a source label, a timestamp, and a visible simulation designation. Missing or stale values need their own states rather than borrowing a normal color. Provide an accompanying table so viewers can inspect records without searching through occluded objects in the scene.
+
+## Procedure
+
+Create a small synthetic dataset with normal values, a deliberately stale record, a missing value, and two conflicting records for the same asset. Assign stable identifiers to scene objects and table rows. Walk through tasks that locate an asset, inspect its source, and compare update times. Toggle each information layer and rotate the scene to create occlusion. Verify that selecting a table row identifies the intended asset without altering the underlying records.
