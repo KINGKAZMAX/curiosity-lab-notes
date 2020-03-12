@@ -20,3 +20,7 @@ Propose three independently controlled layers: scene context, named assets, and 
 ## Procedure
 
 Create a small synthetic dataset with normal values, a deliberately stale record, a missing value, and two conflicting records for the same asset. Assign stable identifiers to scene objects and table rows. Walk through tasks that locate an asset, inspect its source, and compare update times. Toggle each information layer and rotate the scene to create occlusion. Verify that selecting a table row identifies the intended asset without altering the underlying records.
+
+## Evaluation
+
+Check whether viewers correctly distinguish missing information from a normal reading and can identify the age and source of a displayed value. Count ambiguous labels, mismatched selections, and records that become unreachable when the scene is crowded. Compare completion of the same inspection task in the table and scene. Keep observations limited to this synthetic demonstration; successful information retrieval does not establish accuracy, reliability, or fitness for operational use.
