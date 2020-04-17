@@ -24,3 +24,7 @@ Create a small synthetic dataset with normal values, a deliberately stale record
 ## Evaluation
 
 Check whether viewers correctly distinguish missing information from a normal reading and can identify the age and source of a displayed value. Count ambiguous labels, mismatched selections, and records that become unreachable when the scene is crowded. Compare completion of the same inspection task in the table and scene. Keep observations limited to this synthetic demonstration; successful information retrieval does not establish accuracy, reliability, or fitness for operational use.
+
+## Limitations and next steps
+
+Real offshore information involves domain expertise, sensor uncertainty, system integration, and responsibilities that this design exercise does not address. The external graphics and visualization libraries provide implementation options; no operational capability or domain validation is attributed to them. Next, refine the synthetic schema and review terminology with a relevant practitioner before considering realistic data. Any later use of actual records would require a separate account of data quality, access, and intended decisions.
