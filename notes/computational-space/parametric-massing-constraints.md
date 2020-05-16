@@ -16,3 +16,7 @@ How can a person distinguish a deliberately constrained massing study from a sha
 ## Design proposal
 
 Propose a constraint register beside the viewport. Each row names a condition, its input value, its measurement method, and its current status: satisfied, violated, or not evaluated. Selecting a row should highlight the relevant geometry and display the measured quantity. Separate mandatory geometric limits from preferences such as compactness. A preference may influence ordering, but it should never silently override a mandatory limit or make an unevaluated design appear approved.
+
+## Procedure
+
+Begin with a rectangular site and three intentionally simple building volumes. Enter a hypothetical setback distance, height limit, and minimum gap between volumes in one configuration file. Generate one valid arrangement and three arrangements that each violate exactly one condition. Calculate distances and heights from geometry rather than viewport labels. Export the configuration, constraint report, and overview image together. Finally, perturb one input and inspect which statuses change and which remain stable.
