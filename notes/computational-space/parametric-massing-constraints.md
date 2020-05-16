@@ -20,3 +20,7 @@ Propose a constraint register beside the viewport. Each row names a condition, i
 ## Procedure
 
 Begin with a rectangular site and three intentionally simple building volumes. Enter a hypothetical setback distance, height limit, and minimum gap between volumes in one configuration file. Generate one valid arrangement and three arrangements that each violate exactly one condition. Calculate distances and heights from geometry rather than viewport labels. Export the configuration, constraint report, and overview image together. Finally, perturb one input and inspect which statuses change and which remain stable.
+
+## Evaluation
+
+Use the deliberately invalid arrangements as diagnostic fixtures. Check whether every known violation appears in the register and whether selecting it reveals the correct location. Ask a reviewer to explain why each arrangement was accepted or rejected using only the exported package. Record incorrect explanations, missing measurements, and conditions that depend on an ambiguous geometric definition. Treat reliable diagnosis as the first success criterion; visual novelty is a separate question.
