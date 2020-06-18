@@ -24,3 +24,7 @@ Begin with a rectangular site and three intentionally simple building volumes. E
 ## Evaluation
 
 Use the deliberately invalid arrangements as diagnostic fixtures. Check whether every known violation appears in the register and whether selecting it reveals the correct location. Ask a reviewer to explain why each arrangement was accepted or rejected using only the exported package. Record incorrect explanations, missing measurements, and conditions that depend on an ambiguous geometric definition. Treat reliable diagnosis as the first success criterion; visual novelty is a separate question.
+
+## Limitations and next steps
+
+This exercise cannot establish planning approval, structural feasibility, or an acceptable urban outcome. Hypothetical setbacks and heights are design inputs, not statements about applicable regulations. Distance calculations may also become unreliable when surfaces are open or geometry contains numerical defects. The next iteration should document tolerances, include malformed input cases, and separate geometry repair from constraint evaluation. Only after those checks should the study introduce more complex envelopes or interacting optimization objectives.
