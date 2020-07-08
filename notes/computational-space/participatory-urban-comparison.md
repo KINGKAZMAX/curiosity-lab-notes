@@ -12,3 +12,7 @@ A proposed comparison session that preserves individual priorities and makes the
 ## Question
 
 When several urban proposals are shown together, which differences help participants reason, and which simply reward the most polished rendering? This exercise asks how to compare access, outdoor space, building distribution, and perceived comfort without collapsing disagreement into one score. The intended unit of discussion is a specific tradeoff linked to a place in the proposal. The question concerns the design of a comparison process, not evidence that any option is preferred.
+
+## Design proposal
+
+Propose three synchronized views using identical camera positions, lighting, scale, and annotation styles. Pair them with a small criteria table whose rows explain how each quantity was obtained. Let participants add a priority and attach a comment to a location. Keep personal rankings separate until discussion ends. The shared record should distinguish measured geometry, participant interpretation, and unresolved questions, so a persuasive comment cannot quietly become a measured fact.
