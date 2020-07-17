@@ -16,3 +16,7 @@ When several urban proposals are shown together, which differences help particip
 ## Design proposal
 
 Propose three synchronized views using identical camera positions, lighting, scale, and annotation styles. Pair them with a small criteria table whose rows explain how each quantity was obtained. Let participants add a priority and attach a comment to a location. Keep personal rankings separate until discussion ends. The shared record should distinguish measured geometry, participant interpretation, and unresolved questions, so a persuasive comment cannot quietly become a measured fact.
+
+## Procedure
+
+Prepare three variants from the same hypothetical site and retain a written account of what changed. Start the session with an individual inspection and a short ranking task. Then invite participants to explain one advantage and one concern for each option. Record comments against stable feature identifiers. Revisit rankings after discussion, preserving the earlier versions. Close by listing missing information that could change a decision rather than forcing the group to select a winner.
