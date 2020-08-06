@@ -20,3 +20,7 @@ Propose three synchronized views using identical camera positions, lighting, sca
 ## Procedure
 
 Prepare three variants from the same hypothetical site and retain a written account of what changed. Start the session with an individual inspection and a short ranking task. Then invite participants to explain one advantage and one concern for each option. Record comments against stable feature identifiers. Revisit rankings after discussion, preserving the earlier versions. Close by listing missing information that could change a decision rather than forcing the group to select a winner.
+
+## Evaluation
+
+Evaluate whether participants can identify the intended design differences and trace a criterion to its measurement. Compare initial and final explanations, recording changes in reasoning without interpreting every change as improvement. Count comments that cannot be attached to a concrete feature and criteria whose definitions generate confusion. Check that dissent remains visible in the session record. Any participant recruitment, sample size, and analysis plan should be decided before collecting study data.
