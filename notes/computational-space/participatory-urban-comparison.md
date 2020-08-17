@@ -24,3 +24,7 @@ Prepare three variants from the same hypothetical site and retain a written acco
 ## Evaluation
 
 Evaluate whether participants can identify the intended design differences and trace a criterion to its measurement. Compare initial and final explanations, recording changes in reasoning without interpreting every change as improvement. Count comments that cannot be attached to a concrete feature and criteria whose definitions generate confusion. Check that dissent remains visible in the session record. Any participant recruitment, sample size, and analysis plan should be decided before collecting study data.
+
+## Limitations and next steps
+
+A small discussion cannot represent a neighborhood, and a synchronized rendering still omits lived conditions such as seasonal use and maintenance. Participants may also avoid disagreement when a designer is present. The next step is to test the materials in a low stakes rehearsal, revise confusing criteria, and identify whose perspective is absent. Later studies should document recruitment, consent, and facilitation choices before making claims about participatory value or community preference.
