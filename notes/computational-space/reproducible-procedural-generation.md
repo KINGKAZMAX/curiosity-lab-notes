@@ -12,3 +12,7 @@ A new reproducibility exercise for procedural spatial studies. It separates dete
 ## Question
 
 What must accompany a generated spatial form so that another person can recreate it and understand an intentional variation? Saving a screenshot or a random seed alone may omit dependencies, input geometry, and generator settings. This exercise asks how to build a compact generation record that distinguishes a repeated run from a new experiment. It also separates reproducibility of the process from the unrelated question of whether the resulting form is useful or desirable.
+
+## Design proposal
+
+Propose a run manifest containing the generator revision, input identifiers and hashes, units, parameter values, random seed, dependency versions, and output filenames. Give every run a stable identifier and keep its manifest beside the geometry and preview. Record any manual edits as subsequent steps with their own files. Define whether reproducibility means identical bytes, equivalent geometry within a tolerance, or matching derived measurements, because these are different promises.
