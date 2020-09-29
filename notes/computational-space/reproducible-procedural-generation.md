@@ -20,3 +20,7 @@ Propose a run manifest containing the generator revision, input identifiers and 
 ## Procedure
 
 Start with a generator using a small parameter set and one explicit source of randomness. Run it twice with the same manifest in a clean working directory, then vary exactly one parameter for a third run. Compare geometry and derived measurements using the declared equivalence rule. Repeat after restarting the host application. Deliberately remove an input and change a dependency version to inspect whether the workflow reports an actionable failure instead of producing an unexplained difference.
+
+## Evaluation
+
+Evaluate whether another person can identify every required input and execute the documented process without relying on the original author's memory. Report exact matches, tolerance based matches, and unexplained differences separately. Check that the intentionally changed parameter produces a traceable new run identifier and manifest difference. Review error messages for missing inputs. Successful regeneration is evidence about the recorded process only; it should not be presented as validation of the design's environmental or social effects.
