@@ -16,3 +16,7 @@ What must accompany a generated spatial form so that another person can recreate
 ## Design proposal
 
 Propose a run manifest containing the generator revision, input identifiers and hashes, units, parameter values, random seed, dependency versions, and output filenames. Give every run a stable identifier and keep its manifest beside the geometry and preview. Record any manual edits as subsequent steps with their own files. Define whether reproducibility means identical bytes, equivalent geometry within a tolerance, or matching derived measurements, because these are different promises.
+
+## Procedure
+
+Start with a generator using a small parameter set and one explicit source of randomness. Run it twice with the same manifest in a clean working directory, then vary exactly one parameter for a third run. Compare geometry and derived measurements using the declared equivalence rule. Repeat after restarting the host application. Deliberately remove an input and change a dependency version to inspect whether the workflow reports an actionable failure instead of producing an unexplained difference.
