@@ -24,3 +24,7 @@ Start with a generator using a small parameter set and one explicit source of ra
 ## Evaluation
 
 Evaluate whether another person can identify every required input and execute the documented process without relying on the original author's memory. Report exact matches, tolerance based matches, and unexplained differences separately. Check that the intentionally changed parameter produces a traceable new run identifier and manifest difference. Review error messages for missing inputs. Successful regeneration is evidence about the recorded process only; it should not be presented as validation of the design's environmental or social effects.
+
+## Limitations and next steps
+
+Floating point operations, geometry kernels, dependency updates, and platform differences can prevent byte identical output even when the underlying method is stable. Seeds also fail to control randomness introduced outside the generator. The next step is to locate those sources explicitly and define tolerances for the measurements that matter. Preserve earlier manifests instead of overwriting them, and document any conversion needed to reopen an archived model in a newer application version.
