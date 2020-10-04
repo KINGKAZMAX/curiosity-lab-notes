@@ -8,3 +8,7 @@ A new model handoff exercise that uses explicit units, reference geometry, and t
 
 - [mrdoob/three.js — external upstream reference for a new exercise](https://github.com/mrdoob/three.js)
 - [google-deepmind/mujoco — external upstream reference for a new exercise](https://github.com/google-deepmind/mujoco)
+
+## Question
+
+How can a model move between a design tool and an interactive scene without silently changing its physical meaning? This exercise focuses on units, axis directions, origin, and scale rather than visual resemblance. A model can appear convincing while a container is interpreted in meters instead of millimeters or a vertical axis becomes horizontal. The question is whether a recipient can detect and explain such errors before performing measurements or arranging objects around the imported geometry.
