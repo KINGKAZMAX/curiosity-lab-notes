@@ -12,3 +12,7 @@ A new model handoff exercise that uses explicit units, reference geometry, and t
 ## Question
 
 How can a model move between a design tool and an interactive scene without silently changing its physical meaning? This exercise focuses on units, axis directions, origin, and scale rather than visual resemblance. A model can appear convincing while a container is interpreted in meters instead of millimeters or a vertical axis becomes horizontal. The question is whether a recipient can detect and explain such errors before performing measurements or arranging objects around the imported geometry.
+
+## Design proposal
+
+Propose a handoff manifest declaring the source unit, target unit, axis convention, origin, and every applied transformation. Include a clearly labeled reference object with known dimensions and an orientation marker. Keep display scaling separate from physical unit conversion. Represent conversions as explicit values in one place, so a transformation is not repeated in both the export script and scene loader. Preserve the unmodified source file alongside the transformed output for later inspection.
