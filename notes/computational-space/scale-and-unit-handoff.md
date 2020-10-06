@@ -16,3 +16,7 @@ How can a model move between a design tool and an interactive scene without sile
 ## Design proposal
 
 Propose a handoff manifest declaring the source unit, target unit, axis convention, origin, and every applied transformation. Include a clearly labeled reference object with known dimensions and an orientation marker. Keep display scaling separate from physical unit conversion. Represent conversions as explicit values in one place, so a transformation is not repeated in both the export script and scene loader. Preserve the unmodified source file alongside the transformed output for later inspection.
+
+## Procedure
+
+Create a test model containing a one meter cube, an elongated object, and asymmetric axis markers. Export it using two documented unit conventions and import each version through the same handoff path. Measure the reference dimensions after import and inspect orientation from multiple views. Introduce a deliberate factor of one thousand error and a swapped axis to test detection. Finally, export the imported geometry again and compare its measurements with the original fixture.
