@@ -20,3 +20,7 @@ Propose a handoff manifest declaring the source unit, target unit, axis conventi
 ## Procedure
 
 Create a test model containing a one meter cube, an elongated object, and asymmetric axis markers. Export it using two documented unit conventions and import each version through the same handoff path. Measure the reference dimensions after import and inspect orientation from multiple views. Introduce a deliberate factor of one thousand error and a swapped axis to test detection. Finally, export the imported geometry again and compare its measurements with the original fixture.
+
+## Evaluation
+
+Check reference lengths, bounding dimensions, orientation, and relative positions before assessing appearance. Report numerical differences in the declared physical unit and compare them with an explicit tolerance. Verify that the deliberately incorrect fixtures fail with understandable messages. Inspect whether a second import applies the conversion twice. A successful handoff should let another person explain the transformation chain from the manifest, without guessing from object size or manually resizing the viewport until the model looks right.
