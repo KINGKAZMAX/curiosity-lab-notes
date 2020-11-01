@@ -24,3 +24,7 @@ Create a test model containing a one meter cube, an elongated object, and asymme
 ## Evaluation
 
 Check reference lengths, bounding dimensions, orientation, and relative positions before assessing appearance. Report numerical differences in the declared physical unit and compare them with an explicit tolerance. Verify that the deliberately incorrect fixtures fail with understandable messages. Inspect whether a second import applies the conversion twice. A successful handoff should let another person explain the transformation chain from the manifest, without guessing from object size or manually resizing the viewport until the model looks right.
+
+## Limitations and next steps
+
+Complex files may contain nested transformations, mixed units, instanced geometry, or geospatial coordinates far from the local origin. The simple fixture does not cover all of these cases. The external rendering and simulation engines retain their own conventions, which must be checked before implementing an exchange. Next, add a nested instance and an offset origin to the test set, then document how precision and accumulated transformations affect measurements before attempting a larger multi tool exchange.
