@@ -8,3 +8,7 @@ A new navigation exercise inspired by public spatial projects. Proposed routes, 
 
 - [mrdoob/three.js — external upstream reference for a new exercise](https://github.com/mrdoob/three.js)
 - [godotengine/godot — external upstream reference for a new exercise](https://github.com/godotengine/godot)
+
+## Question
+
+What information helps someone recover their orientation after entering an unfamiliar digital environment? This exercise focuses on a short route between three named destinations rather than open exploration. It asks whether persistent landmarks, a visible destination label, and a return point reduce uncertainty about where to go next. The study should distinguish a wrong turn from a control mistake, because difficulty moving the camera can otherwise be mistaken for difficulty understanding the space.
