@@ -16,3 +16,7 @@ What information helps someone recover their orientation after entering an unfam
 ## Design proposal
 
 Propose a navigation layer with three independent aids: recognizable landmarks in the scene, a compact overview showing current position, and a route list written in plain language. Each destination receives one stable name across all views. Add a clearly labeled return action that restores a known orientation. Avoid revealing every aid at once during comparison; the interface should support controlled variants so the contribution of each aid can be inspected separately.
+
+## Procedure
+
+Construct a small test environment with two junctions, one plausible wrong turn, and three visually distinct landmarks. Write a destination task that does not disclose the route. Verify the task first with keyboard controls and then with pointer controls. Run a rehearsal using landmarks alone, followed by variants adding the overview or route list. Log position, destination changes, recovery actions, and requests for assistance without collecting unrelated browsing activity or personal information.
