@@ -20,3 +20,7 @@ Propose a navigation layer with three independent aids: recognizable landmarks i
 ## Procedure
 
 Construct a small test environment with two junctions, one plausible wrong turn, and three visually distinct landmarks. Write a destination task that does not disclose the route. Verify the task first with keyboard controls and then with pointer controls. Run a rehearsal using landmarks alone, followed by variants adding the overview or route list. Log position, destination changes, recovery actions, and requests for assistance without collecting unrelated browsing activity or personal information.
+
+## Evaluation
+
+Measure successful arrival, incorrect junction choices, time spent stationary at decisions, and use of the return action. Review these traces together with a short explanation of the route from the participant. A faster completion time alone is insufficient if the participant cannot describe their location afterward. Mark control failures separately from orientation failures. Compare variants only when task distance, destination wording, and starting camera position remain equivalent across the planned trials.
