@@ -24,3 +24,7 @@ Construct a small test environment with two junctions, one plausible wrong turn,
 ## Evaluation
 
 Measure successful arrival, incorrect junction choices, time spent stationary at decisions, and use of the return action. Review these traces together with a short explanation of the route from the participant. A faster completion time alone is insufficient if the participant cannot describe their location afterward. Mark control failures separately from orientation failures. Compare variants only when task distance, destination wording, and starting camera position remain equivalent across the planned trials.
+
+## Limitations and next steps
+
+A compact digital route does not reproduce real mobility, environmental hazards, or the needs of every visitor. Distinctive colors may also fail as landmarks for some viewers, so shape and text should carry the same identity. The external engine references retain their authorship; the proposed route and fixtures are a new exercise. Next, test alternate landmark forms and provide a complete route list that can be used without manipulating a three dimensional scene.
