@@ -8,3 +8,7 @@ A new engineering exercise for balancing rendering cost and useful interaction. 
 
 - [mrdoob/three.js — external upstream reference for a new exercise](https://github.com/mrdoob/three.js)
 - [pmndrs/react-three-fiber — external upstream reference for a new exercise](https://github.com/pmndrs/react-three-fiber)
+
+## Question
+
+Which visual costs should be reduced first when a spatial interface becomes difficult to operate on a modest device? This exercise treats performance as part of interaction rather than a final optimization pass. It asks how to maintain responsive selection, readable labels, and predictable camera movement while controlling geometry, texture, and effect costs. The relevant question is not the highest possible frame rate, but whether the essential task remains usable under a clearly documented workload.
