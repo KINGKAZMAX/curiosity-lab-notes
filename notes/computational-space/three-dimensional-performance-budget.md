@@ -12,3 +12,7 @@ A new engineering exercise for balancing rendering cost and useful interaction. 
 ## Question
 
 Which visual costs should be reduced first when a spatial interface becomes difficult to operate on a modest device? This exercise treats performance as part of interaction rather than a final optimization pass. It asks how to maintain responsive selection, readable labels, and predictable camera movement while controlling geometry, texture, and effect costs. The relevant question is not the highest possible frame rate, but whether the essential task remains usable under a clearly documented workload.
+
+## Design proposal
+
+Propose separate budgets for initial loading, steady rendering, and interaction response. Begin with a provisional target of a 33 millisecond frame time during a representative camera route, then revise it against actual measurements and task requirements. Identify essential content and optional effects before reducing quality. Provide explicit quality presets and record which features each preset changes. An automatic adjustment should expose its current setting and avoid changing geometry needed to interpret the task.
