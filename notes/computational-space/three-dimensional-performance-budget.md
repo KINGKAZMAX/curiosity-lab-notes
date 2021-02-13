@@ -16,3 +16,7 @@ Which visual costs should be reduced first when a spatial interface becomes diff
 ## Design proposal
 
 Propose separate budgets for initial loading, steady rendering, and interaction response. Begin with a provisional target of a 33 millisecond frame time during a representative camera route, then revise it against actual measurements and task requirements. Identify essential content and optional effects before reducing quality. Provide explicit quality presets and record which features each preset changes. An automatic adjustment should expose its current setting and avoid changing geometry needed to interpret the task.
+
+## Procedure
+
+Choose one repeatable scene route and a fixed sequence of selection actions. Record the device, browser, viewport, asset versions, and quality preset for every run. Measure a baseline before changing anything. Then vary one cost category at a time: texture resolution, visible object count, shadows, or postprocessing. Include a cold load and a repeated load. Save timing distributions and screenshots so a faster variant can also be checked for lost information.
