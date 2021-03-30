@@ -24,3 +24,7 @@ Choose one repeatable scene route and a fixed sequence of selection actions. Rec
 ## Evaluation
 
 Compare median and slow frame times, input response during motion, initial transfer size, and the duration until essential controls become usable. Inspect visual differences at the same camera positions. Reject a performance improvement that removes a necessary label or makes a selectable object ambiguous. Repeat promising changes to distinguish stable gains from a lucky run. Report the tested device conditions alongside the numbers instead of describing one machine's result as universal performance.
+
+## Limitations and next steps
+
+Browser measurements vary with power settings, background activity, thermal conditions, and network state. A numeric budget therefore supports comparison rather than guaranteeing every visitor's experience. The external rendering libraries are implementation references, and this exercise makes no performance claims about their current releases. Next, select a small device matrix and automate the fixed camera route where practical. Keep the resulting measurements separate from assumptions about audience hardware or accessibility needs.
