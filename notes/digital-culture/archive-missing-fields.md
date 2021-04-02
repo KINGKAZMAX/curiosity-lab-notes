@@ -8,3 +8,7 @@ A new archive quality exercise for distinguishing unknown, unrecorded, disputed,
 
 - [d3/d3 — external upstream reference for a new exercise](https://github.com/d3/d3)
 - [firecrawl/firecrawl — external upstream reference for a new exercise](https://github.com/firecrawl/firecrawl)
+
+## Question
+
+How should an artwork archive behave when dates, materials, dimensions, attribution, or exhibition context are incomplete? This exercise asks whether missing information can guide careful follow up instead of being hidden behind a polished presentation. It distinguishes an unknown value from a field that was never reviewed and from a field that does not apply. The objective is an honest, workable record, not a complete looking catalogue assembled through plausible guesses.
