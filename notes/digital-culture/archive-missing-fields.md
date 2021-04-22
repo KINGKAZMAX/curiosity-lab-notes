@@ -16,3 +16,7 @@ How should an artwork archive behave when dates, materials, dimensions, attribut
 ## Design proposal
 
 Propose explicit states for missing values: unknown, not yet reviewed, not applicable, and disputed. Pair each state with an optional reason and a source needed for resolution. Keep these states separate from actual field values so search and export do not confuse a missing date with a literal date string. Provide a review queue organized by the practical effect of the gap, such as blocked attribution or an ambiguous version, rather than a universal completeness score.
+
+## Procedure
+
+Create a small set of fictional archive records with deliberately missing fields and inspect only the information their fixture sources support. Mark absent fields without filling them from visual inference. Create a documented follow up task for each important gap, naming the evidence that could resolve it. Test how the records appear in a list, a detail page, and an exported caption. Add a disputed attribution fixture to check that two competing claims are preserved with their sources.
