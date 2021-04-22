@@ -12,3 +12,7 @@ A new archive quality exercise for distinguishing unknown, unrecorded, disputed,
 ## Question
 
 How should an artwork archive behave when dates, materials, dimensions, attribution, or exhibition context are incomplete? This exercise asks whether missing information can guide careful follow up instead of being hidden behind a polished presentation. It distinguishes an unknown value from a field that was never reviewed and from a field that does not apply. The objective is an honest, workable record, not a complete looking catalogue assembled through plausible guesses.
+
+## Design proposal
+
+Propose explicit states for missing values: unknown, not yet reviewed, not applicable, and disputed. Pair each state with an optional reason and a source needed for resolution. Keep these states separate from actual field values so search and export do not confuse a missing date with a literal date string. Provide a review queue organized by the practical effect of the gap, such as blocked attribution or an ambiguous version, rather than a universal completeness score.
