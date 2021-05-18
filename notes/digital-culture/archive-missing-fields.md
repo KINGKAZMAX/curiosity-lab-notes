@@ -24,3 +24,7 @@ Create a small set of fictional archive records with deliberately missing fields
 ## Evaluation
 
 Evaluate whether reviewers can distinguish the missing states and choose a sensible next action. Count cases where an export hides uncertainty or a filter incorrectly excludes incomplete records. Check that resolving a field records the supporting source and does not erase the previous uncertainty. Review usefulness of the task queue rather than rewarding the largest number of populated fields. A smaller archive with traceable facts can be more informative than a fuller one with unsupported values.
+
+## Limitations and next steps
+
+Some gaps may never be resolved, and repeated requests for information can burden contributors. A useful workflow therefore needs a way to close an inquiry as unresolved while preserving its history. Next, agree on a small set of essential fields for the archive's actual purpose and test whether the queue supports maintenance. Do not invent creation dates, materials, artist biographies, or exhibition histories from filenames, stylistic resemblance, or the desire for a consistent layout.
