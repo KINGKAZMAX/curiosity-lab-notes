@@ -8,3 +8,7 @@ A new captioning workflow exercise for cultural audio. It proposes timing, attri
 
 - [huggingface/transformers — external upstream reference for a new exercise](https://github.com/huggingface/transformers)
 - [microsoft/markitdown — external upstream reference for a new exercise](https://github.com/microsoft/markitdown)
+
+## Question
+
+What information is lost when an audio element is unavailable, difficult to hear, or presented in an unfamiliar language? This exercise treats captions and transcripts as part of the exhibit record rather than an optional afterthought. It asks how to preserve spoken content, relevant sounds, speaker changes, and meaningful uncertainty. The goal is equivalent access to the intended information, not a claim that text can reproduce every aesthetic or cultural quality of the recording.
