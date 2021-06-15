@@ -12,3 +12,7 @@ A new captioning workflow exercise for cultural audio. It proposes timing, attri
 ## Question
 
 What information is lost when an audio element is unavailable, difficult to hear, or presented in an unfamiliar language? This exercise treats captions and transcripts as part of the exhibit record rather than an optional afterthought. It asks how to preserve spoken content, relevant sounds, speaker changes, and meaningful uncertainty. The goal is equivalent access to the intended information, not a claim that text can reproduce every aesthetic or cultural quality of the recording.
+
+## Design proposal
+
+Propose synchronized captions for the playback experience and a separate readable transcript for searching and reference. Identify speakers only when the record supports that identification. Describe relevant non speech sounds concisely, and mark uncertain words instead of silently guessing. Keep translation distinct from transcription. Connect both text versions to the exact audio revision and provide a visible way to report a correction without exposing personal contact details in the public exhibit.
