@@ -16,3 +16,7 @@ What information is lost when an audio element is unavailable, difficult to hear
 ## Design proposal
 
 Propose synchronized captions for the playback experience and a separate readable transcript for searching and reference. Identify speakers only when the record supports that identification. Describe relevant non speech sounds concisely, and mark uncertain words instead of silently guessing. Keep translation distinct from transcription. Connect both text versions to the exact audio revision and provide a visible way to report a correction without exposing personal contact details in the public exhibit.
+
+## Procedure
+
+Use an audio sample that is appropriate for the intended review and establish its version identifier. Prepare a first transcription, review unclear segments, and add timestamps after the wording is stable. Check speaker changes and sounds that affect interpretation. Test playback with sound disabled and with the transcript alone. If translation is required, preserve the original language text and record the translator or review role according to the agreed attribution practice.
