@@ -20,3 +20,7 @@ Propose synchronized captions for the playback experience and a separate readabl
 ## Procedure
 
 Use an audio sample that is appropriate for the intended review and establish its version identifier. Prepare a first transcription, review unclear segments, and add timestamps after the wording is stable. Check speaker changes and sounds that affect interpretation. Test playback with sound disabled and with the transcript alone. If translation is required, preserve the original language text and record the translator or review role according to the agreed attribution practice.
+
+## Evaluation
+
+Evaluate text accuracy against the source, timing around phrase boundaries, readability during playback, and whether relevant sounds remain understandable without audio. Test searching for a phrase and navigating to its corresponding segment. Review uncertain passages with someone qualified to assess the language or material when possible. Record unresolved segments explicitly. Automated transcription may assist drafting, but its output should not be described as verified merely because it is complete or fluently worded.
