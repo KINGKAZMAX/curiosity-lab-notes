@@ -24,3 +24,7 @@ Use an audio sample that is appropriate for the intended review and establish it
 ## Evaluation
 
 Evaluate text accuracy against the source, timing around phrase boundaries, readability during playback, and whether relevant sounds remain understandable without audio. Test searching for a phrase and navigating to its corresponding segment. Review uncertain passages with someone qualified to assess the language or material when possible. Record unresolved segments explicitly. Automated transcription may assist drafting, but its output should not be described as verified merely because it is complete or fluently worded.
+
+## Limitations and next steps
+
+Some recordings contain overlapping speech, culturally specific expressions, or sounds whose meaning depends on context. A concise caption may require editorial judgment, and translation can introduce additional uncertainty. The next step is to establish review responsibilities and preserve revision history for corrections. Confirm that the intended publication of recordings and derived text is appropriate for the material. Do not invent speaker identities, missing words, or cultural explanations to make the transcript appear seamless.
