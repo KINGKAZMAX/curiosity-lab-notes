@@ -8,3 +8,7 @@ A proposed documentation workflow for contributions involving community knowledg
 
 - [n8n-io/n8n — external upstream reference for a new exercise](https://github.com/n8n-io/n8n)
 - [mermaid-js/mermaid — external upstream reference for a new exercise](https://github.com/mermaid-js/mermaid)
+
+## Question
+
+How can a digital collection record the conditions under which contributed material may be displayed without treating one approval as permanent permission for every future use? This exercise focuses on a traceable workflow for requests, decisions, restrictions, and later changes. It asks how the publishing team can understand the agreed scope while avoiding unnecessary exposure of personal details. No community permission, ownership arrangement, or entitlement to publish is presumed by the proposed record.
