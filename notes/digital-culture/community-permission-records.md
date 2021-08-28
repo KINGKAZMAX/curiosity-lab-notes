@@ -16,3 +16,7 @@ How can a digital collection record the conditions under which contributed mater
 ## Design proposal
 
 Propose a restricted permission register linked to public items through internal identifiers. Record the contributor's stated role, the material covered, the proposed uses, the decision date, conditions, and a contact route for later questions. Keep public attribution text separate from private contact details. Differentiate a request awaiting response from an affirmative decision. If approval is limited to one version or context, the publishing workflow should make that limit visible before a new derivative is released.
+
+## Procedure
+
+Rehearse the process with fictional administrative records clearly labeled as test data. Create cases for a limited approval, an unanswered request, a changed condition, and a request to stop displaying material. Trace each case from intake to publication review and any necessary update. Check who can access private fields. Draft an understandable explanation of intended use and a correction route, then have someone unfamiliar with the project explain the process back to the team.
