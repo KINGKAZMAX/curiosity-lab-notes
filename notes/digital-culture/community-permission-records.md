@@ -20,3 +20,7 @@ Propose a restricted permission register linked to public items through internal
 ## Procedure
 
 Rehearse the process with fictional administrative records clearly labeled as test data. Create cases for a limited approval, an unanswered request, a changed condition, and a request to stop displaying material. Trace each case from intake to publication review and any necessary update. Check who can access private fields. Draft an understandable explanation of intended use and a correction route, then have someone unfamiliar with the project explain the process back to the team.
+
+## Evaluation
+
+Evaluate whether the team can identify the current decision, its scope, and the items affected by a change without relying on memory. Confirm that unanswered requests cannot be mistaken for approvals and that restricted contact information stays out of public exports. Record ambiguous wording and inconsistent state transitions. A successful rehearsal demonstrates workflow clarity only. It cannot establish that a particular person has authority to authorize use or that the proposed arrangement meets all relevant requirements.
