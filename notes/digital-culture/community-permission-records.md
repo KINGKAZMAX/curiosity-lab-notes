@@ -24,3 +24,7 @@ Rehearse the process with fictional administrative records clearly labeled as te
 ## Evaluation
 
 Evaluate whether the team can identify the current decision, its scope, and the items affected by a change without relying on memory. Confirm that unanswered requests cannot be mistaken for approvals and that restricted contact information stays out of public exports. Record ambiguous wording and inconsistent state transitions. A successful rehearsal demonstrates workflow clarity only. It cannot establish that a particular person has authority to authorize use or that the proposed arrangement meets all relevant requirements.
+
+## Limitations and next steps
+
+Community relationships cannot be reduced to a database entry, and authority may be shared, contextual, or contested. Legal rights and culturally appropriate practice may also require different inquiries. The next step is to review the proposed process with the relevant contributors before using it for actual material. Agree on how conditions will be revisited and how display changes will be handled. Do not describe this administrative design as already obtaining or guaranteeing permission.
