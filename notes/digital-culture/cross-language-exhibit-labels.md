@@ -8,3 +8,7 @@ A new editorial exercise for linked language versions of cultural labels. It pro
 
 - [huggingface/transformers — external upstream reference for a new exercise](https://github.com/huggingface/transformers)
 - [microsoft/markitdown — external upstream reference for a new exercise](https://github.com/microsoft/markitdown)
+
+## Question
+
+How can an exhibit label be readable in another language while preserving the terms, uncertainty, and perspective of its source? This exercise treats translation as an editorial decision that should remain traceable. It asks how readers can move between versions without losing the identity of the object or mistaking a simplified explanation for an exact equivalent. The challenge is especially visible when a culturally specific term has several plausible translations or no direct counterpart.
