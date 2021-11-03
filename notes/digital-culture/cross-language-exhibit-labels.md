@@ -24,3 +24,7 @@ Choose a short label with one specialist term, one uncertain claim, and one prop
 ## Evaluation
 
 Check whether the translated label preserves named entities, qualifications, source attribution, and the distinction between observation and interpretation. Ask reviewers to explain the specialist term from each version and note material differences. Inspect interface behavior for missing labels, changed object identity, or inaccessible source notes after language switching. Back translation can reveal some issues but should not be treated as proof of equivalence. Report unresolved terminology decisions alongside any completed editorial checks.
+
+## Limitations and next steps
+
+Fluent wording can conceal a shift in cultural meaning, and agreement between two reviewers does not represent every speaker or community. The next step is to identify terms that require more informed consultation and document how future corrections will be propagated across languages. Keep source wording available where appropriate and preserve contested alternatives in the terminology record. Do not claim expert validation, community approval, or cultural equivalence before those processes have actually taken place.
