@@ -20,3 +20,7 @@ Propose linked language records sharing one object identifier and one source ref
 ## Procedure
 
 Choose a short label with one specialist term, one uncertain claim, and one proper name. Draft a translation and record the decisions that affect meaning. Ask a reviewer familiar with both languages to compare scope, tone, attribution, and uncertainty rather than only grammar. Test switching languages while viewing the same object and while following a source link. Preserve the original label and make revisions to each language version identifiable instead of silently replacing both.
+
+## Evaluation
+
+Check whether the translated label preserves named entities, qualifications, source attribution, and the distinction between observation and interpretation. Ask reviewers to explain the specialist term from each version and note material differences. Inspect interface behavior for missing labels, changed object identity, or inaccessible source notes after language switching. Back translation can reveal some issues but should not be treated as proof of equivalence. Report unresolved terminology decisions alongside any completed editorial checks.
