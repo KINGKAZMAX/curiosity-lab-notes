@@ -16,3 +16,7 @@ How can an exhibit label be readable in another language while preserving the te
 ## Design proposal
 
 Propose linked language records sharing one object identifier and one source reference. Maintain a small terminology log containing the source term, chosen rendering, alternatives, and an explanation of the choice. Keep original terms visible when they carry important meaning. Distinguish a close translation from an explanatory paraphrase. If versions differ in scope, say so explicitly instead of presenting them as interchangeable text blocks solely because they occupy matching positions in the interface.
+
+## Procedure
+
+Choose a short label with one specialist term, one uncertain claim, and one proper name. Draft a translation and record the decisions that affect meaning. Ask a reviewer familiar with both languages to compare scope, tone, attribution, and uncertainty rather than only grammar. Test switching languages while viewing the same object and while following a source link. Preserve the original label and make revisions to each language version identifiable instead of silently replacing both.
