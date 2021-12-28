@@ -16,3 +16,7 @@ Which contextual details help a visitor understand an object without reducing a 
 ## Design proposal
 
 Propose a short orientation label connected to expandable context fields. Each field should carry a source, a confidence note where needed, and a scope statement such as a documented place or period. Distinguish a source term from the interface's organizational category. Allow unknown and disputed values explicitly. Where a practice changes across communities or time, describe the documented instance rather than assigning an essential meaning to every object with a similar appearance.
+
+## Procedure
+
+Create a fictional exhibit record, label its invented facts clearly, and list which claims the supplied source fields support. Draft a concise label using only those claims, then move necessary qualifications into clearly linked fields. Mark absent information as unknown in the working record. Ask a reviewer to identify broad generalizations, unexplained specialist terms, and details that rely on appearance alone. Test the label without its image to see whether the wording still identifies its scope and source adequately.
