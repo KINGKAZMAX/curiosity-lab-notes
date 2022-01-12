@@ -20,3 +20,7 @@ Propose a short orientation label connected to expandable context fields. Each f
 ## Procedure
 
 Create a fictional exhibit record, label its invented facts clearly, and list which claims the supplied source fields support. Draft a concise label using only those claims, then move necessary qualifications into clearly linked fields. Mark absent information as unknown in the working record. Ask a reviewer to identify broad generalizations, unexplained specialist terms, and details that rely on appearance alone. Test the label without its image to see whether the wording still identifies its scope and source adequately.
+
+## Evaluation
+
+Check whether readers can distinguish the documented instance from a broader tradition and can find the source of a contextual claim. Review how unknown values appear in search results and exported captions so omissions do not become false certainty outside the detail page. Record words that invite unintended universal interpretations. Evaluate the label's clarity and traceability rather than counting how many fields are filled; unsupported completeness would be a worse result than an explicit gap.
