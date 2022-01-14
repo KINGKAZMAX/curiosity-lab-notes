@@ -24,3 +24,7 @@ Create a fictional exhibit record, label its invented facts clearly, and list wh
 ## Evaluation
 
 Check whether readers can distinguish the documented instance from a broader tradition and can find the source of a contextual claim. Review how unknown values appear in search results and exported captions so omissions do not become false certainty outside the detail page. Record words that invite unintended universal interpretations. Evaluate the label's clarity and traceability rather than counting how many fields are filled; unsupported completeness would be a worse result than an explicit gap.
+
+## Limitations and next steps
+
+Even careful labels reflect editorial choices, and terminology can carry different meanings for different audiences. A source may also be outdated or contested. Next, maintain a terminology log with reasons for revisions and seek informed review where the material warrants it. Preserve earlier label versions for internal comparison. Do not automatically replace community terms with a convenient taxonomy, and do not describe unresolved contextual questions as settled merely because the interface requires a category.
