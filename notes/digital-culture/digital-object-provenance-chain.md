@@ -16,3 +16,7 @@ What should a visitor be able to trace when encountering a digital object whose 
 ## Design proposal
 
 Propose a provenance panel containing the source record, capture or acquisition event, transformation history, and current presentation version. Give each stage a stable identifier and identify the responsible role without publishing unnecessary personal information. Keep rights information separate from historical provenance, since knowing a source does not establish permission to reuse it. Display uncertainty at the relevant stage instead of placing one vague disclaimer at the bottom of the page.
+
+## Procedure
+
+Select a small set of materials already appropriate for public reference and create a record for each source. Describe one proposed derivative, such as a resized image or translated label, and connect it to its parent record. Record the transformation method and date. Introduce a deliberately missing source link in a test copy. Follow the chain from exhibit to origin and back, checking that both directions remain understandable without inspecting filenames.
