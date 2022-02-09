@@ -20,3 +20,7 @@ Propose a provenance panel containing the source record, capture or acquisition 
 ## Procedure
 
 Select a small set of materials already appropriate for public reference and create a record for each source. Describe one proposed derivative, such as a resized image or translated label, and connect it to its parent record. Record the transformation method and date. Introduce a deliberately missing source link in a test copy. Follow the chain from exhibit to origin and back, checking that both directions remain understandable without inspecting filenames.
+
+## Evaluation
+
+Ask a reviewer to identify the displayed version, its immediate source, and any documented alterations. Count broken links, unexplained transformations, and statements that imply more certainty than the source supports. Check whether an item with incomplete provenance remains visibly incomplete after export or embedding. A successful record should allow a reader to reconstruct the documented chain; it does not prove that every historical claim within the linked sources is correct.
