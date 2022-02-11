@@ -24,3 +24,7 @@ Select a small set of materials already appropriate for public reference and cre
 ## Evaluation
 
 Ask a reviewer to identify the displayed version, its immediate source, and any documented alterations. Count broken links, unexplained transformations, and statements that imply more certainty than the source supports. Check whether an item with incomplete provenance remains visibly incomplete after export or embedding. A successful record should allow a reader to reconstruct the documented chain; it does not prove that every historical claim within the linked sources is correct.
+
+## Limitations and next steps
+
+Some collections lack complete records, and a digital trail cannot restore evidence that was never documented. Source links can also disappear or change. The next step is to establish a modest preservation policy for permissible source metadata, including retrieval dates and stable identifiers where available. Keep unresolved questions visible and invite corrections through a defined review process. Do not infer ownership, authorship, or authenticity solely from the earliest file found in an archive.
