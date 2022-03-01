@@ -16,3 +16,7 @@ What do visitors remember after leaving an immersive cultural experience, and ho
 ## Design proposal
 
 Propose matched content in an immersive presentation and a straightforward document based presentation. Keep the core object records and explanatory claims equivalent. Collect an immediate free recall response and a later response after a predefined interval, followed by a short interpretation task. Record prior familiarity before exposure. Separate factual accuracy from personal associations, since an unexpected association is not automatically an error and a confidently repeated statement is not automatically accurate.
+
+## Procedure
+
+First, define the exact claims and relationships that the materials are intended to communicate. Prepare a scoring guide before gathering responses and rehearse the tasks without treating rehearsal observations as study findings. Decide the comparison order, interval, recruitment, and consent process in advance. Ask for unprompted recall before showing recognition questions. Keep the later task wording consistent and document any participant exposure to related material between sessions as a possible influence.
