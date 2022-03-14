@@ -20,3 +20,7 @@ Propose matched content in an immersive presentation and a straightforward docum
 ## Procedure
 
 First, define the exact claims and relationships that the materials are intended to communicate. Prepare a scoring guide before gathering responses and rehearse the tasks without treating rehearsal observations as study findings. Decide the comparison order, interval, recruitment, and consent process in advance. Ask for unprompted recall before showing recognition questions. Keep the later task wording consistent and document any participant exposure to related material between sessions as a possible influence.
+
+## Evaluation
+
+Plan to compare accurate recall, unsupported additions, explanation of relationships, and confusion between cultural content and interface features. Have more than one reviewer apply the scoring guide to a subset before interpreting patterns. Examine attrition and prior familiarity rather than assuming the two presentation groups remain comparable. Report uncertainty and contradictory observations. Any eventual conclusion should identify the tested content, audience, and delay instead of generalizing to immersive cultural learning as a whole.
