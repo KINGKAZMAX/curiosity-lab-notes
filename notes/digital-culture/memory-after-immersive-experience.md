@@ -24,3 +24,7 @@ First, define the exact claims and relationships that the materials are intended
 ## Evaluation
 
 Plan to compare accurate recall, unsupported additions, explanation of relationships, and confusion between cultural content and interface features. Have more than one reviewer apply the scoring guide to a subset before interpreting patterns. Examine attrition and prior familiarity rather than assuming the two presentation groups remain comparable. Report uncertainty and contradictory observations. Any eventual conclusion should identify the tested content, audience, and delay instead of generalizing to immersive cultural learning as a whole.
+
+## Limitations and next steps
+
+A short study cannot show durable cultural understanding or represent the meanings an experience may gain over time. Repeated testing can itself affect memory, while a later interview may encourage reconstruction rather than simple retrieval. The next step is to refine the materials and scoring guide, then assess the feasibility of the delayed contact procedure. No retention benefit should be claimed until actual observations and an appropriate analysis support that conclusion.
