@@ -12,3 +12,7 @@ A proposed exhibit writing exercise that keeps interpretations attributable and 
 ## Question
 
 How can a digital exhibit show that an object may be interpreted differently without suggesting that all accounts are interchangeable? This exercise examines the relationship between evidence, interpretation, and the person or institution making a claim. It asks whether visitors can identify whose perspective they are reading and why two accounts differ. The goal is a legible structure for disagreement, not a fabricated balance of opinions or a claim that a community shares one view.
+
+## Design proposal
+
+Propose a shared object record followed by separately attributed interpretation panels. Each panel should state its source, scope, and relationship to the available evidence. Place factual disagreements beside the affected claims rather than burying them in a general note. Include community perspectives only when appropriate source material and permission are available. A missing perspective should appear as a documented gap or question, never as a newly invented quotation that sounds representative.
