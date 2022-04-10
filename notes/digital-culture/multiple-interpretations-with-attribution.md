@@ -20,3 +20,7 @@ Propose a shared object record followed by separately attributed interpretation 
 ## Procedure
 
 Choose one publicly documented item and collect two existing descriptions that can be appropriately referenced. Separate their observations from their interpretations without rewriting either as an opposing position for dramatic effect. Draft a neutral orientation paragraph identifying what both accounts discuss. Add precise source links to each panel. Have a reviewer mark unattributed statements, assumed group identities, and places where the interface makes one interpretation seem final through visual prominence alone.
+
+## Evaluation
+
+Evaluate whether readers can attribute each account, distinguish an observation from an interpretation, and explain the specific point of disagreement. Inspect whether the layout preserves important differences in source quality rather than presenting equal visual space as equal evidential weight. Record misunderstandings and requests for missing context. Do not treat agreement with the curator as success. The relevant outcome is the reader's ability to navigate the documented accounts and their limits.
