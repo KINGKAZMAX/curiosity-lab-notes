@@ -24,3 +24,7 @@ Choose one publicly documented item and collect two existing descriptions that c
 ## Evaluation
 
 Evaluate whether readers can attribute each account, distinguish an observation from an interpretation, and explain the specific point of disagreement. Inspect whether the layout preserves important differences in source quality rather than presenting equal visual space as equal evidential weight. Record misunderstandings and requests for missing context. Do not treat agreement with the curator as success. The relevant outcome is the reader's ability to navigate the documented accounts and their limits.
+
+## Limitations and next steps
+
+Available public descriptions may exclude important voices, and clear attribution does not make an account fair or complete. Translation and editorial selection can also change emphasis. Next, document the selection criteria and identify perspectives that would require further engagement before publication. Any later invitation to contribute should explain how the material will be edited and displayed. Until such work occurs, the exhibit should describe gaps honestly instead of claiming comprehensive or representative coverage.
