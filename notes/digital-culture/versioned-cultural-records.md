@@ -8,3 +8,7 @@ A new archival design exercise for tracking source changes, editorial correction
 
 - [microsoft/markitdown — external upstream reference for a new exercise](https://github.com/microsoft/markitdown)
 - [n8n-io/n8n — external upstream reference for a new exercise](https://github.com/n8n-io/n8n)
+
+## Question
+
+When a cultural record changes, can a reader tell whether the underlying source changed or only the presentation was corrected? This exercise separates object identity, source versions, metadata revisions, and public display versions. It asks how an archive can correct an error without making the earlier state impossible to understand. The aim is a usable account of change, not the assumption that every old version should remain publicly available under every circumstance.
