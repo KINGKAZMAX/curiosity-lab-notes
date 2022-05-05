@@ -12,3 +12,7 @@ A new archival design exercise for tracking source changes, editorial correction
 ## Question
 
 When a cultural record changes, can a reader tell whether the underlying source changed or only the presentation was corrected? This exercise separates object identity, source versions, metadata revisions, and public display versions. It asks how an archive can correct an error without making the earlier state impossible to understand. The aim is a usable account of change, not the assumption that every old version should remain publicly available under every circumstance.
+
+## Design proposal
+
+Propose a stable object identifier with separate version identifiers for files and descriptive records. Every revision should state what changed, why it changed, the responsible role, and its relationship to a source. Keep mechanical edits distinct from interpretive revisions. The public page can show the current version and a concise correction history, while access to earlier files follows the item's conditions. A withdrawn display should retain an appropriate explanation without exposing restricted material.
