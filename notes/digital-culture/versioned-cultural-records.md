@@ -16,3 +16,7 @@ When a cultural record changes, can a reader tell whether the underlying source 
 ## Design proposal
 
 Propose a stable object identifier with separate version identifiers for files and descriptive records. Every revision should state what changed, why it changed, the responsible role, and its relationship to a source. Keep mechanical edits distinct from interpretive revisions. The public page can show the current version and a concise correction history, while access to earlier files follows the item's conditions. A withdrawn display should retain an appropriate explanation without exposing restricted material.
+
+## Procedure
+
+Create a test record and perform four documented changes: correct a spelling error, replace an image derivative, revise a source based claim, and remove a public file from display. Inspect the resulting version links and exports after each change. Ensure that the stable object link continues to resolve sensibly. Compare two descriptive versions and confirm that the explanation identifies the substantive change rather than merely listing a new file timestamp.
