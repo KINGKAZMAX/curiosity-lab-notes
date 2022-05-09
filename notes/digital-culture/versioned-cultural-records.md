@@ -20,3 +20,7 @@ Propose a stable object identifier with separate version identifiers for files a
 ## Procedure
 
 Create a test record and perform four documented changes: correct a spelling error, replace an image derivative, revise a source based claim, and remove a public file from display. Inspect the resulting version links and exports after each change. Ensure that the stable object link continues to resolve sensibly. Compare two descriptive versions and confirm that the explanation identifies the substantive change rather than merely listing a new file timestamp.
+
+## Evaluation
+
+Check whether a reviewer can identify the current version, locate the reason for a correction, and distinguish a changed source from a changed interpretation. Test references that point to a specific version and links that point to the current record. Inspect withdrawn states for accidental exposure through previews or downloads. Evaluate completeness of the documented change path, while recognizing that a technically intact history can still require editorial explanation to be meaningful.
