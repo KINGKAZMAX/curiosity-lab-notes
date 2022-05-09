@@ -24,3 +24,7 @@ Create a test record and perform four documented changes: correct a spelling err
 ## Evaluation
 
 Check whether a reviewer can identify the current version, locate the reason for a correction, and distinguish a changed source from a changed interpretation. Test references that point to a specific version and links that point to the current record. Inspect withdrawn states for accidental exposure through previews or downloads. Evaluate completeness of the documented change path, while recognizing that a technically intact history can still require editorial explanation to be meaningful.
+
+## Limitations and next steps
+
+Preserving every version may conflict with agreed display conditions, privacy concerns, or limits on storage and maintenance. Technical version control also does not establish historical truth. Next, define which metadata should remain visible after a change and which materials require restricted handling. Test the process with a small archive before expanding it. Describe the actual preservation commitment precisely; a revision log alone should not be advertised as permanent preservation or comprehensive cultural stewardship.
