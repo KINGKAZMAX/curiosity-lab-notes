@@ -12,3 +12,7 @@ A new navigation exercise for separating exhibition structure from movement thro
 ## Question
 
 Does a visitor understand the exhibition's organization, or are they merely learning how to move through its digital rooms? This exercise distinguishes thematic orientation from camera navigation. It asks whether a person can find a named object, return to a previous section, and choose another interpretive route without traversing every corridor. Spatial exploration may be enjoyable, but it should not make essential cultural information dependent on mastering a game like movement system.
+
+## Design proposal
+
+Propose three connected navigation routes: a room overview, a thematic contents list, and direct object search. Use consistent names across all routes and show the current section in ordinary text. Provide a return link to the previous object and a route back to the exhibition overview. Suggested sequences should remain optional. Distinguish visited items from recommended items so the interface does not imply that one linear path is the only valid interpretation.
