@@ -16,3 +16,7 @@ Does a visitor understand the exhibition's organization, or are they merely lear
 ## Design proposal
 
 Propose three connected navigation routes: a room overview, a thematic contents list, and direct object search. Use consistent names across all routes and show the current section in ordinary text. Provide a return link to the previous object and a route back to the exhibition overview. Suggested sequences should remain optional. Distinguish visited items from recommended items so the interface does not imply that one linear path is the only valid interpretation.
+
+## Procedure
+
+Prepare a small exhibition outline with several objects distributed across two themes and three rooms. Create tasks that locate an object by name, follow a theme across rooms, and return to an earlier label. Run the tasks with movement controls, then repeat using only the contents list. Intentionally enter through a deep link to test orientation without an introductory tour. Record where room names, theme names, or object titles become inconsistent.
