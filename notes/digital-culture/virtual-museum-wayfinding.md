@@ -20,3 +20,7 @@ Propose three connected navigation routes: a room overview, a thematic contents 
 ## Procedure
 
 Prepare a small exhibition outline with several objects distributed across two themes and three rooms. Create tasks that locate an object by name, follow a theme across rooms, and return to an earlier label. Run the tasks with movement controls, then repeat using only the contents list. Intentionally enter through a deep link to test orientation without an introductory tour. Record where room names, theme names, or object titles become inconsistent.
+
+## Evaluation
+
+Check task completion, incorrect destinations, recovery actions, and whether visitors can describe the exhibition's thematic structure afterward. Compare the information available through direct links with the information encountered during spatial movement. Inspect keyboard reachability and the usefulness of text orientation when the scene is unavailable. Do not judge a route solely by speed: deliberate exploration may be valuable. Record whether the interface allows that choice while keeping requested information easy to locate.
