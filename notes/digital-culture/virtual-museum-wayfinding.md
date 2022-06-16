@@ -24,3 +24,7 @@ Prepare a small exhibition outline with several objects distributed across two t
 ## Evaluation
 
 Check task completion, incorrect destinations, recovery actions, and whether visitors can describe the exhibition's thematic structure afterward. Compare the information available through direct links with the information encountered during spatial movement. Inspect keyboard reachability and the usefulness of text orientation when the scene is unavailable. Do not judge a route solely by speed: deliberate exploration may be valuable. Record whether the interface allows that choice while keeping requested information easy to locate.
+
+## Limitations and next steps
+
+The layout of a simulated building may encourage interpretations that the contents list does not share, and neither route represents every visitor's preference. The proposed rooms and exhibit texts are new fictional fixtures; the linked engines do not imply endorsement by a museum or cultural institution. Next, inspect entry points and navigation with intended audiences, then revise labels that confuse physical rooms with themes. Claims about visitor understanding should wait for documented observations rather than the completion of the interface.
