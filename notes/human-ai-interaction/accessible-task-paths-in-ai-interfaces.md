@@ -12,3 +12,7 @@ A design exercise making a small AI assisted task complete through keyboard, rea
 ## Research question
 
 Can a person complete an AI assisted task without depending on voice input, precise pointer movement, or interpreting color alone? Use a narrow task: select a fictional sample, inspect its source information, and export a plain text summary. The question concerns completion and comprehension across interaction routes. It does not assume that accessibility is a single setting or that one simulated limitation represents a disability. Each barrier should be tied to a concrete control, message, or transition.
+
+## Design proposal
+
+Provide a clear task sequence with semantic labels, visible keyboard focus, and a persistent location indicator. Make every essential action available through the keyboard, while keeping pointer and text entry options. Present status changes in concise text and avoid using animation as the only signal of completion. Give generated summaries headings and a predictable reading order. Preserve the entered request after validation errors, and place an actionable explanation next to the field that requires attention.
