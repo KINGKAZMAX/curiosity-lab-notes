@@ -16,3 +16,7 @@ Can a person complete an AI assisted task without depending on voice input, prec
 ## Design proposal
 
 Provide a clear task sequence with semantic labels, visible keyboard focus, and a persistent location indicator. Make every essential action available through the keyboard, while keeping pointer and text entry options. Present status changes in concise text and avoid using animation as the only signal of completion. Give generated summaries headings and a predictable reading order. Preserve the entered request after validation errors, and place an actionable explanation next to the field that requires attention.
+
+## Procedure
+
+Implement the task with fixed sample data so interface behavior can be tested independently from model variability. Walk through selection, inspection, export, cancellation, and recovery using only the keyboard. Inspect the reading order with a screen reader, enlarge text, and reduce motion. Create one intentional validation error and one delayed response. Record the specific point where focus moves after each action. Repeat the task from a fresh session to detect hidden dependence on prior pointer interactions.
