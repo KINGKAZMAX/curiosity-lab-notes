@@ -20,3 +20,7 @@ Provide a clear task sequence with semantic labels, visible keyboard focus, and 
 ## Procedure
 
 Implement the task with fixed sample data so interface behavior can be tested independently from model variability. Walk through selection, inspection, export, cancellation, and recovery using only the keyboard. Inspect the reading order with a screen reader, enlarge text, and reduce motion. Create one intentional validation error and one delayed response. Record the specific point where focus moves after each action. Repeat the task from a fresh session to detect hidden dependence on prior pointer interactions.
+
+## Evaluation plan
+
+Use a task checklist covering successful completion, discoverability of essential controls, focus continuity, and comprehension of status messages. In a later study with consenting participants, collect descriptions of barriers in their own terms and avoid treating completion time as the sole measure. Separate an inaccessible control from unfamiliar task content. Compare the exported text with the visible summary for missing information. Report which assistive technologies and settings were actually tested rather than claiming universal accessibility from a limited walkthrough.
