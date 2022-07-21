@@ -24,3 +24,7 @@ Implement the task with fixed sample data so interface behavior can be tested in
 ## Evaluation plan
 
 Use a task checklist covering successful completion, discoverability of essential controls, focus continuity, and comprehension of status messages. In a later study with consenting participants, collect descriptions of barriers in their own terms and avoid treating completion time as the sole measure. Separate an inaccessible control from unfamiliar task content. Compare the exported text with the visible summary for missing information. Report which assistive technologies and settings were actually tested rather than claiming universal accessibility from a limited walkthrough.
+
+## Limitations and next steps
+
+Keyboard and screen reader checks are valuable but do not represent all access needs or establish compliance with every applicable standard. The proposed task is deliberately small and may miss barriers in longer conversations. Next, prioritize fixes for blocked essential actions, then invite a broader range of users to evaluate the revised flow. Preserve multiple ways to complete the task rather than assigning a permanent capability profile. The exercise proposes an evaluation process, not an accessibility certification for referenced projects.
