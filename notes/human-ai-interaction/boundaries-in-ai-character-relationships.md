@@ -16,3 +16,7 @@ How can an expressive AI character support enjoyable interaction while making it
 ## Design proposal
 
 Create a short role card explaining that the character is an AI generated persona, what it can remember, and which reminders the person has enabled. Provide visible pause, mute, and leave controls without loss framed as punishment. Write departure messages that acknowledge the choice without guilt or demands for continued contact. Reminder settings should specify purpose, channel, frequency, and an immediate disable action. Persona changes should not silently expand permissions or reactivate reminders that were previously declined.
+
+## Procedure
+
+Prepare paired fictional conversation scripts covering a brief visit, a canceled reminder, a changed persona, and a return after a long absence. In one version, use ambiguous relationship language; in the proposed version, keep warmth while making permissions and exits explicit. Review scripts before exposing them to participants, removing coercive or distressing content. Build the settings flow with deterministic state. Verify that muting survives a restart and that a persona change does not modify existing consent choices.
