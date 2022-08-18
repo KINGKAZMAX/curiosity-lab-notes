@@ -20,3 +20,7 @@ Create a short role card explaining that the character is an AI generated person
 ## Procedure
 
 Prepare paired fictional conversation scripts covering a brief visit, a canceled reminder, a changed persona, and a return after a long absence. In one version, use ambiguous relationship language; in the proposed version, keep warmth while making permissions and exits explicit. Review scripts before exposing them to participants, removing coercive or distressing content. Build the settings flow with deterministic state. Verify that muting survives a restart and that a persona change does not modify existing consent choices.
+
+## Evaluation plan
+
+In a future walkthrough, ask participants to locate the exit, disable a reminder, and explain what the character can remember. Examine whether they interpret any message as an obligation to respond. Use open questions about clarity and comfort alongside observable task completion. Compare understanding of settings before and after a persona change. Avoid presenting a brief interaction as evidence about long term wellbeing. Any study of emotionally sensitive experiences would require a more careful protocol than this interface exercise.
