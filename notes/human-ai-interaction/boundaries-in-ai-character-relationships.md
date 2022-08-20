@@ -24,3 +24,7 @@ Prepare paired fictional conversation scripts covering a brief visit, a canceled
 ## Evaluation plan
 
 In a future walkthrough, ask participants to locate the exit, disable a reminder, and explain what the character can remember. Examine whether they interpret any message as an obligation to respond. Use open questions about clarity and comfort alongside observable task completion. Compare understanding of settings before and after a persona change. Avoid presenting a brief interaction as evidence about long term wellbeing. Any study of emotionally sensitive experiences would require a more careful protocol than this interface exercise.
+
+## Limitations and next steps
+
+Short scripts cannot reproduce the meaning that develops during extended use, and different users may interpret the same character language differently. Clear settings alone cannot address every concern about AI companionship. Next, inspect reminder defaults and return messages across the entire product flow, including notifications outside the chat screen. Document which design choices are proposals and which have been tested. References here motivate the character interaction context; they do not verify that the linked projects use the proposed boundary mechanisms.
