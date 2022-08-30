@@ -8,3 +8,7 @@ A proposed interface study of appropriate reliance on AI suggestions using ficti
 
 - [huggingface/transformers — external upstream reference for a new exercise](https://github.com/huggingface/transformers)
 - [excalidraw/excalidraw — external upstream reference for a new exercise](https://github.com/excalidraw/excalidraw)
+
+## Research question
+
+Can an interface help people distinguish a useful suggestion from a suggestion that lacks enough evidence? Use a fictional exhibition planning task rather than a consequential real decision. Some recommendations have complete source cards, while others depend on missing room dimensions or outdated schedules. The research question concerns appropriate reliance: accepting supported suggestions, checking uncertain ones, and declining unsuitable ones. It does not ask whether participants simply report liking the assistant or believing that it sounds confident.
