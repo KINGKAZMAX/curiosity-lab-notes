@@ -12,3 +12,7 @@ A proposed interface study of appropriate reliance on AI suggestions using ficti
 ## Research question
 
 Can an interface help people distinguish a useful suggestion from a suggestion that lacks enough evidence? Use a fictional exhibition planning task rather than a consequential real decision. Some recommendations have complete source cards, while others depend on missing room dimensions or outdated schedules. The research question concerns appropriate reliance: accepting supported suggestions, checking uncertain ones, and declining unsuitable ones. It does not ask whether participants simply report liking the assistant or believing that it sounds confident.
+
+## Design proposal
+
+Design a recommendation card that separates the suggestion, supporting observations, assumptions, and unresolved inputs. Avoid an invented numerical confidence score. Instead, show concrete statements such as a missing dimension or a source date that needs checking. Place a verify action beside each unresolved input and a revise action beside the proposed plan. Keep the visual weight of the recommendation consistent across evidence conditions, so stronger typography does not accidentally become a substitute for stronger support.
