@@ -16,3 +16,7 @@ Can an interface help people distinguish a useful suggestion from a suggestion t
 ## Design proposal
 
 Design a recommendation card that separates the suggestion, supporting observations, assumptions, and unresolved inputs. Avoid an invented numerical confidence score. Instead, show concrete statements such as a missing dimension or a source date that needs checking. Place a verify action beside each unresolved input and a revise action beside the proposed plan. Keep the visual weight of the recommendation consistent across evidence conditions, so stronger typography does not accidentally become a substitute for stronger support.
+
+## Procedure
+
+Prepare twelve fictional planning cases with an answer key describing which inputs are sufficient. Build two interface variants: a concise recommendation alone and the same recommendation with structured evidence. Keep wording, task complexity, and available actions consistent. Counterbalance case order in a future study, and provide a practice case first. Log which source cards are opened and whether the final plan incorporates an unsupported assumption. Do not introduce real venue information or represent fabricated sources as authentic records.
