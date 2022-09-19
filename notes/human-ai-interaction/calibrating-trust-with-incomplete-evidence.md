@@ -20,3 +20,7 @@ Design a recommendation card that separates the suggestion, supporting observati
 ## Procedure
 
 Prepare twelve fictional planning cases with an answer key describing which inputs are sufficient. Build two interface variants: a concise recommendation alone and the same recommendation with structured evidence. Keep wording, task complexity, and available actions consistent. Counterbalance case order in a future study, and provide a practice case first. Log which source cards are opened and whether the final plan incorporates an unsupported assumption. Do not introduce real venue information or represent fabricated sources as authentic records.
+
+## Evaluation plan
+
+Evaluate supported acceptance, unsupported acceptance, appropriate checking, and unnecessary checking separately. Report completion time alongside these outcomes because slowing every decision is not automatically an improvement. Ask participants to explain one accepted and one rejected recommendation in their own words. Compare those explanations with the case evidence rather than judging their attitude toward AI. A later analysis should disclose sample size and task order, and should treat exploratory differences as hypotheses until an adequately planned study is conducted.
