@@ -24,3 +24,7 @@ Prepare twelve fictional planning cases with an answer key describing which inpu
 ## Evaluation plan
 
 Evaluate supported acceptance, unsupported acceptance, appropriate checking, and unnecessary checking separately. Report completion time alongside these outcomes because slowing every decision is not automatically an improvement. Ask participants to explain one accepted and one rejected recommendation in their own words. Compare those explanations with the case evidence rather than judging their attitude toward AI. A later analysis should disclose sample size and task order, and should treat exploratory differences as hypotheses until an adequately planned study is conducted.
+
+## Limitations and next steps
+
+The controlled cases simplify how people evaluate expertise, deadlines, and conflicting sources in everyday work. Evidence cards may also invite superficial scanning instead of thoughtful verification. Next, test whether participants can notice a contradiction between two sources and whether the interface clearly communicates that the conflict remains unresolved. The linked repositories inspire questions about interaction and evidence; they do not establish that this particular calibration interface exists or has already improved decision quality.
