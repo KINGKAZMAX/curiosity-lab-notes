@@ -12,3 +12,7 @@ A prospective design exercise separating conversational context from persistent 
 ## Research question
 
 How might a character interface ask permission to remember something without making every conversation feel like a form? This exercise distinguishes temporary context, a suggested memory, and a confirmed memory. A fictional conversation about a preferred nickname provides a low sensitivity test case. The central question is whether people can predict what will persist after closing the session, identify who can use that information, and revoke permission without searching through unrelated account settings.
+
+## Design proposal
+
+Prototype a memory suggestion card beside the relevant message. It contains the exact proposed text, its intended use, a persistence period, and three equally visible actions: save, edit before saving, or keep for this session. A separate memory drawer shows confirmed items with their origin and expiration. Deletion should remove the item from subsequent retrieval in the prototype. The design must distinguish removing stored content from removing previously displayed conversation text, because those are different operations.
