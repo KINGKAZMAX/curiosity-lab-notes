@@ -16,3 +16,7 @@ How might a character interface ask permission to remember something without mak
 ## Design proposal
 
 Prototype a memory suggestion card beside the relevant message. It contains the exact proposed text, its intended use, a persistence period, and three equally visible actions: save, edit before saving, or keep for this session. A separate memory drawer shows confirmed items with their origin and expiration. Deletion should remove the item from subsequent retrieval in the prototype. The design must distinguish removing stored content from removing previously displayed conversation text, because those are different operations.
+
+## Procedure
+
+Create six scripted conversations using fictional preferences. Include an obvious preference, a passing remark, a correction, a third party detail, an explicit refusal, and an expired memory. Implement the flows with deterministic local data before connecting any model. Walk through saving, editing, refusing, inspecting, and deleting each item. Restart the interface between selected steps to test persistence boundaries. Record expected state transitions alongside screenshots, and use conspicuous sample labels so nobody mistakes the examples for personal records.
