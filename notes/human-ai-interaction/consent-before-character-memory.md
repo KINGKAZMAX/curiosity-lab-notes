@@ -24,3 +24,7 @@ Create six scripted conversations using fictional preferences. Include an obviou
 ## Evaluation plan
 
 In a future usability session, ask participants to predict the stored state before opening the drawer. Compare their predictions with the prototype state, then ask them to remove one item and explain the effect. Track prediction accuracy, time to locate deletion, unintended saves, and recovery from a mistaken save. Use a short comprehension question about the persistence period. Qualitative comments should identify ambiguous labels; they should not be presented as evidence of long term relationship outcomes.
+
+## Limitations and next steps
+
+A deterministic prototype cannot establish how reliably a deployed model obeys memory boundaries or how deletion propagates through backups. This exercise also excludes sensitive personal information and shared accounts. Next, specify retrieval tests that prove deleted entries cannot influence subsequent responses in the controlled environment. Review consent wording separately from interaction speed. Any later implementation should document its actual storage architecture and retention behavior before making promises about erasure or portability to users.
