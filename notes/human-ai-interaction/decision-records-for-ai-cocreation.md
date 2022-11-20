@@ -16,3 +16,7 @@ When a design emerges through repeated exchanges with an AI system, how can a la
 ## Design proposal
 
 Create a decision panel containing the current question, candidate options, evaluation criteria, selected option, and a short rationale entered or confirmed by the designer. Link each candidate to a visible artifact version rather than only to a chat message. Provide an explicit undecided status and permit a decision to be superseded without deleting its predecessor. AI generated suggestions should carry an origin label; the record should distinguish generating an option, modifying it, and approving it for the next iteration.
+
+## Procedure
+
+Construct three rounds of a fictional design exercise. Begin with a room arrangement, introduce a circulation constraint, then change the intended group size. Save each artifact with a stable identifier. After every round, create one decision record and link it to the relevant alternatives. Deliberately revisit an earlier decision to test supersession. Ask a collaborator in a future walkthrough to reconstruct the sequence from the records alone, with the full transcript withheld until the reconstruction is complete.
