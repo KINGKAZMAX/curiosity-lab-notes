@@ -24,3 +24,7 @@ Construct three rounds of a fictional design exercise. Begin with a room arrange
 ## Evaluation plan
 
 Assess whether the reader can identify the current decision, the person who approved it, the rejected alternative, and the constraint that motivated a revision. Measure missing links and contradictory statuses as concrete documentation defects. Track the time required to create records so the system does not turn minor edits into administrative work. Compare reconstruction with and without the panel using matched scenarios. Treat subjective satisfaction as supplementary information, separate from the accuracy of reconstructed decision history.
+
+## Limitations and next steps
+
+A decision panel can record stated reasons but cannot prove that those reasons caused a choice. Designers may also rationalize decisions after the event, especially when a record is created retrospectively. Next, add separate fields for the decision date and documentation date, allowing either to remain unknown. Explore lightweight capture at natural review points rather than after every keystroke. The exercise should preserve disagreement between collaborators instead of compressing all perspectives into a single authoritative account.
