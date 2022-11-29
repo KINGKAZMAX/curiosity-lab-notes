@@ -20,3 +20,7 @@ Create a decision panel containing the current question, candidate options, eval
 ## Procedure
 
 Construct three rounds of a fictional design exercise. Begin with a room arrangement, introduce a circulation constraint, then change the intended group size. Save each artifact with a stable identifier. After every round, create one decision record and link it to the relevant alternatives. Deliberately revisit an earlier decision to test supersession. Ask a collaborator in a future walkthrough to reconstruct the sequence from the records alone, with the full transcript withheld until the reconstruction is complete.
+
+## Evaluation plan
+
+Assess whether the reader can identify the current decision, the person who approved it, the rejected alternative, and the constraint that motivated a revision. Measure missing links and contradictory statuses as concrete documentation defects. Track the time required to create records so the system does not turn minor edits into administrative work. Compare reconstruction with and without the panel using matched scenarios. Treat subjective satisfaction as supplementary information, separate from the accuracy of reconstructed decision history.
