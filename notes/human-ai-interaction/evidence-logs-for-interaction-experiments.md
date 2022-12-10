@@ -13,3 +13,7 @@ A practical documentation plan for separating observations, proposals, synthetic
 ## Research question
 
 How can a small interaction project keep enough evidence to reconstruct a claim without creating an unmanageable archive? This exercise focuses on a single prototype revision and a fictional walkthrough. The research question concerns traceability: whether another reader can distinguish an observed event, an interpretation, a proposed change, and a synthetic example. It also asks how retrospective documentation should be labeled when the original activity date or supporting artifact is missing, instead of filling those gaps with plausible details.
+
+## Design proposal
+
+Design an evidence entry with a stable identifier, record type, artifact link, capture time, documentation time, author, and verification status. Keep observations separate from interpretations and proposed actions. Allow an unknown activity date and explain why it is unknown. Link a claim to the exact artifact version that supports it, and mark generated examples as synthetic. Provide a supersedes relationship for corrections so readers can follow changes without silently replacing the earlier record or overstating its certainty.
