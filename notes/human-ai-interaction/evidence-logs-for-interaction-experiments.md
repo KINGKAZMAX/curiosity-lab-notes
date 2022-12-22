@@ -17,3 +17,7 @@ How can a small interaction project keep enough evidence to reconstruct a claim 
 ## Design proposal
 
 Design an evidence entry with a stable identifier, record type, artifact link, capture time, documentation time, author, and verification status. Keep observations separate from interpretations and proposed actions. Allow an unknown activity date and explain why it is unknown. Link a claim to the exact artifact version that supports it, and mark generated examples as synthetic. Provide a supersedes relationship for corrections so readers can follow changes without silently replacing the earlier record or overstating its certainty.
+
+## Procedure
+
+Create a miniature evidence bundle containing one interface screenshot, one scripted event log, one design proposal, and one intentionally incomplete note. Use fictional data and label the bundle as an exercise. Write entries that connect each claim to its supporting material. Change the prototype once, preserve both artifact versions, and update the relevant entry through a correction record. Ask a future reviewer to reconstruct what changed and identify which statements remain unverified using only the bundle.
