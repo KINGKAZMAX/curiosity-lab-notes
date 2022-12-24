@@ -21,3 +21,7 @@ Design an evidence entry with a stable identifier, record type, artifact link, c
 ## Procedure
 
 Create a miniature evidence bundle containing one interface screenshot, one scripted event log, one design proposal, and one intentionally incomplete note. Use fictional data and label the bundle as an exercise. Write entries that connect each claim to its supporting material. Change the prototype once, preserve both artifact versions, and update the relevant entry through a correction record. Ask a future reviewer to reconstruct what changed and identify which statements remain unverified using only the bundle.
+
+## Evaluation plan
+
+Evaluate whether each factual statement resolves to an accessible artifact, whether timestamps distinguish capture from later documentation, and whether synthetic material is unmistakable. Count broken links, unsupported claims, ambiguous record types, and contradictions between versions. Measure the effort required to create and review the bundle. A later usability study could compare a structured log with an ordinary folder of files, but this notebook should report no such result until the comparison has actually been conducted.
