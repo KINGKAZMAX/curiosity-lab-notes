@@ -25,3 +25,7 @@ Create a miniature evidence bundle containing one interface screenshot, one scri
 ## Evaluation plan
 
 Evaluate whether each factual statement resolves to an accessible artifact, whether timestamps distinguish capture from later documentation, and whether synthetic material is unmistakable. Count broken links, unsupported claims, ambiguous record types, and contradictions between versions. Measure the effort required to create and review the bundle. A later usability study could compare a structured log with an ordinary folder of files, but this notebook should report no such result until the comparison has actually been conducted.
+
+## Limitations and next steps
+
+An orderly log cannot establish that an artifact is truthful, complete, or ethically collected. It can only make the basis of a claim easier to inspect. Next, define who may access each artifact and what personal information should be excluded or removed. Add integrity checks for local files while recognizing that a matching checksum proves consistency rather than authenticity. For retrospective project archives, retain the present documentation date and explicitly distinguish it from any independently supported historical activity date.
