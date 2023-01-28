@@ -16,3 +16,7 @@ What information helps someone check a recommendation without forcing them to re
 ## Design proposal
 
 Offer a compact explanation containing relevant inputs, the applicable selection rule, the supporting source card, and one unresolved assumption when present. Let users edit an input directly from the explanation and preview how the recommendation changes. Distinguish a documented rule from a model generated justification. Keep the original recommendation visible while the explanation is expanded. A source link should open the specific supporting passage in the prototype dataset, not an unrelated homepage that merely appears authoritative.
+
+## Procedure
+
+Construct eight fictional recommendation cases using a transparent rule table. Include two cases where a source does not support the displayed claim and two where a changed preference should alter the result. Build short and expanded explanation views with identical underlying data. Have reviewers check that every cited passage matches its claim before the walkthrough. Then introduce the planned inconsistencies in a separate test fixture. Label all case materials as synthetic and preserve the clean fixture for comparison.
