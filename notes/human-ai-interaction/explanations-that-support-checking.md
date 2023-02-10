@@ -20,3 +20,7 @@ Offer a compact explanation containing relevant inputs, the applicable selection
 ## Procedure
 
 Construct eight fictional recommendation cases using a transparent rule table. Include two cases where a source does not support the displayed claim and two where a changed preference should alter the result. Build short and expanded explanation views with identical underlying data. Have reviewers check that every cited passage matches its claim before the walkthrough. Then introduce the planned inconsistencies in a separate test fixture. Label all case materials as synthetic and preserve the clean fixture for comparison.
+
+## Evaluation plan
+
+Ask future participants to identify why an item was suggested, detect unsupported claims, and revise one preference to obtain an appropriate alternative. Score answers against the rule table and source passages. Measure explanation openings, successful corrections, and instances where a polished explanation increases acceptance of an incorrect result. Compare short and expanded views without assuming that more text is better. Collect comments about what information was missing, and distinguish accurate understanding from confidence in the system.
