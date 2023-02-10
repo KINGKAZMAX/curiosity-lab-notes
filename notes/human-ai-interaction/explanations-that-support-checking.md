@@ -24,3 +24,7 @@ Construct eight fictional recommendation cases using a transparent rule table. I
 ## Evaluation plan
 
 Ask future participants to identify why an item was suggested, detect unsupported claims, and revise one preference to obtain an appropriate alternative. Score answers against the rule table and source passages. Measure explanation openings, successful corrections, and instances where a polished explanation increases acceptance of an incorrect result. Compare short and expanded views without assuming that more text is better. Collect comments about what information was missing, and distinguish accurate understanding from confidence in the system.
+
+## Limitations and next steps
+
+A rule based fixture makes evaluation possible but does not represent the complexity of open ended model outputs. Explanations generated after a recommendation may be plausible without faithfully describing its production. Next, separate factual provenance from explanatory wording in the data model and require explicit labels for unsupported assumptions. Evaluate whether edited inputs actually affect subsequent recommendations. This notebook proposes a checking interface and controlled study; it does not claim interpretability guarantees or existing functionality in the reference projects.
