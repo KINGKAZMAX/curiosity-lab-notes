@@ -16,3 +16,7 @@ When someone interrupts a spoken response, are they asking the system to stop, c
 ## Design proposal
 
 Represent listening, preparing, speaking, and interrupted states with text labels as well as visual indicators. Offer a persistent stop playback control that works independently from speech recognition. After interruption, retain the previous request as a visible draft and let the person choose to correct it or start again. Show when audio capture is active and provide a text input alternative. Do not automatically interpret every sound as an instruction, or treat silence as permission to resume a canceled response.
+
+## Procedure
+
+Build a local playback prototype with prerecorded synthetic speech and scripted transcript inputs. Test interruptions near the beginning, middle, and end of a response. Inject acknowledgment delays of different lengths and label them as experimental conditions rather than measured service performance. Include a correction, a complete topic change, and a noninstruction sound. Verify that stop playback works without microphone permission. Store event timestamps and selected actions; avoid collecting real microphone recordings by default during the initial exercise.
