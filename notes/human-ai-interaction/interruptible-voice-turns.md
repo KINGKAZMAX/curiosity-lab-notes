@@ -20,3 +20,7 @@ Represent listening, preparing, speaking, and interrupted states with text label
 ## Procedure
 
 Build a local playback prototype with prerecorded synthetic speech and scripted transcript inputs. Test interruptions near the beginning, middle, and end of a response. Inject acknowledgment delays of different lengths and label them as experimental conditions rather than measured service performance. Include a correction, a complete topic change, and a noninstruction sound. Verify that stop playback works without microphone permission. Store event timestamps and selected actions; avoid collecting real microphone recordings by default during the initial exercise.
+
+## Evaluation plan
+
+Measure time from an interruption action to audible playback stopping, then separately measure time to a visible acknowledgment. Ask future participants whether the prior request remains active and what will happen if they press continue. Count unintended resumptions, repeated requests, and corrections applied to the wrong draft. Compare speech interruption with the dedicated stop control. Review transcripts only when participants have explicitly agreed to recording, and keep conversational usability findings separate from claims about speech recognition accuracy.
