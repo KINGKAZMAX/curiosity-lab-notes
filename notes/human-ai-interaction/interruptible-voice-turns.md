@@ -24,3 +24,7 @@ Build a local playback prototype with prerecorded synthetic speech and scripted 
 ## Evaluation plan
 
 Measure time from an interruption action to audible playback stopping, then separately measure time to a visible acknowledgment. Ask future participants whether the prior request remains active and what will happen if they press continue. Count unintended resumptions, repeated requests, and corrections applied to the wrong draft. Compare speech interruption with the dedicated stop control. Review transcripts only when participants have explicitly agreed to recording, and keep conversational usability findings separate from claims about speech recognition accuracy.
+
+## Limitations and next steps
+
+Synthetic voices and scripted input cannot capture overlapping speakers, accents, background noise, or the social awkwardness of interrupting a character. The prototype also cannot establish end to end performance for a production service. Next, test the state transitions with assistive input methods and clarify whether interrupted responses are retained or discarded. Any later microphone study should define recording consent and deletion procedures. The linked projects provide a character interaction context, not evidence that these interruption controls already exist.
