@@ -8,3 +8,7 @@ A nonclinical interface exercise for distinguishing observation quality, simulat
 
 - [d3/d3 — external upstream reference for a new exercise](https://github.com/d3/d3)
 - [excalidraw/excalidraw — external upstream reference for a new exercise](https://github.com/excalidraw/excalidraw)
+
+## Research question
+
+How should a movement related prototype communicate that an observation is incomplete without turning uncertainty into a diagnosis? Use prerecorded synthetic landmark sequences and fictional device states. The research question concerns what users understand about the display: whether it is showing a captured observation, a simulated signal, or an unavailable result. The exercise excludes treatment decisions, exercise prescriptions, and claims about recovery. It asks whether the interface supports accurate interpretation of its own limited data quality.
