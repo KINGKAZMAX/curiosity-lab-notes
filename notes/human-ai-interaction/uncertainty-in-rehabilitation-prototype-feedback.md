@@ -12,3 +12,7 @@ A nonclinical interface exercise for distinguishing observation quality, simulat
 ## Research question
 
 How should a movement related prototype communicate that an observation is incomplete without turning uncertainty into a diagnosis? Use prerecorded synthetic landmark sequences and fictional device states. The research question concerns what users understand about the display: whether it is showing a captured observation, a simulated signal, or an unavailable result. The exercise excludes treatment decisions, exercise prescriptions, and claims about recovery. It asks whether the interface supports accurate interpretation of its own limited data quality.
+
+## Design proposal
+
+Separate the screen into observation status, signal provenance, and interface guidance. Display clear states such as visible landmarks, insufficient visibility, and simulation mode. Show the time of the latest usable sample and avoid substituting a reassuring score when data are absent. Guidance should concern operating the demonstration, such as checking camera permission or selecting a sample recording. Keep any simulated sensor channel visibly labeled throughout the interaction, including charts, exports, and error states.
