@@ -16,3 +16,7 @@ How should a movement related prototype communicate that an observation is incom
 ## Design proposal
 
 Separate the screen into observation status, signal provenance, and interface guidance. Display clear states such as visible landmarks, insufficient visibility, and simulation mode. Show the time of the latest usable sample and avoid substituting a reassuring score when data are absent. Guidance should concern operating the demonstration, such as checking camera permission or selecting a sample recording. Keep any simulated sensor channel visibly labeled throughout the interaction, including charts, exports, and error states.
+
+## Procedure
+
+Create a synthetic sequence library covering complete observations, occlusion, missing frames, and frozen input. Label every sequence as simulated and attach its intended interface state. Run each through a local visualization without making clinical classifications. Capture what appears when the input changes abruptly or stops. Test the same sequence in the main view, compact view, and exported report. Check that labels survive those transitions and that no default placeholder appears as a measured value.
