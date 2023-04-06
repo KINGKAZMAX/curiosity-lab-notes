@@ -20,3 +20,7 @@ Separate the screen into observation status, signal provenance, and interface gu
 ## Procedure
 
 Create a synthetic sequence library covering complete observations, occlusion, missing frames, and frozen input. Label every sequence as simulated and attach its intended interface state. Run each through a local visualization without making clinical classifications. Capture what appears when the input changes abruptly or stops. Test the same sequence in the main view, compact view, and exported report. Check that labels survive those transitions and that no default placeholder appears as a measured value.
+
+## Evaluation plan
+
+Ask future participants to describe what the prototype knows, what it does not know, and which signal is simulated. Score answers against the controlled input state. Measure whether people notice frozen data and whether they distinguish unavailable observations from unfavorable outcomes. Test legends and plain language labels separately so comprehension problems can be localized. Record accessibility issues with color and motion. Any findings would concern interface understanding in a demonstration, not clinical efficacy, diagnostic accuracy, or rehabilitation benefit.
