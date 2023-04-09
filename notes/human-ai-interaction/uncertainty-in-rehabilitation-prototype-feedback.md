@@ -24,3 +24,7 @@ Create a synthetic sequence library covering complete observations, occlusion, m
 ## Evaluation plan
 
 Ask future participants to describe what the prototype knows, what it does not know, and which signal is simulated. Score answers against the controlled input state. Measure whether people notice frozen data and whether they distinguish unavailable observations from unfavorable outcomes. Test legends and plain language labels separately so comprehension problems can be localized. Record accessibility issues with color and motion. Any findings would concern interface understanding in a demonstration, not clinical efficacy, diagnostic accuracy, or rehabilitation benefit.
+
+## Limitations and next steps
+
+Synthetic landmarks cannot represent the diversity of bodies, environments, or real sensing failures. A legible uncertainty display also does not guarantee that people will avoid overinterpreting it. Next, review the prototype language with appropriate domain expertise before considering a clinical context, and separately evaluate consent for camera use. Keep raw example data fictional. Document which labels are design proposals and which behaviors are actually implemented, so the research notebook does not become an unsupported product claim.
