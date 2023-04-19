@@ -16,3 +16,7 @@ How can a control interface make it obvious whether a person or an automated rou
 ## Design proposal
 
 Build an explicit state display with manual control, automation requested, automation active, cancellation pending, and disconnected states. Show the current command owner beside a timestamped acknowledgment from the simulator. A visible cancel control requests cancellation, while a separate confirmed status reports when the simulator has stopped applying queued commands. Do not imply that an interface button is a certified emergency stop. Require a fresh manual acknowledgment before resuming automation after a simulated disconnect or ownership change.
+
+## Procedure
+
+Implement the state machine entirely in a local simulator with no network connection to hardware. Prepare scenarios involving a delayed acknowledgment, duplicate command, lost connection, and rejected ownership request. Execute each scenario while recording state transitions and rendered labels. Try keyboard and pointer cancellation paths. Reload the interface while a request is pending to test whether stale UI state is mistakenly restored as active authority. Maintain an expected outcome table for every injected fault before conducting a walkthrough.
