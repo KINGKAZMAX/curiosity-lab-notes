@@ -20,3 +20,7 @@ Build an explicit state display with manual control, automation requested, autom
 ## Procedure
 
 Implement the state machine entirely in a local simulator with no network connection to hardware. Prepare scenarios involving a delayed acknowledgment, duplicate command, lost connection, and rejected ownership request. Execute each scenario while recording state transitions and rendered labels. Try keyboard and pointer cancellation paths. Reload the interface while a request is pending to test whether stale UI state is mistakenly restored as active authority. Maintain an expected outcome table for every injected fault before conducting a walkthrough.
+
+## Evaluation plan
+
+In future task sessions, ask users to identify the command owner and predict the next movement before allowing the simulation to proceed. Measure incorrect ownership judgments, duplicate commands, cancellation requests without acknowledgment, and time to recognize a disconnect. Inspect event logs to distinguish interface latency from simulated controller delay. Count a successful cancellation only when the simulator confirms the intended state transition. Qualitative feedback can reveal confusing terminology, but it cannot establish physical safety or readiness for real deployment.
