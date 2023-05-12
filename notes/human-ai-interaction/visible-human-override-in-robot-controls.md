@@ -24,3 +24,7 @@ Implement the state machine entirely in a local simulator with no network connec
 ## Evaluation plan
 
 In future task sessions, ask users to identify the command owner and predict the next movement before allowing the simulation to proceed. Measure incorrect ownership judgments, duplicate commands, cancellation requests without acknowledgment, and time to recognize a disconnect. Inspect event logs to distinguish interface latency from simulated controller delay. Count a successful cancellation only when the simulator confirms the intended state transition. Qualitative feedback can reveal confusing terminology, but it cannot establish physical safety or readiness for real deployment.
+
+## Limitations and next steps
+
+This exercise does not validate a robot safety system, communications stack, or physical stopping performance. Its results would apply only to the simulated states and tasks. Any hardware deployment would require an independent engineering process and appropriate physical safeguards. Next, review whether the state model covers multiple operators and whether authority expiration is clearly represented. MuJoCo provides simulation context, while the proposed control state machine remains a separate design exercise rather than a validated safety mechanism.
