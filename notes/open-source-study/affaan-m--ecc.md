@@ -7,3 +7,9 @@ Review one upstream research-first development workflow and draft a minimal loca
 ## Project context
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
+## Why this project is in the collection
+
+The second-highest-star reviewed candidate directly matches the user's Codex, skills, and repeatable research-workflow practice.
+
+This is a study fork of [affaan-m/ECC](https://github.com/affaan-m/ECC). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
