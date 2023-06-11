@@ -7,3 +7,9 @@ Draft a reproducible visual-storyboard workflow manifest for a fictional cultura
 ## Project context
 
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+
+## Why this project is in the collection
+
+The canonical current repository is a high-star reference for inspectable visual-generation workflows.
+
+This is a study fork of [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
