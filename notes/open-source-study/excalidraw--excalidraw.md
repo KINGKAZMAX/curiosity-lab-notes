@@ -13,3 +13,9 @@ Plan a participatory-design canvas with zones for participant claims, supporting
 A high-star diagramming tool fits participatory design, research planning, and exhibit storyboarding.
 
 This is a study fork of [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
+
+## First adaptation exercise
+
+Plan a participatory-design canvas with zones for participant claims, supporting evidence, unresolved questions, and design decisions.
+
+Keep the first iteration local and small. Use synthetic examples or assets with documented reuse permission. Record the specific upstream release or commit before implementation, then isolate personal experiments from upstream source so future synchronization remains reviewable.
