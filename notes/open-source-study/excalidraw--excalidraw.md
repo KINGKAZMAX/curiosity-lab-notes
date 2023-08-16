@@ -19,3 +19,7 @@ This is a study fork of [excalidraw/excalidraw](https://github.com/excalidraw/ex
 Plan a participatory-design canvas with zones for participant claims, supporting evidence, unresolved questions, and design decisions.
 
 Keep the first iteration local and small. Use synthetic examples or assets with documented reuse permission. Record the specific upstream release or commit before implementation, then isolate personal experiments from upstream source so future synchronization remains reviewable.
+
+## Evidence to retain
+
+Create a short run record containing the upstream revision, dependency versions, operating system, input fixture, expected behavior, and observed behavior. Save a minimal reproducible example and a screenshot or trace when useful. Record failures as failures; do not replace missing measurements with illustrative numbers. Keep credentials and private participant material outside the repository.
