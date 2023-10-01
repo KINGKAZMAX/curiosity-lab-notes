@@ -13,3 +13,9 @@ Specify a tiny exhibition-exploration game with one room, three inspectable obje
 A leading high-star game engine fits playful media, interactive narrative, and digital companionship.
 
 This is a study fork of [godotengine/godot](https://github.com/godotengine/godot). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
+
+## First adaptation exercise
+
+Specify a tiny exhibition-exploration game with one room, three inspectable objects, keyboard controls, and a deterministic save-state schema.
+
+Keep the first iteration local and small. Use synthetic examples or assets with documented reuse permission. Record the specific upstream release or commit before implementation, then isolate personal experiments from upstream source so future synchronization remains reviewable.
