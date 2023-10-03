@@ -23,3 +23,11 @@ Keep the first iteration local and small. Use synthetic examples or assets with 
 ## Evidence to retain
 
 Create a short run record containing the upstream revision, dependency versions, operating system, input fixture, expected behavior, and observed behavior. Save a minimal reproducible example and a screenshot or trace when useful. Record failures as failures; do not replace missing measurements with illustrative numbers. Keep credentials and private participant material outside the repository.
+
+## Acceptance criteria
+
+- [ ] Provide a scene and interaction-state diagram.
+- [ ] Define completion, pause, reset, and inaccessible-object behavior.
+- [ ] Use placeholder geometry and original text; identify all future asset sources.
+
+These are proposed checks, not completed results. After implementing the exercise, attach concrete evidence to each applicable item and explain any deviation. A successful demo does not establish usability, scientific validity, or production readiness; those claims require separate evaluation with an appropriate method.
