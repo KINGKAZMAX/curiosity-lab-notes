@@ -7,3 +7,9 @@ Draft a procedural poster exercise for a fictional exhibition, with an inspectab
 ## Project context
 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
+
+## Why this project is in the collection
+
+Ranked first in the official creative-coding topic search; complements p5.js with procedural graphic-design and motion-graphics study.
+
+This is a study fork of [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
