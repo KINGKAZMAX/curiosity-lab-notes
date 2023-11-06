@@ -13,3 +13,9 @@ Draft a procedural poster exercise for a fictional exhibition, with an inspectab
 Ranked first in the official creative-coding topic search; complements p5.js with procedural graphic-design and motion-graphics study.
 
 This is a study fork of [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
+
+## First adaptation exercise
+
+Draft a procedural poster exercise for a fictional exhibition, with an inspectable node graph, an editable palette, and three parameterized layout variations.
+
+Keep the first iteration local and small. Use synthetic examples or assets with documented reuse permission. Record the specific upstream release or commit before implementation, then isolate personal experiments from upstream source so future synchronization remains reviewable.
