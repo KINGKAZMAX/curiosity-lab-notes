@@ -13,3 +13,9 @@ Plan a small benchmark protocol for classifying synthetic visitor intents in a d
 A high-star model toolkit connects multimodal exploration with the user's AI and HCI interests.
 
 This is a study fork of [huggingface/transformers](https://github.com/huggingface/transformers). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
+
+## First adaptation exercise
+
+Plan a small benchmark protocol for classifying synthetic visitor intents in a digital museum; begin with a keyword baseline and reserve model evaluation for a later implementation.
+
+Keep the first iteration local and small. Use synthetic examples or assets with documented reuse permission. Record the specific upstream release or commit before implementation, then isolate personal experiments from upstream source so future synchronization remains reviewable.
