@@ -7,3 +7,9 @@ Plan a small benchmark protocol for classifying synthetic visitor intents in a d
 ## Project context
 
 - [huggingface/transformers](https://github.com/huggingface/transformers)
+
+## Why this project is in the collection
+
+A high-star model toolkit connects multimodal exploration with the user's AI and HCI interests.
+
+This is a study fork of [huggingface/transformers](https://github.com/huggingface/transformers). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
