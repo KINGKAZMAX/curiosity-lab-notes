@@ -7,3 +7,9 @@ Design a conversion audit for a self-authored DOCX, a small slide deck, and a pl
 ## Project context
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
+## Why this project is in the collection
+
+The highest-star reviewed document-conversion candidate fits the user's literature and archive work.
+
+This is a study fork of [microsoft/markitdown](https://github.com/microsoft/markitdown). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
