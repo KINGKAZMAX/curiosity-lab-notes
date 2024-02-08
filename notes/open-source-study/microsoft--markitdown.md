@@ -19,3 +19,7 @@ This is a study fork of [microsoft/markitdown](https://github.com/microsoft/mark
 Design a conversion audit for a self-authored DOCX, a small slide deck, and a plain-text exhibition label, comparing retained headings, tables, and attribution.
 
 Keep the first iteration local and small. Use synthetic examples or assets with documented reuse permission. Record the specific upstream release or commit before implementation, then isolate personal experiments from upstream source so future synchronization remains reviewable.
+
+## Evidence to retain
+
+Create a short run record containing the upstream revision, dependency versions, operating system, input fixture, expected behavior, and observed behavior. Save a minimal reproducible example and a screenshot or trace when useful. Record failures as failures; do not replace missing measurements with illustrative numbers. Keep credentials and private participant material outside the repository.
