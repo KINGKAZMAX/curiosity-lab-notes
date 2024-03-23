@@ -7,3 +7,9 @@ Specify a manual-trigger workflow that reads three local bibliographic fixtures,
 ## Project context
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
+## Why this project is in the collection
+
+A high-star workflow automation project that fits a repeatable research-material intake workflow.
+
+This is a study fork of [n8n-io/n8n](https://github.com/n8n-io/n8n). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
