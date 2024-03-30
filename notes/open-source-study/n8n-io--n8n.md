@@ -13,3 +13,9 @@ Specify a manual-trigger workflow that reads three local bibliographic fixtures,
 A high-star workflow automation project that fits a repeatable research-material intake workflow.
 
 This is a study fork of [n8n-io/n8n](https://github.com/n8n-io/n8n). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
+
+## First adaptation exercise
+
+Specify a manual-trigger workflow that reads three local bibliographic fixtures, normalizes their fields, and writes a review queue without sending messages or contacting external services.
+
+Keep the first iteration local and small. Use synthetic examples or assets with documented reuse permission. Record the specific upstream release or commit before implementation, then isolate personal experiments from upstream source so future synchronization remains reviewable.
