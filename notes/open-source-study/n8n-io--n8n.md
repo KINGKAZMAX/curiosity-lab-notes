@@ -19,3 +19,7 @@ This is a study fork of [n8n-io/n8n](https://github.com/n8n-io/n8n). The upstrea
 Specify a manual-trigger workflow that reads three local bibliographic fixtures, normalizes their fields, and writes a review queue without sending messages or contacting external services.
 
 Keep the first iteration local and small. Use synthetic examples or assets with documented reuse permission. Record the specific upstream release or commit before implementation, then isolate personal experiments from upstream source so future synchronization remains reviewable.
+
+## Evidence to retain
+
+Create a short run record containing the upstream revision, dependency versions, operating system, input fixture, expected behavior, and observed behavior. Save a minimal reproducible example and a screenshot or trace when useful. Record failures as failures; do not replace missing measurements with illustrative numbers. Keep credentials and private participant material outside the repository.
