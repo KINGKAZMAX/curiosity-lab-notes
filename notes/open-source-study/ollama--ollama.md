@@ -31,3 +31,7 @@ Create a short run record containing the upstream revision, dependency versions,
 - [ ] List model-specific licenses and hardware requirements as items to verify before execution.
 
 These are proposed checks, not completed results. After implementing the exercise, attach concrete evidence to each applicable item and explain any deviation. A successful demo does not establish usability, scientific validity, or production readiness; those claims require separate evaluation with an appropriate method.
+
+## Maintenance and attribution
+
+Retain the upstream license and notices: metadata currently identifies `MIT`. This metadata is a discovery aid; consult the actual license files before redistribution. Keep the upstream remote identifiable, review upstream changes before merging, and document which files are personal additions. Do not represent this fork or this unexecuted study plan as original upstream software.
