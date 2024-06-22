@@ -7,3 +7,9 @@ Plan a reusable exhibit-card scene component whose selected object, HTML details
 ## Project context
 
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+
+## Why this project is in the collection
+
+A domain-specific high-star React renderer is especially relevant to new web-based 3D study exercises.
+
+This is a study fork of [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber). The upstream authors retain credit for the software. The purpose of this note is to connect an existing tool to a small, inspectable exercise in this personal research practice.
