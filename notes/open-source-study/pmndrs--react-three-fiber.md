@@ -19,3 +19,7 @@ This is a study fork of [pmndrs/react-three-fiber](https://github.com/pmndrs/rea
 Plan a reusable exhibit-card scene component whose selected object, HTML details, and URL state remain synchronized.
 
 Keep the first iteration local and small. Use synthetic examples or assets with documented reuse permission. Record the specific upstream release or commit before implementation, then isolate personal experiments from upstream source so future synchronization remains reviewable.
+
+## Evidence to retain
+
+Create a short run record containing the upstream revision, dependency versions, operating system, input fixture, expected behavior, and observed behavior. Save a minimal reproducible example and a screenshot or trace when useful. Record failures as failures; do not replace missing measurements with illustrative numbers. Keep credentials and private participant material outside the repository.
