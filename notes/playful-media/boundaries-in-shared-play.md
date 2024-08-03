@@ -16,3 +16,7 @@ How can a shared play space make clear which actions belong to one player and wh
 ## Design proposal
 
 Label each piece and its controls with both a shape and a player identifier. Let either player request a pause, with the pause affecting the whole local session. Require both players to acknowledge a full board reset, while allowing each to undo a personal move that has no shared consequence. Display pending shared actions in a neutral banner. Provide a cancel route and a visible timeout state, avoiding messages that blame one player for taking longer to decide.
+
+## Procedure
+
+Build a local simulation with two independent input routes and a small fixed puzzle. Script simultaneous movement, conflicting reset choices, a paused player returning, and an unresponsive input route. Check which actions require shared acknowledgment using an explicit ownership table. Verify that a reset cannot be triggered by one player's repeated confirmation. During a future paired walkthrough, ask players to negotiate a changed setting and then recover from a canceled request. Record state transitions without ranking individual participants.
