@@ -20,3 +20,7 @@ Label each piece and its controls with both a shape and a player identifier. Let
 ## Procedure
 
 Build a local simulation with two independent input routes and a small fixed puzzle. Script simultaneous movement, conflicting reset choices, a paused player returning, and an unresponsive input route. Check which actions require shared acknowledgment using an explicit ownership table. Verify that a reset cannot be triggered by one player's repeated confirmation. During a future paired walkthrough, ask players to negotiate a changed setting and then recover from a canceled request. Record state transitions without ranking individual participants.
+
+## Evaluation plan
+
+Evaluate whether players correctly identify the owner and scope of each action before executing it. Count accidental shared changes, unresolved pending states, and mistaken assumptions about another player's confirmation. Observe how quickly a pair can resume after disagreement, while noting whether one person feels pressured to agree. Separate puzzle difficulty from interface coordination. Review input logs to identify simultaneous actions that the interface misrepresents. Any findings would apply to the tested local scenario, not to multiplayer fairness in general.
