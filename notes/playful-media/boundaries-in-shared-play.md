@@ -24,3 +24,7 @@ Build a local simulation with two independent input routes and a small fixed puz
 ## Evaluation plan
 
 Evaluate whether players correctly identify the owner and scope of each action before executing it. Count accidental shared changes, unresolved pending states, and mistaken assumptions about another player's confirmation. Observe how quickly a pair can resume after disagreement, while noting whether one person feels pressured to agree. Separate puzzle difficulty from interface coordination. Review input logs to identify simultaneous actions that the interface misrepresents. Any findings would apply to the tested local scenario, not to multiplayer fairness in general.
+
+## Limitations and next steps
+
+A local two player prototype omits network delay, identity verification, and larger group dynamics. Some games intentionally permit interference, so the proposed boundaries are a design choice rather than a universal rule. Next, examine how a departing player hands control back and whether shared decisions can be explained without modal interruptions. Test alternative communication cues with different pairs. The references provide cooperative play context; they do not verify that the proposed ownership and acknowledgment mechanisms exist in their code.
