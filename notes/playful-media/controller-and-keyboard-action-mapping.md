@@ -12,3 +12,7 @@ A new design exercise for discoverable, reversible input mappings across keyboar
 ## Research question
 
 Can a player understand and change the controls without confusing an in game action with the physical button assigned to it? Use a fictional two action toy with move and interact controls. The question concerns switching between keyboard and controller while preserving an understandable mapping. Particular cases include a disconnected device, a conflicting assignment, and a held button during reconnection. This is an interface design exercise and does not assume any specific input API or device implementation in the references.
+
+## Design proposal
+
+Represent actions independently from hardware labels. A controls panel lists each action, its current keyboard assignment, and its controller assignment. Selecting an action enters a clearly marked capture state with cancel and restore defaults options. Warn about conflicting mappings before applying them, and show which action would be displaced. Display the active input route near the play area. When a device disappears, pause the toy and require a fresh neutral input before resuming movement.
