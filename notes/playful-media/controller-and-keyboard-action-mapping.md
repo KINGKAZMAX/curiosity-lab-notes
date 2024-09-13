@@ -20,3 +20,7 @@ Represent actions independently from hardware labels. A controls panel lists eac
 ## Procedure
 
 Create a local input simulator that emits named actions and device connection events. Use it to test assignment, cancellation, conflict handling, disconnect, and reconnect flows before adding real hardware. Prepare a small matrix of keyboard only, controller only, and mixed input scenarios. Verify that opening the mapping panel cannot trigger a game action accidentally. Save mappings in a visible test profile and reload it. Document expected behavior for held inputs so the reconnect case has a clear acceptance criterion.
+
+## Evaluation plan
+
+Ask future participants to perform an action, remap it, resolve one conflict, and recover from a simulated disconnect. Track incorrect mappings, unintended actions, and time spent searching for the active device label. Test whether users can describe which assignment changed after resolving a conflict. Compare displayed labels with the simulator log to identify interface defects. Include a successful restoration to defaults as part of the task, and avoid claiming support for hardware that has not been tested.
