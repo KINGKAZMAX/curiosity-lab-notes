@@ -16,3 +16,7 @@ Can a player understand and change the controls without confusing an in game act
 ## Design proposal
 
 Represent actions independently from hardware labels. A controls panel lists each action, its current keyboard assignment, and its controller assignment. Selecting an action enters a clearly marked capture state with cancel and restore defaults options. Warn about conflicting mappings before applying them, and show which action would be displaced. Display the active input route near the play area. When a device disappears, pause the toy and require a fresh neutral input before resuming movement.
+
+## Procedure
+
+Create a local input simulator that emits named actions and device connection events. Use it to test assignment, cancellation, conflict handling, disconnect, and reconnect flows before adding real hardware. Prepare a small matrix of keyboard only, controller only, and mixed input scenarios. Verify that opening the mapping panel cannot trigger a game action accidentally. Save mappings in a visible test profile and reload it. Document expected behavior for held inputs so the reconnect case has a clear acceptance criterion.
