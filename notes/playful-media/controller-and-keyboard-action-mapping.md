@@ -24,3 +24,7 @@ Create a local input simulator that emits named actions and device connection ev
 ## Evaluation plan
 
 Ask future participants to perform an action, remap it, resolve one conflict, and recover from a simulated disconnect. Track incorrect mappings, unintended actions, and time spent searching for the active device label. Test whether users can describe which assignment changed after resolving a conflict. Compare displayed labels with the simulator log to identify interface defects. Include a successful restoration to defaults as part of the task, and avoid claiming support for hardware that has not been tested.
+
+## Limitations and next steps
+
+Simulated input cannot reveal differences in physical controllers, operating systems, or assistive devices. A compact mapping panel may also become harder to use when the action set expands. Next, test a limited documented hardware matrix and consider whether actions need separate hold, press, and release semantics. Preserve the external engine attribution, and identify the mapping specification and fixtures as personal additions rather than newly authored engine code. This notebook proposes controls and tests rather than documenting verified behavior of the linked projects.
