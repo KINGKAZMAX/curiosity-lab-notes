@@ -12,3 +12,7 @@ A prospective card toy exercise showing how deck composition and replacement rul
 ## Research question
 
 Can a card toy help players understand why the chance of a particular draw changes without implying that a random system owes them a favorable outcome? Use an original twelve card deck containing five red, four blue, and three gold cards. The question concerns the difference between drawing with replacement and drawing without replacement. Ask whether players can relate the next draw to the remaining deck rather than to a vague feeling that one color is due.
+
+## Design proposal
+
+Show the remaining deck counts beside a plainly labeled draw rule. In the version without replacement, reduce the displayed count when a card is drawn; in the replacement version, return it before the next draw. Explain the next red draw as five of twelve initially and four of eleven after a red card is removed. Provide an inspectable draw history and a reset action. Keep visual celebration consistent across colors so presentation does not imply that a rarer card has greater worth.
