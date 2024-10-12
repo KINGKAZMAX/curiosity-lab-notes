@@ -16,3 +16,7 @@ Can a card toy help players understand why the chance of a particular draw chang
 ## Design proposal
 
 Show the remaining deck counts beside a plainly labeled draw rule. In the version without replacement, reduce the displayed count when a card is drawn; in the replacement version, return it before the next draw. Explain the next red draw as five of twelve initially and four of eleven after a red card is removed. Provide an inspectable draw history and a reset action. Keep visual celebration consistent across colors so presentation does not imply that a rarer card has greater worth.
+
+## Procedure
+
+Create geometric card art and a deterministic set of sample sequences for interface testing. Mark those sequences as scripted rather than random. Verify displayed counts after every draw, reset, and rule change. Then add a separately labeled random mode and check that its interface follows the same accounting rules. Prepare prediction questions before and after a red card is removed. Do not mix the two modes silently, and preserve the selected rule in any exported explanation or screenshot.
