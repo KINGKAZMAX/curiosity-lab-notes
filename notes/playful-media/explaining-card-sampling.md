@@ -20,3 +20,7 @@ Show the remaining deck counts beside a plainly labeled draw rule. In the versio
 ## Procedure
 
 Create geometric card art and a deterministic set of sample sequences for interface testing. Mark those sequences as scripted rather than random. Verify displayed counts after every draw, reset, and rule change. Then add a separately labeled random mode and check that its interface follows the same accounting rules. Prepare prediction questions before and after a red card is removed. Do not mix the two modes silently, and preserve the selected rule in any exported explanation or screenshot.
+
+## Evaluation plan
+
+Ask future participants to calculate or describe the next red draw in both modes, then explain why the answers differ after a removal. Score comprehension of the rule separately from arithmetic fluency. Check whether players interpret a long run of one color as a guarantee about the next draw. Inspect count consistency as a software property rather than relying on participant judgment. Treat any perceived fairness ratings as subjective observations, not proof of the random generator's statistical or security properties.
