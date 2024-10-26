@@ -24,3 +24,7 @@ Create geometric card art and a deterministic set of sample sequences for interf
 ## Evaluation plan
 
 Ask future participants to calculate or describe the next red draw in both modes, then explain why the answers differ after a removal. Score comprehension of the rule separately from arithmetic fluency. Check whether players interpret a long run of one color as a guarantee about the next draw. Inspect count consistency as a software property rather than relying on participant judgment. Treat any perceived fairness ratings as subjective observations, not proof of the random generator's statistical or security properties.
+
+## Limitations and next steps
+
+A twelve card toy simplifies larger games with hidden information, strategic actions, and changing deck composition. Scripted sequences cannot validate randomness, and a transparent display does not prevent every mistaken intuition about chance. Next, add an explanation for switching modes partway through a session and decide whether that action resets the deck. Use original assets throughout the exercise. The linked projects supply a playful presentation context, not evidence that this sampling model or educational effect already exists.
