@@ -16,3 +16,7 @@ How can a game help players manage their own session time without turning a remi
 ## Design proposal
 
 Offer an optional session panel showing elapsed active play time and a player chosen reminder. Explain whether paused time is included and keep that rule consistent. At a reminder, provide equally visible continue, save and leave, and change reminder actions. Avoid countdown pressure, lost streak messages, or rewards tied to ignoring a break. Show the next natural stopping point when the game has one. Keep timing data local in the prototype and provide a clear reset control.
+
+## Procedure
+
+Implement the timing model with a controllable test clock. Walk through active play, pause, a hidden window, a completed round, and a restored session. Verify that the displayed duration matches the documented inclusion rule in each case. Test reminder cancellation and disablement before and after a trigger. Use short simulated intervals during the walkthrough so participants do not need to wait. Confirm that saving and leaving preserves the intended state and does not silently schedule an external notification.
