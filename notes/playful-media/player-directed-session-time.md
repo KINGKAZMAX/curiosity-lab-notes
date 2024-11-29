@@ -20,3 +20,7 @@ Offer an optional session panel showing elapsed active play time and a player ch
 ## Procedure
 
 Implement the timing model with a controllable test clock. Walk through active play, pause, a hidden window, a completed round, and a restored session. Verify that the displayed duration matches the documented inclusion rule in each case. Test reminder cancellation and disablement before and after a trigger. Use short simulated intervals during the walkthrough so participants do not need to wait. Confirm that saving and leaving preserves the intended state and does not silently schedule an external notification.
+
+## Evaluation plan
+
+Ask future players to explain which time is being counted, set a reminder, disable it, and leave at a chosen round boundary. Measure comprehension, successful settings changes, and discrepancies between displayed duration and the test clock. Collect comments on whether the reminder feels informative or pressuring. Treat time spent in the session as context rather than a success metric. Compare the prominence of continue and leave actions to check whether visual design undermines the stated freedom to stop.
