@@ -24,3 +24,7 @@ Implement the timing model with a controllable test clock. Walk through active p
 ## Evaluation plan
 
 Ask future players to explain which time is being counted, set a reminder, disable it, and leave at a chosen round boundary. Measure comprehension, successful settings changes, and discrepancies between displayed duration and the test clock. Collect comments on whether the reminder feels informative or pressuring. Treat time spent in the session as context rather than a success metric. Compare the prominence of continue and leave actions to check whether visual design undermines the stated freedom to stop.
+
+## Limitations and next steps
+
+A small local timer cannot address every aspect of play habits, shared devices, or long sessions across multiple games. Some players may prefer no timing information at all, so the feature should remain optional. Next, test restoration behavior after an interrupted session and clarify whether old timing data is retained or discarded. Evaluate language and defaults without making claims about health outcomes. The source projects provide a playful context, not evidence that the proposed session controls are already implemented.
