@@ -16,3 +16,7 @@ How can a playful archive help visitors distinguish original interface work from
 ## Design proposal
 
 Create a provenance card for each item with its title, credited creator, source link, relationship to the archive, and recorded reuse terms. Keep unknown fields explicitly marked as unknown. Separate credits for the surrounding interface from credits for embedded content. Include a persistent credits link in the play view and a compact source label in gallery cards. Use an asset manifest to connect files to their provenance entries, and keep original notices with material whenever they are available.
+
+## Procedure
+
+Build the exercise using original placeholder graphics and links rather than copying third party game files. Define example entries for original work, an adapted interface, a forked project, and an external reference. Verify that each gallery card reaches the relevant provenance record in one clear path. Follow the source link manually and record what was actually checked, leaving uncertain terms unresolved. Test export and offline views to ensure that the provenance records remain attached to the corresponding entries.
