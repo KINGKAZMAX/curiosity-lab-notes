@@ -20,3 +20,7 @@ Create a provenance card for each item with its title, credited creator, source 
 ## Procedure
 
 Build the exercise using original placeholder graphics and links rather than copying third party game files. Define example entries for original work, an adapted interface, a forked project, and an external reference. Verify that each gallery card reaches the relevant provenance record in one clear path. Follow the source link manually and record what was actually checked, leaving uncertain terms unresolved. Test export and offline views to ensure that the provenance records remain attached to the corresponding entries.
+
+## Evaluation plan
+
+Ask future reviewers to identify who created an included item, what the archive author changed, and where the recorded reuse information came from. Count misattributions, broken source links, missing manifest entries, and credits that disappear in a secondary view. Inspect whether unknown information is visible rather than silently replaced with a default license label. Measure the effort needed to update a credit when an item changes. Treat this as a documentation evaluation, not a legal determination about any particular asset.
