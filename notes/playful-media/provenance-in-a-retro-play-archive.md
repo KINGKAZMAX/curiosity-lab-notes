@@ -24,3 +24,7 @@ Build the exercise using original placeholder graphics and links rather than cop
 ## Evaluation plan
 
 Ask future reviewers to identify who created an included item, what the archive author changed, and where the recorded reuse information came from. Count misattributions, broken source links, missing manifest entries, and credits that disappear in a secondary view. Inspect whether unknown information is visible rather than silently replaced with a default license label. Measure the effort needed to update a credit when an item changes. Treat this as a documentation evaluation, not a legal determination about any particular asset.
+
+## Limitations and next steps
+
+A manifest can preserve recorded information but cannot establish authorship or resolve ambiguous permissions by itself. Source pages and repository histories may also change over time. Next, record the date and version of each source check and seek clarification before distributing material with unresolved reuse conditions. Keep upstream software attribution and the source of every later third party asset explicit, while using only original placeholders in this first exercise. The exercise proposes an archive workflow; it does not claim that every asset in the referenced projects has been independently audited.
