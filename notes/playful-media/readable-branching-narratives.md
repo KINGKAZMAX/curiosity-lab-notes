@@ -16,3 +16,7 @@ How can a branching story let players understand the consequences of a choice wi
 ## Design proposal
 
 Create a compact journey map showing visited scenes and the choices that connect them. Hide undiscovered content behind neutral placeholders instead of suggestive spoilers. At each decision, describe the immediate action clearly while leaving its later narrative consequences open. Provide a revisit control that explains whether it creates a new branch or replaces the active path. Keep a visible current path marker and allow players to compare their earlier choice text with the dialogue that followed.
+
+## Procedure
+
+Write a short original story with six scenes, two branching decisions, and one shared ending. Build a transition table before presenting the story. Test the forward route, revisit route, and return to the active branch with deterministic state. Introduce one delayed consequence to examine whether its connection is understandable. Ask a future reader to reconstruct the visited path using the map. Preserve both branch states during the exercise so an accidental revisit cannot silently erase the comparison material.
