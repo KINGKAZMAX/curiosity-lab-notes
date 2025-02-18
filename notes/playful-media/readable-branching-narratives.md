@@ -20,3 +20,7 @@ Create a compact journey map showing visited scenes and the choices that connect
 ## Procedure
 
 Write a short original story with six scenes, two branching decisions, and one shared ending. Build a transition table before presenting the story. Test the forward route, revisit route, and return to the active branch with deterministic state. Introduce one delayed consequence to examine whether its connection is understandable. Ask a future reader to reconstruct the visited path using the map. Preserve both branch states during the exercise so an accidental revisit cannot silently erase the comparison material.
+
+## Evaluation plan
+
+Measure correct reconstruction of choices, recognition of the active branch, and successful return after revisiting an earlier scene. Ask readers to explain one delayed consequence using evidence from the story. Track accidental overwrites and repeated clicks caused by unclear labels. Compare a map with a simple chronological history using the same narrative. Record comments about spoilers separately from navigation errors. The evaluation should distinguish a deliberately ambiguous story event from an interface that fails to communicate saved state.
