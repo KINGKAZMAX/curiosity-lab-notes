@@ -24,3 +24,7 @@ Write a short original story with six scenes, two branching decisions, and one s
 ## Evaluation plan
 
 Measure correct reconstruction of choices, recognition of the active branch, and successful return after revisiting an earlier scene. Ask readers to explain one delayed consequence using evidence from the story. Track accidental overwrites and repeated clicks caused by unclear labels. Compare a map with a simple chronological history using the same narrative. Record comments about spoilers separately from navigation errors. The evaluation should distinguish a deliberately ambiguous story event from an interface that fails to communicate saved state.
+
+## Limitations and next steps
+
+A small authored story may not reveal problems in long narratives with many variables or procedurally generated dialogue. A map can also change the experience by making structure more prominent than characters. Next, test whether optional history views help without interrupting reading, and specify how accessibility tools announce a branch change. Keep the story original and label the prototype as an exercise. The references motivate narrative exploration but do not verify that these branch controls exist in their implementations.
