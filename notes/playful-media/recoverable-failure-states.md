@@ -8,3 +8,7 @@ A prospective prototype exercise distinguishing intended game failure from techn
 
 - [godotengine/godot — external upstream reference for a new exercise](https://github.com/godotengine/godot)
 - [affaan-m/ECC — external upstream reference for a new exercise](https://github.com/affaan-m/ECC)
+
+## Research question
+
+When a game stops unexpectedly, can the player understand what happened and recover without confusing a technical problem with an intended challenge? Use a fictional maze with a short sequence of rooms and explicit checkpoints. The research question concerns distinguishing a lost round, a canceled session, and unavailable saved data. It also asks whether recovery messages accurately describe what will be restored. The exercise studies comprehension and state continuity rather than claiming that failure should always be removed from play.
