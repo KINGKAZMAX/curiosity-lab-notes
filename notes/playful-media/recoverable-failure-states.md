@@ -12,3 +12,7 @@ A prospective prototype exercise distinguishing intended game failure from techn
 ## Research question
 
 When a game stops unexpectedly, can the player understand what happened and recover without confusing a technical problem with an intended challenge? Use a fictional maze with a short sequence of rooms and explicit checkpoints. The research question concerns distinguishing a lost round, a canceled session, and unavailable saved data. It also asks whether recovery messages accurately describe what will be restored. The exercise studies comprehension and state continuity rather than claiming that failure should always be removed from play.
+
+## Design proposal
+
+Display separate messages for game outcomes and technical interruptions. A lost round can offer retry from the last checkpoint, while a loading problem should explain that progress has not yet been read. Show the checkpoint name and its recorded time before a recovery action. Preserve the current session until a replacement has been confirmed. Offer a fresh start as a separate choice, and avoid using a generic retry button for operations that have different effects on saved progress.
