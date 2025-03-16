@@ -16,3 +16,7 @@ When a game stops unexpectedly, can the player understand what happened and reco
 ## Design proposal
 
 Display separate messages for game outcomes and technical interruptions. A lost round can offer retry from the last checkpoint, while a loading problem should explain that progress has not yet been read. Show the checkpoint name and its recorded time before a recovery action. Preserve the current session until a replacement has been confirmed. Offer a fresh start as a separate choice, and avoid using a generic retry button for operations that have different effects on saved progress.
+
+## Procedure
+
+Create a deterministic maze state and three synthetic checkpoint files: valid, outdated, and deliberately incomplete. Simulate a lost round, interrupted save, failed load, and browser restart. Record the expected restored position and collected items for each case. Verify that repeated recovery clicks do not advance or duplicate state. Test cancellation while a recovery confirmation is open. Keep faulty files in a labeled test fixture and capture the actual message displayed alongside the state that the prototype restores.
