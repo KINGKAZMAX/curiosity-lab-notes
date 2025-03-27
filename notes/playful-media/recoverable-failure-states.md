@@ -20,3 +20,7 @@ Display separate messages for game outcomes and technical interruptions. A lost 
 ## Procedure
 
 Create a deterministic maze state and three synthetic checkpoint files: valid, outdated, and deliberately incomplete. Simulate a lost round, interrupted save, failed load, and browser restart. Record the expected restored position and collected items for each case. Verify that repeated recovery clicks do not advance or duplicate state. Test cancellation while a recovery confirmation is open. Keep faulty files in a labeled test fixture and capture the actual message displayed alongside the state that the prototype restores.
+
+## Evaluation plan
+
+Ask future players to identify the type of failure, predict what a recovery action will restore, and choose a path that preserves their intended progress. Count mistaken fresh starts, incorrect state predictions, and repeated actions caused by uncertain feedback. Compare restored state with the test fixture as a separate technical check. Track recovery completion and explanation clarity together. Do not infer reliability for real storage systems from simulated failures, and report only cases included in the evaluation matrix.
