@@ -24,3 +24,7 @@ Create a deterministic maze state and three synthetic checkpoint files: valid, o
 ## Evaluation plan
 
 Ask future players to identify the type of failure, predict what a recovery action will restore, and choose a path that preserves their intended progress. Count mistaken fresh starts, incorrect state predictions, and repeated actions caused by uncertain feedback. Compare restored state with the test fixture as a separate technical check. Track recovery completion and explanation clarity together. Do not infer reliability for real storage systems from simulated failures, and report only cases included in the evaluation matrix.
+
+## Limitations and next steps
+
+The proposed maze uses a small local state and cannot represent every network, storage, or concurrent session failure. Recovery language may also depend on the expectations of a particular game genre. Next, define how incompatible save versions are handled and whether players can inspect or export a checkpoint before replacement. Keep unsuccessful recovery attempts visible in the test record. The source projects inspire a game context; this notebook does not claim that their save systems were examined or repaired.
