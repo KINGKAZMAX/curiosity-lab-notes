@@ -16,3 +16,7 @@ How quickly can a player discover a small game rule when feedback clearly connec
 ## Design proposal
 
 Use a compact board with one rule, one action, and three visible outcomes: changed tile, blocked move, and completed pattern. Each outcome receives a brief text label alongside a restrained visual response. Show the affected tile immediately so players can connect cause and effect. Keep score optional and avoid adding bonuses during the first experiment. Provide a replay action that repeats the last transition without changing the board, allowing the feedback itself to become an inspectable teaching tool.
+
+## Procedure
+
+Create six short board configurations using geometric shapes rather than borrowed artwork. Build a deterministic state table for all possible moves. Test one feedback variant that highlights the affected tile and another that shows only a general success signal. Introduce the same configurations in counterbalanced order during a future walkthrough. After two examples, ask the player to predict a move before executing it. Save the predicted and actual states, and include an unfamiliar arrangement to examine transfer.
