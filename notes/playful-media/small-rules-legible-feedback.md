@@ -20,3 +20,7 @@ Use a compact board with one rule, one action, and three visible outcomes: chang
 ## Procedure
 
 Create six short board configurations using geometric shapes rather than borrowed artwork. Build a deterministic state table for all possible moves. Test one feedback variant that highlights the affected tile and another that shows only a general success signal. Introduce the same configurations in counterbalanced order during a future walkthrough. After two examples, ask the player to predict a move before executing it. Save the predicted and actual states, and include an unfamiliar arrangement to examine transfer.
+
+## Evaluation plan
+
+Measure correct state predictions, repeated invalid moves, and the number of examples needed before the player can explain the rule. Distinguish learning the rule from simply completing a memorized board. Record whether the replay control helps resolve a misunderstanding. Ask which visual or textual cue informed each prediction. Completion time can provide context but should not dominate interpretation, because deliberate exploration may produce slower play with better understanding. Report only observations from a study that has actually occurred.
