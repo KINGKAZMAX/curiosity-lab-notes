@@ -8,3 +8,7 @@ A prospective audiovisual design exercise preserving essential game information 
 
 - [processing/p5.js — external upstream reference for a new exercise](https://github.com/processing/p5.js)
 - [godotengine/godot — external upstream reference for a new exercise](https://github.com/godotengine/godot)
+
+## Research question
+
+Can players understand an event when its usual sound or animation is unavailable? Use a fictional toy with three events: an accepted action, an invalid action, and a completed pattern. The research question concerns whether each event remains distinguishable with sound muted, motion reduced, or both settings enabled. This exercise treats those settings as ordinary player preferences and access needs. It does not assume that a single substitute cue will be equally useful for everyone or establish a medical benefit.
