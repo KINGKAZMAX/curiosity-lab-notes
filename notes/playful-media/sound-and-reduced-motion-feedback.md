@@ -16,3 +16,7 @@ Can players understand an event when its usual sound or animation is unavailable
 ## Design proposal
 
 Assign each essential event a concise text label and a stable visual state in addition to optional sound and animation. Provide independent controls for volume and motion rather than one setting that changes everything. Reduced motion mode should replace moving transitions with direct state changes and a persistent marker where needed. Keep timing consistent enough that cues remain associated with the triggering action. Display current settings clearly, and allow changes during play without resetting progress or hiding the controls.
+
+## Procedure
+
+Create an event simulator with original tones and geometric graphics. Test all combinations of sound enabled or muted and motion standard or reduced. Trigger events at a slow pace first, then in a short sequence to inspect overlap. Capture screenshots after each event and verify that essential information remains available after transient effects end. Ask a future reviewer to identify events using the alternative cues alone. Record any case where a label disappears before it can be understood.
