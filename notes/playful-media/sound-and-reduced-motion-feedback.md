@@ -20,3 +20,7 @@ Assign each essential event a concise text label and a stable visual state in ad
 ## Procedure
 
 Create an event simulator with original tones and geometric graphics. Test all combinations of sound enabled or muted and motion standard or reduced. Trigger events at a slow pace first, then in a short sequence to inspect overlap. Capture screenshots after each event and verify that essential information remains available after transient effects end. Ask a future reviewer to identify events using the alternative cues alone. Record any case where a label disappears before it can be understood.
+
+## Evaluation plan
+
+Measure event identification accuracy and the ability to locate the changed game state under each settings combination. Track settings discoverability, unintended resets, and confusion when multiple cues overlap. Ask players which cues they used rather than inferring their perception from performance alone. Compare cue effectiveness separately from aesthetic preference. Include a text enlargement check because substitute labels can introduce their own barriers. Limit conclusions to the tested prototype and participants instead of declaring a universally accessible audiovisual system.
