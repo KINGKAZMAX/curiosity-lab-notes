@@ -24,3 +24,7 @@ Create an event simulator with original tones and geometric graphics. Test all c
 ## Evaluation plan
 
 Measure event identification accuracy and the ability to locate the changed game state under each settings combination. Track settings discoverability, unintended resets, and confusion when multiple cues overlap. Ask players which cues they used rather than inferring their perception from performance alone. Compare cue effectiveness separately from aesthetic preference. Include a text enlargement check because substitute labels can introduce their own barriers. Limit conclusions to the tested prototype and participants instead of declaring a universally accessible audiovisual system.
+
+## Limitations and next steps
+
+The exercise uses a small event vocabulary and cannot represent dense action scenes or every sensory preference. Text labels may become distracting, while persistent markers may clutter the display. Next, test prioritization when several events occur together and examine whether players can adjust cue intensity independently. Preserve a quiet default during testing and let participants stop whenever they choose. The linked projects motivate audiovisual experimentation; they do not provide evidence for the proposed cue mappings or their effectiveness.
