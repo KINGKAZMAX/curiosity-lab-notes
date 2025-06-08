@@ -16,3 +16,7 @@ How can a virtual pet suggest a gentle rhythm while leaving the player free to s
 ## Design proposal
 
 Use a small state model with active, resting, and ready states. Make transitions visible through a short caption and an optional animation. Let the player choose when to rest the pet and resume later without losing progress. Avoid escalating warnings, negative messages about absence, or automatic reminders. If reminders are added in a later version, require a separate opt in setting. A compact activity log should describe actions neutrally and allow players to clear their local history.
+
+## Procedure
+
+Implement a deterministic companion prototype with placeholder shapes and manually adjustable time. Walk through a brief visit, a browser close, a return the next day, and a longer absence. Check that the interface never invents an obligation to compensate for missed visits. Compare a continuous activity meter with a simpler descriptive state label. Keep the underlying transition rules identical between versions. Record expected state after each scenario and make the simulated time control visible during evaluation sessions.
