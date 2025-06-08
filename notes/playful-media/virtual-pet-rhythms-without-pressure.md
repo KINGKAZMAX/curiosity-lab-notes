@@ -20,3 +20,7 @@ Use a small state model with active, resting, and ready states. Make transitions
 ## Procedure
 
 Implement a deterministic companion prototype with placeholder shapes and manually adjustable time. Walk through a brief visit, a browser close, a return the next day, and a longer absence. Check that the interface never invents an obligation to compensate for missed visits. Compare a continuous activity meter with a simpler descriptive state label. Keep the underlying transition rules identical between versions. Record expected state after each scenario and make the simulated time control visible during evaluation sessions.
+
+## Evaluation plan
+
+In a future walkthrough, ask players to predict what will happen if they leave and to explain the meaning of the pet's current state. Track whether anyone searches for a recovery payment, penalty reversal, or urgent care action that the design does not intend. Use open questions about perceived pressure and freedom to stop. Evaluate clarity of the return message separately from aesthetic preference. A short session cannot establish long term wellbeing, attachment quality, or sustained use patterns.
