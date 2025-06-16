@@ -24,3 +24,7 @@ Implement a deterministic companion prototype with placeholder shapes and manual
 ## Evaluation plan
 
 In a future walkthrough, ask players to predict what will happen if they leave and to explain the meaning of the pet's current state. Track whether anyone searches for a recovery payment, penalty reversal, or urgent care action that the design does not intend. Use open questions about perceived pressure and freedom to stop. Evaluate clarity of the return message separately from aesthetic preference. A short session cannot establish long term wellbeing, attachment quality, or sustained use patterns.
+
+## Limitations and next steps
+
+People bring different expectations to virtual pets, and even neutral state changes can acquire personal meaning. The proposed prototype also removes many economic and social features found in larger games. Next, inspect notification language and persistence rules across repeated sessions, then test whether the chosen rhythm remains understandable without a visible meter. Keep any reminder feature optional and reversible. The source projects inspire a companion context; they do not provide evidence that the proposed pressure reducing design has been implemented.
