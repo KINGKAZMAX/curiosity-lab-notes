@@ -15,3 +15,10 @@ A mature spaced-repetition program for a small personal English/Japanese card wo
 ## First small adaptation
 
 Define a personal note type and inspect a 12-row original bilingual TSV fixture before any import. Map fields, retain stable record IDs, and design a Markdown export for the second brain.
+
+## Acceptance checks
+
+- [ ] All 12 fixture rows have unique record IDs and all required fields.
+- [ ] An import trial into a disposable test deck preserves the IDs and handles a repeated import without unintended duplication; this runtime test remains pending.
+- [ ] A future Markdown export preserves expression, reading, self-authored example, source, and actual creation date.
+- [ ] No private performance history or copyrighted deck is placed in the public fork.
