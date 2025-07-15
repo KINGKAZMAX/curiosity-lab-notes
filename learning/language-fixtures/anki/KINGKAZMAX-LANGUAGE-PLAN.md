@@ -11,3 +11,7 @@ English and Japanese are being rebuilt from fundamentals. Long-term goals are IE
 ## Why this upstream
 
 A mature spaced-repetition program for a small personal English/Japanese card workflow; choose it for repeatable review and editable note structure, not as a promise of exam success. Metadata snapshot: 32,311 stars on 2026-10-27. Stars indicate popularity, not a standardized quality rating.
+
+## First small adaptation
+
+Define a personal note type and inspect a 12-row original bilingual TSV fixture before any import. Map fields, retain stable record IDs, and design a Markdown export for the second brain.
