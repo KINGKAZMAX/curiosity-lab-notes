@@ -22,3 +22,7 @@ Define a personal note type and inspect a 12-row original bilingual TSV fixture 
 - [ ] An import trial into a disposable test deck preserves the IDs and handles a repeated import without unintended duplication; this runtime test remains pending.
 - [ ] A future Markdown export preserves expression, reading, self-authored example, source, and actual creation date.
 - [ ] No private performance history or copyrighted deck is placed in the public fork.
+
+## Working method
+
+Start by reading the upstream documentation and contribution instructions. Inspect the bundled original fixtures before touching a personal collection. Make one small change, record the upstream revision and environment, then retain the exact command or manual steps and observed result. A written plan or passing file-format check does not establish that the application integration works.
