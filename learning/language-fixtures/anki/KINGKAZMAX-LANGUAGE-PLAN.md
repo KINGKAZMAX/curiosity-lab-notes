@@ -26,3 +26,7 @@ Define a personal note type and inspect a 12-row original bilingual TSV fixture 
 ## Working method
 
 Start by reading the upstream documentation and contribution instructions. Inspect the bundled original fixtures before touching a personal collection. Make one small change, record the upstream revision and environment, then retain the exact command or manual steps and observed result. A written plan or passing file-format check does not establish that the application integration works.
+
+## Second-brain record
+
+Keep a stable record ID, the actual study date, the source URL, the original answer, the correction, and the relevant commit URL in the private Obsidian record. The public fork contains reusable examples and adaptation code only. Mark work as planned, attempted, verified locally, or merged upstream; these states have different meanings.
