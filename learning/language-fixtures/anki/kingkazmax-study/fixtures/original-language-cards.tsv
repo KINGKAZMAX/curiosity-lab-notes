@@ -1,0 +1,13 @@
+record_id	language	expression	reading	meaning_zh	context	source	created_on
+en-fixture-001	en	interface		界面	The interface shows one task at a time.	self-authored fixture	2026-10-27
+en-fixture-002	en	compare		比较	I compare two simple layouts.	self-authored fixture	2026-10-27
+en-fixture-003	en	evidence		证据	I keep evidence for each design decision.	self-authored fixture	2026-10-27
+en-fixture-004	en	revise		修改	I revise the paragraph after feedback.	self-authored fixture	2026-10-27
+en-fixture-005	en	exhibit		展品	This exhibit has a short description.	self-authored fixture	2026-10-27
+en-fixture-006	en	practice		练习	I practice explaining my project.	self-authored fixture	2026-10-27
+ja-fixture-001	ja	展示	てんじ	展示	展示を見ます。	self-authored fixture	2026-10-27
+ja-fixture-002	ja	記録	きろく	记录	記録を読みます。	self-authored fixture	2026-10-27
+ja-fixture-003	ja	比較	ひかく	比较	二つの案を比較します。	self-authored fixture	2026-10-27
+ja-fixture-004	ja	説明	せつめい	说明	作品を説明します。	self-authored fixture	2026-10-27
+ja-fixture-005	ja	練習	れんしゅう	练习	毎日少し練習します。	self-authored fixture	2026-10-27
+ja-fixture-006	ja	学習	がくしゅう	学习	学習の記録を書きます。	self-authored fixture	2026-10-27
