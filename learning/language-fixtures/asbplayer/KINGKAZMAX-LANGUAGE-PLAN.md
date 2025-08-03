@@ -11,3 +11,7 @@ English and Japanese are being rebuilt from fundamentals. Long-term goals are IE
 ## Why this upstream
 
 A focused subtitle and sentence-mining project for small listening exercises; the current canonical repository is asbplayer/asbplayer, redirected from killergerbah/asbplayer. Metadata snapshot: 1,494 stars on 2026-10-27. Stars indicate popularity, not a standardized quality rating.
+
+## First small adaptation
+
+Use a four-cue original SRT and a provenance manifest to design a short listening-to-card workflow. Record a matching original audio/video clip later; no media has been produced or imported by this task.
