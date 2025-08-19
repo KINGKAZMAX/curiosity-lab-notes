@@ -15,3 +15,10 @@ A focused subtitle and sentence-mining project for small listening exercises; th
 ## First small adaptation
 
 Use a four-cue original SRT and a provenance manifest to design a short listening-to-card workflow. Record a matching original audio/video clip later; no media has been produced or imported by this task.
+
+## Acceptance checks
+
+- [ ] SRT cue numbers are sequential and times are monotonic and non-overlapping.
+- [ ] The manifest explicitly states that this is a text-only fixture with no recorded media yet.
+- [ ] Every future card can be traced to a clip ID, cue, source rights, and actual learning date.
+- [ ] A real playback/import test is documented only after it is executed.
