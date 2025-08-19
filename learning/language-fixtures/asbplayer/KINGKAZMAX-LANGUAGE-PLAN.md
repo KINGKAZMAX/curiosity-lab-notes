@@ -22,3 +22,7 @@ Use a four-cue original SRT and a provenance manifest to design a short listenin
 - [ ] The manifest explicitly states that this is a text-only fixture with no recorded media yet.
 - [ ] Every future card can be traced to a clip ID, cue, source rights, and actual learning date.
 - [ ] A real playback/import test is documented only after it is executed.
+
+## Working method
+
+Start by reading the upstream documentation and contribution instructions. Inspect the bundled original fixtures before touching a personal collection. Make one small change, record the upstream revision and environment, then retain the exact command or manual steps and observed result. A written plan or passing file-format check does not establish that the application integration works.
