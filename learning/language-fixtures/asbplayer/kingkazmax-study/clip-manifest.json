@@ -1,0 +1,18 @@
+{
+  "clip_id": "self-authored-language-fixture-001",
+  "created_on": "2026-10-27",
+  "status": "text-only-fixture",
+  "media_file": null,
+  "subtitles": "original-practice.srt",
+  "rights": "Original subtitle text authored for this study plan; no third-party media is bundled.",
+  "recording_date": null,
+  "runtime_playback_test": "pending",
+  "future_card_fields": [
+    "clip_id",
+    "cue_number",
+    "language",
+    "own_sentence",
+    "source_rights",
+    "actual_study_date"
+  ]
+}
