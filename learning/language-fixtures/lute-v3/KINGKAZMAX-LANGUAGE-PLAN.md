@@ -11,3 +11,7 @@ English and Japanese are being rebuilt from fundamentals. Long-term goals are IE
 ## Why this upstream
 
 A language-reading tool suited to tracking comprehension, unknown terms, and summaries alongside an Obsidian note; selected for direct learning fit rather than popularity alone. Metadata snapshot: 1,600 stars on 2026-10-27. Stars indicate popularity, not a standardized quality rating.
+
+## First small adaptation
+
+Design a reading-log-to-Markdown contract using two original miniature texts and a CSV fixture. Keep reading evidence separate from proposed lesson completion.
