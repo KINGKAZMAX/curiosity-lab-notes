@@ -15,3 +15,10 @@ A language-reading tool suited to tracking comprehension, unknown terms, and sum
 ## First small adaptation
 
 Design a reading-log-to-Markdown contract using two original miniature texts and a CSV fixture. Keep reading evidence separate from proposed lesson completion.
+
+## Acceptance checks
+
+- [ ] The English and Japanese text samples are explicitly self-authored and carry unique IDs.
+- [ ] Each reading-log row links a text ID, own summary, terms to review, and a status.
+- [ ] A future export handles punctuation, Unicode, empty observations, and repeat runs without silently overwriting a private note.
+- [ ] Actual reading time and scores remain blank until measured.
