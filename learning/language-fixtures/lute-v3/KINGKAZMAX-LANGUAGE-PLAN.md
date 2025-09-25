@@ -22,3 +22,7 @@ Design a reading-log-to-Markdown contract using two original miniature texts and
 - [ ] Each reading-log row links a text ID, own summary, terms to review, and a status.
 - [ ] A future export handles punctuation, Unicode, empty observations, and repeat runs without silently overwriting a private note.
 - [ ] Actual reading time and scores remain blank until measured.
+
+## Working method
+
+Start by reading the upstream documentation and contribution instructions. Inspect the bundled original fixtures before touching a personal collection. Make one small change, record the upstream revision and environment, then retain the exact command or manual steps and observed result. A written plan or passing file-format check does not establish that the application integration works.
