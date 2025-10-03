@@ -30,3 +30,11 @@ Start by reading the upstream documentation and contribution instructions. Inspe
 ## Second-brain record
 
 Keep a stable record ID, the actual study date, the source URL, the original answer, the correction, and the relevant commit URL in the private Obsidian record. The public fork contains reusable examples and adaptation code only. Mark work as planned, attempted, verified locally, or merged upstream; these states have different meanings.
+
+## Attribution and resources
+
+Retain upstream authorship and license files. GitHub reports `MIT` for the repository; review the actual license and bundled notices before redistributing any component. Dictionary data, audio, models, and media can have separate licenses.
+
+- [Official documentation](https://luteorg.github.io/lute-manual/)
+
+The examples are newly authored study fixtures. They are not official IELTS/JLPT questions, historical learning records, or evidence that a past experiment occurred.
