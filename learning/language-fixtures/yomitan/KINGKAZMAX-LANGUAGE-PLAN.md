@@ -11,3 +11,7 @@ English and Japanese are being rebuilt from fundamentals. Long-term goals are IE
 ## Why this upstream
 
 A language-focused browser dictionary project suited to Japanese reading and a later Anki field mapping; lower stars than general readers but closer to the stated Japanese goal. Metadata snapshot: 2,902 stars on 2026-10-27. Stars indicate popularity, not a standardized quality rating.
+
+## First small adaptation
+
+Review a proposed dictionary-to-card field contract using six original Japanese examples. Compare the contract with the current official Anki integration documentation before producing real extension settings.
