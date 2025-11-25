@@ -15,3 +15,10 @@ A language-focused browser dictionary project suited to Japanese reading and a l
 ## First small adaptation
 
 Review a proposed dictionary-to-card field contract using six original Japanese examples. Compare the contract with the current official Anki integration documentation before producing real extension settings.
+
+## Acceptance checks
+
+- [ ] Expression, reading, own example, source URL, and source date have distinct fields.
+- [ ] Dictionary definitions and audio retain their separate licensing and provenance; none are bundled in this fixture.
+- [ ] Repeated captures of the same example have an explicit deduplication key.
+- [ ] The JSON contract is labelled a study specification, not importable Yomitan settings.
