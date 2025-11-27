@@ -22,3 +22,7 @@ Review a proposed dictionary-to-card field contract using six original Japanese 
 - [ ] Dictionary definitions and audio retain their separate licensing and provenance; none are bundled in this fixture.
 - [ ] Repeated captures of the same example have an explicit deduplication key.
 - [ ] The JSON contract is labelled a study specification, not importable Yomitan settings.
+
+## Working method
+
+Start by reading the upstream documentation and contribution instructions. Inspect the bundled original fixtures before touching a personal collection. Make one small change, record the upstream revision and environment, then retain the exact command or manual steps and observed result. A written plan or passing file-format check does not establish that the application integration works.
