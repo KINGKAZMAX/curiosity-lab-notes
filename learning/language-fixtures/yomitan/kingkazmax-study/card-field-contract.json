@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "status": "study-contract-not-importable-extension-settings",
+  "created_on": "2026-10-27",
+  "documentation": "https://yomitan.wiki/anki/",
+  "required_fields": [
+    "record_id",
+    "language",
+    "expression",
+    "reading",
+    "meaning_zh",
+    "context",
+    "source",
+    "created_on"
+  ],
+  "deduplication_proposal": [
+    "language",
+    "expression",
+    "context"
+  ],
+  "dictionary_content_bundled": false,
+  "audio_content_bundled": false,
+  "examples": [
+    {
+      "record_id": "ja-fixture-001",
+      "language": "ja",
+      "expression": "展示",
+      "reading": "てんじ",
+      "meaning_zh": "展示",
+      "context": "展示を見ます。",
+      "source": "self-authored fixture",
+      "created_on": "2026-10-27"
+    },
+    {
+      "record_id": "ja-fixture-002",
+      "language": "ja",
+      "expression": "記録",
+      "reading": "きろく",
+      "meaning_zh": "记录",
+      "context": "記録を読みます。",
+      "source": "self-authored fixture",
+      "created_on": "2026-10-27"
+    },
+    {
+      "record_id": "ja-fixture-003",
+      "language": "ja",
+      "expression": "比較",
+      "reading": "ひかく",
+      "meaning_zh": "比较",
+      "context": "二つの案を比較します。",
+      "source": "self-authored fixture",
+      "created_on": "2026-10-27"
+    },
+    {
+      "record_id": "ja-fixture-004",
+      "language": "ja",
+      "expression": "説明",
+      "reading": "せつめい",
+      "meaning_zh": "说明",
+      "context": "作品を説明します。",
+      "source": "self-authored fixture",
+      "created_on": "2026-10-27"
+    },
+    {
+      "record_id": "ja-fixture-005",
+      "language": "ja",
+      "expression": "練習",
+      "reading": "れんしゅう",
+      "meaning_zh": "练习",
+      "context": "毎日少し練習します。",
+      "source": "self-authored fixture",
+      "created_on": "2026-10-27"
+    },
+    {
+      "record_id": "ja-fixture-006",
+      "language": "ja",
+      "expression": "学習",
+      "reading": "がくしゅう",
+      "meaning_zh": "学习",
+      "context": "学習の記録を書きます。",
+      "source": "self-authored fixture",
+      "created_on": "2026-10-27"
+    }
+  ],
+  "runtime_validation": "pending"
+}
