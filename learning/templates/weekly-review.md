@@ -1,0 +1,24 @@
+---
+id:
+week_start:
+week_end:
+status: draft
+english_minutes_actual:
+japanese_minutes_actual:
+project_minutes_actual:
+review_minutes_actual:
+---
+
+# 每周学习回顾
+
+[返回学习总览](../README.md) · [12 周计划](../12-week-plan.md) · [学习记录模板](learning-record.md)
+
+只在本周实际结束后填写事实；未完成的内容保留为待办，不补写虚构次数或成绩。
+
+## 这周实际完成了什么
+
+| 主线 | 产出或实际学习记录 ID | 证据链接 | 尚未完成 |
+|---|---|---|---|
+| 英语基础与 IELTS |  |  |  |
+| 日语基础与 JLPT |  |  |  |
+| 一个工程或研究练习 |  |  |  |
