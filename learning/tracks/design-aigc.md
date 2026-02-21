@@ -19,3 +19,13 @@
 - [ ] 生成设置与实际输出能区分
 - [ ] 人工取舍有文字说明
 - [ ] 使用素材和模型前核对来源与许可，不预填已生成结果
+
+## 本轮外部来源与个人 Fork
+
+| 个人 Fork | 外部上游 | 学习与改造计划 |
+|---|---|---|
+| [KINGKAZMAX/ComfyUI](https://github.com/KINGKAZMAX/ComfyUI) | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | [专属计划](https://github.com/KINGKAZMAX/ComfyUI/blob/master/KINGKAZMAX-STUDY.md) |
+| [KINGKAZMAX/Graphite](https://github.com/KINGKAZMAX/Graphite) | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | [专属计划](https://github.com/KINGKAZMAX/Graphite/blob/master/KINGKAZMAX-STUDY.md) |
+| [KINGKAZMAX/excalidraw](https://github.com/KINGKAZMAX/excalidraw) | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | [专属计划](https://github.com/KINGKAZMAX/excalidraw/blob/master/KINGKAZMAX-STUDY.md) |
+
+这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
