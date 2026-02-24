@@ -29,3 +29,9 @@
 | [KINGKAZMAX/excalidraw](https://github.com/KINGKAZMAX/excalidraw) | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | [专属计划](https://github.com/KINGKAZMAX/excalidraw/blob/master/KINGKAZMAX-STUDY.md) |
 
 这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
+
+## 相关新学习笔记
+
+- [comfy org  comfyui](../../notes/open-source-study/comfy-org--comfyui.md)
+- [graphiteeditor  graphite](../../notes/open-source-study/graphiteeditor--graphite.md)
+- [decision records for ai cocreation](../../notes/human-ai-interaction/decision-records-for-ai-cocreation.md)
