@@ -19,3 +19,12 @@
 - [ ] 事实与个人解释分开
 - [ ] 来源能打开且支持对应内容
 - [ ] 未知信息留空或标注待核实，不代写社区观点
+
+## 本轮外部来源与个人 Fork
+
+| 个人 Fork | 外部上游 | 学习与改造计划 |
+|---|---|---|
+| [KINGKAZMAX/d3](https://github.com/KINGKAZMAX/d3) | [d3/d3](https://github.com/d3/d3) | [专属计划](https://github.com/KINGKAZMAX/d3/blob/main/KINGKAZMAX-STUDY.md) |
+| [KINGKAZMAX/excalidraw](https://github.com/KINGKAZMAX/excalidraw) | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | [专属计划](https://github.com/KINGKAZMAX/excalidraw/blob/master/KINGKAZMAX-STUDY.md) |
+
+这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
