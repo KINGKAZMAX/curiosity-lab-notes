@@ -28,3 +28,9 @@
 | [KINGKAZMAX/excalidraw](https://github.com/KINGKAZMAX/excalidraw) | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | [专属计划](https://github.com/KINGKAZMAX/excalidraw/blob/master/KINGKAZMAX-STUDY.md) |
 
 这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
+
+## 相关新学习笔记
+
+- [digital object provenance chain](../../notes/digital-culture/digital-object-provenance-chain.md)
+- [multiple interpretations with attribution](../../notes/digital-culture/multiple-interpretations-with-attribution.md)
+- [community permission records](../../notes/digital-culture/community-permission-records.md)
