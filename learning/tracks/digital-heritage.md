@@ -34,3 +34,7 @@
 - [digital object provenance chain](../../notes/digital-culture/digital-object-provenance-chain.md)
 - [multiple interpretations with attribution](../../notes/digital-culture/multiple-interpretations-with-attribution.md)
 - [community permission records](../../notes/digital-culture/community-permission-records.md)
+
+## 从计划进入实际贡献
+
+先完成一个小输出，再保存真实日期、修改理由和检查结果。文档可以标记为已起草；代码只有经过对应检查才标记为已验证。向上游提交的问题、PR 和最终合并状态分别记录，不把个人 Fork 的存在当作上游贡献。
