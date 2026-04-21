@@ -31,3 +31,9 @@
 | [KINGKAZMAX/firecrawl](https://github.com/KINGKAZMAX/firecrawl) | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | [专属计划](https://github.com/KINGKAZMAX/firecrawl/blob/main/KINGKAZMAX-STUDY.md) |
 
 这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
+
+## 相关新学习笔记
+
+- [microsoft  markitdown](../../notes/open-source-study/microsoft--markitdown.md)
+- [mermaid js  mermaid](../../notes/open-source-study/mermaid-js--mermaid.md)
+- [n8n io  n8n](../../notes/open-source-study/n8n-io--n8n.md)
