@@ -30,3 +30,11 @@
 | [KINGKAZMAX/markitdown](https://github.com/KINGKAZMAX/markitdown) | [microsoft/markitdown](https://github.com/microsoft/markitdown) | [专属计划](https://github.com/KINGKAZMAX/markitdown/blob/main/KINGKAZMAX-STUDY.md) |
 
 这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
+
+## 相关新学习笔记
+
+- [cross language exhibit labels](../../notes/digital-culture/cross-language-exhibit-labels.md)
+- [audio captions with context](../../notes/digital-culture/audio-captions-with-context.md)
+- [microsoft  markitdown](../../notes/open-source-study/microsoft--markitdown.md)
+
+[英语、雅思与日语完整路线](../languages/README.md) · [官方来源清单](../../data/language-official-sources.json)
