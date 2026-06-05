@@ -19,3 +19,13 @@
 - [ ] 能区分临时上下文与持久记忆
 - [ ] 删除后预期状态写清楚
 - [ ] 没有把设计方案或虚构对话写成真实用户研究结果
+
+## 本轮外部来源与个人 Fork
+
+| 个人 Fork | 外部上游 | 学习与改造计划 |
+|---|---|---|
+| [KINGKAZMAX/hermes-agent](https://github.com/KINGKAZMAX/hermes-agent) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [专属计划](https://github.com/KINGKAZMAX/hermes-agent/blob/main/KINGKAZMAX-STUDY.md) |
+| [KINGKAZMAX/ollama](https://github.com/KINGKAZMAX/ollama) | [ollama/ollama](https://github.com/ollama/ollama) | [专属计划](https://github.com/KINGKAZMAX/ollama/blob/main/KINGKAZMAX-STUDY.md) |
+| [KINGKAZMAX/transformers](https://github.com/KINGKAZMAX/transformers) | [huggingface/transformers](https://github.com/huggingface/transformers) | [专属计划](https://github.com/KINGKAZMAX/transformers/blob/main/KINGKAZMAX-STUDY.md) |
+
+这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
