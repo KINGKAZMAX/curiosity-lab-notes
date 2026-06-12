@@ -35,3 +35,7 @@
 - [consent before character memory](../../notes/human-ai-interaction/consent-before-character-memory.md)
 - [calibrating trust with incomplete evidence](../../notes/human-ai-interaction/calibrating-trust-with-incomplete-evidence.md)
 - [nousresearch  hermes agent](../../notes/open-source-study/nousresearch--hermes-agent.md)
+
+## 从计划进入实际贡献
+
+先完成一个小输出，再保存真实日期、修改理由和检查结果。文档可以标记为已起草；代码只有经过对应检查才标记为已验证。向上游提交的问题、PR 和最终合并状态分别记录，不把个人 Fork 的存在当作上游贡献。
