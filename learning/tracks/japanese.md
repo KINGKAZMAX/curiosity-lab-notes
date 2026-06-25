@@ -19,3 +19,14 @@
 - [ ] 已会、混淆和未学项目分开
 - [ ] 卡片附语境和来源，不以卡片数量当掌握证明
 - [ ] 不把样题正确率或十二周计划直接换算成 N2 能力
+
+## 本轮外部来源与个人 Fork
+
+| 个人 Fork | 外部上游 | 学习与改造计划 |
+|---|---|---|
+| [KINGKAZMAX/anki](https://github.com/KINGKAZMAX/anki) | [ankitects/anki](https://github.com/ankitects/anki) | [专属计划](https://github.com/KINGKAZMAX/anki/blob/main/KINGKAZMAX-LANGUAGE-PLAN.md) |
+| [KINGKAZMAX/yomitan](https://github.com/KINGKAZMAX/yomitan) | [yomidevs/yomitan](https://github.com/yomidevs/yomitan) | [专属计划](https://github.com/KINGKAZMAX/yomitan/blob/master/KINGKAZMAX-LANGUAGE-PLAN.md) |
+| [KINGKAZMAX/lute-v3](https://github.com/KINGKAZMAX/lute-v3) | [LuteOrg/lute-v3](https://github.com/LuteOrg/lute-v3) | [专属计划](https://github.com/KINGKAZMAX/lute-v3/blob/develop/KINGKAZMAX-LANGUAGE-PLAN.md) |
+| [KINGKAZMAX/asbplayer](https://github.com/KINGKAZMAX/asbplayer) | [asbplayer/asbplayer](https://github.com/asbplayer/asbplayer) | [专属计划](https://github.com/KINGKAZMAX/asbplayer/blob/main/KINGKAZMAX-LANGUAGE-PLAN.md) |
+
+这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
