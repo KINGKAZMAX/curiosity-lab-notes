@@ -30,3 +30,10 @@
 | [KINGKAZMAX/asbplayer](https://github.com/KINGKAZMAX/asbplayer) | [asbplayer/asbplayer](https://github.com/asbplayer/asbplayer) | [专属计划](https://github.com/KINGKAZMAX/asbplayer/blob/main/KINGKAZMAX-LANGUAGE-PLAN.md) |
 
 这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
+
+## 相关新学习笔记
+
+- [cross language exhibit labels](../../notes/digital-culture/cross-language-exhibit-labels.md)
+- [audio captions with context](../../notes/digital-culture/audio-captions-with-context.md)
+
+[英语、雅思与日语完整路线](../languages/README.md) · [官方来源清单](../../data/language-official-sources.json)
