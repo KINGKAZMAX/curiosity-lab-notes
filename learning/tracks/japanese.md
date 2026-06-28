@@ -37,3 +37,7 @@
 - [audio captions with context](../../notes/digital-culture/audio-captions-with-context.md)
 
 [英语、雅思与日语完整路线](../languages/README.md) · [官方来源清单](../../data/language-official-sources.json)
+
+## 从计划进入实际贡献
+
+先完成一个小输出，再保存真实日期、修改理由和检查结果。文档可以标记为已起草；代码只有经过对应检查才标记为已验证。向上游提交的问题、PR 和最终合并状态分别记录，不把个人 Fork 的存在当作上游贡献。
