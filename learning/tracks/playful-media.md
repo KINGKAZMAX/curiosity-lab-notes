@@ -19,3 +19,12 @@
 - [ ] 主要操作能通过键盘完成
 - [ ] 有暂停与复位路径
 - [ ] 第三方素材和原始项目各自署名
+
+## 本轮外部来源与个人 Fork
+
+| 个人 Fork | 外部上游 | 学习与改造计划 |
+|---|---|---|
+| [KINGKAZMAX/godot](https://github.com/KINGKAZMAX/godot) | [godotengine/godot](https://github.com/godotengine/godot) | [专属计划](https://github.com/KINGKAZMAX/godot/blob/master/KINGKAZMAX-STUDY.md) |
+| [KINGKAZMAX/p5.js](https://github.com/KINGKAZMAX/p5.js) | [processing/p5.js](https://github.com/processing/p5.js) | [专属计划](https://github.com/KINGKAZMAX/p5.js/blob/main/KINGKAZMAX-STUDY.md) |
+
+这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
