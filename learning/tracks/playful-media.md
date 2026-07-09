@@ -28,3 +28,9 @@
 | [KINGKAZMAX/p5.js](https://github.com/KINGKAZMAX/p5.js) | [processing/p5.js](https://github.com/processing/p5.js) | [专属计划](https://github.com/KINGKAZMAX/p5.js/blob/main/KINGKAZMAX-STUDY.md) |
 
 这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
+
+## 相关新学习笔记
+
+- [small rules legible feedback](../../notes/playful-media/small-rules-legible-feedback.md)
+- [recoverable failure states](../../notes/playful-media/recoverable-failure-states.md)
+- [provenance in a retro play archive](../../notes/playful-media/provenance-in-a-retro-play-archive.md)
