@@ -19,3 +19,12 @@
 - [ ] 出处能定位到对应段落或图表
 - [ ] 作者观点与自己的推断可区分
 - [ ] 未完成实验不写成结果；引用信息需要核对
+
+## 本轮外部来源与个人 Fork
+
+| 个人 Fork | 外部上游 | 学习与改造计划 |
+|---|---|---|
+| [KINGKAZMAX/markitdown](https://github.com/KINGKAZMAX/markitdown) | [microsoft/markitdown](https://github.com/microsoft/markitdown) | [专属计划](https://github.com/KINGKAZMAX/markitdown/blob/main/KINGKAZMAX-STUDY.md) |
+| [KINGKAZMAX/mermaid](https://github.com/KINGKAZMAX/mermaid) | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | [专属计划](https://github.com/KINGKAZMAX/mermaid/blob/develop/KINGKAZMAX-STUDY.md) |
+
+这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
