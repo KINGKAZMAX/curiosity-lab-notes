@@ -28,3 +28,9 @@
 | [KINGKAZMAX/mermaid](https://github.com/KINGKAZMAX/mermaid) | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | [专属计划](https://github.com/KINGKAZMAX/mermaid/blob/develop/KINGKAZMAX-STUDY.md) |
 
 这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
+
+## 相关新学习笔记
+
+- [evidence logs for interaction experiments](../../notes/human-ai-interaction/evidence-logs-for-interaction-experiments.md)
+- [microsoft  markitdown](../../notes/open-source-study/microsoft--markitdown.md)
+- [mermaid js  mermaid](../../notes/open-source-study/mermaid-js--mermaid.md)
