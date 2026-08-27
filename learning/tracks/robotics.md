@@ -19,3 +19,12 @@
 - [ ] 人工接管入口明确
 - [ ] 连接丢失时不会把旧状态显示为最新
 - [ ] 只声称模拟验证，不声称真实硬件或临床结果
+
+## 本轮外部来源与个人 Fork
+
+| 个人 Fork | 外部上游 | 学习与改造计划 |
+|---|---|---|
+| [KINGKAZMAX/excalidraw](https://github.com/KINGKAZMAX/excalidraw) | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | [专属计划](https://github.com/KINGKAZMAX/excalidraw/blob/master/KINGKAZMAX-STUDY.md) |
+| [KINGKAZMAX/hermes-agent](https://github.com/KINGKAZMAX/hermes-agent) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [专属计划](https://github.com/KINGKAZMAX/hermes-agent/blob/main/KINGKAZMAX-STUDY.md) |
+
+这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
