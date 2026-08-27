@@ -34,3 +34,7 @@
 - [visible human override in robot controls](../../notes/human-ai-interaction/visible-human-override-in-robot-controls.md)
 - [uncertainty in rehabilitation prototype feedback](../../notes/human-ai-interaction/uncertainty-in-rehabilitation-prototype-feedback.md)
 - [evidence logs for interaction experiments](../../notes/human-ai-interaction/evidence-logs-for-interaction-experiments.md)
+
+## 从计划进入实际贡献
+
+先完成一个小输出，再保存真实日期、修改理由和检查结果。文档可以标记为已起草；代码只有经过对应检查才标记为已验证。向上游提交的问题、PR 和最终合并状态分别记录，不把个人 Fork 的存在当作上游贡献。
