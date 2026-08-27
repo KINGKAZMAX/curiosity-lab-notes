@@ -28,3 +28,9 @@
 | [KINGKAZMAX/hermes-agent](https://github.com/KINGKAZMAX/hermes-agent) | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [专属计划](https://github.com/KINGKAZMAX/hermes-agent/blob/main/KINGKAZMAX-STUDY.md) |
 
 这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
+
+## 相关新学习笔记
+
+- [visible human override in robot controls](../../notes/human-ai-interaction/visible-human-override-in-robot-controls.md)
+- [uncertainty in rehabilitation prototype feedback](../../notes/human-ai-interaction/uncertainty-in-rehabilitation-prototype-feedback.md)
+- [evidence logs for interaction experiments](../../notes/human-ai-interaction/evidence-logs-for-interaction-experiments.md)
