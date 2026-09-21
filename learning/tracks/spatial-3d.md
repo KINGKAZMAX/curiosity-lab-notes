@@ -19,3 +19,12 @@
 - [ ] 单位和坐标约定明确
 - [ ] 选中状态有可读的文字表示
 - [ ] 复位动作和错误条件可检查
+
+## 本轮外部来源与个人 Fork
+
+| 个人 Fork | 外部上游 | 学习与改造计划 |
+|---|---|---|
+| [KINGKAZMAX/three.js](https://github.com/KINGKAZMAX/three.js) | [mrdoob/three.js](https://github.com/mrdoob/three.js) | [专属计划](https://github.com/KINGKAZMAX/three.js/blob/dev/KINGKAZMAX-STUDY.md) |
+| [KINGKAZMAX/react-three-fiber](https://github.com/KINGKAZMAX/react-three-fiber) | [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) | [专属计划](https://github.com/KINGKAZMAX/react-three-fiber/blob/master/KINGKAZMAX-STUDY.md) |
+
+这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
