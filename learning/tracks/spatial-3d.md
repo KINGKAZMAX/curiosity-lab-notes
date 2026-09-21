@@ -28,3 +28,9 @@
 | [KINGKAZMAX/react-three-fiber](https://github.com/KINGKAZMAX/react-three-fiber) | [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) | [专属计划](https://github.com/KINGKAZMAX/react-three-fiber/blob/master/KINGKAZMAX-STUDY.md) |
 
 这些入口来自本轮检索的外部项目及其新建 Fork。练习采用原创的小场景；Fork 和学习计划本身不表示已经掌握工具，也不表示改动已被上游接受。
+
+## 相关新学习笔记
+
+- [scale and unit handoff](../../notes/computational-space/scale-and-unit-handoff.md)
+- [camera guidance with user control](../../notes/computational-space/camera-guidance-with-user-control.md)
+- [mrdoob  three js](../../notes/open-source-study/mrdoob--three-js.md)
