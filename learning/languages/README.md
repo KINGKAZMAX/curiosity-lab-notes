@@ -68,3 +68,9 @@ Academic 包含听力、阅读、写作和口语，总时长约 2 小时 45 分�
 每份写作按任务完成、连贯衔接、词汇、语法四个维度写反馈；口语按流利连贯、词汇、语法、发音记录观察。这里使用公开标准做学习反馈，不复制整份评分表，也不把未评阅作品填上预测高分。[写作评分标准](https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf)、[口语评分标准](https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf)
 
 练习入口：[IELTS Academic 官方样题](https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test)。保存题目链接和自己的答案，公开仓库不搬运教材、付费题库、完整考试音频或未获授权的试题。
+
+## 日语专项目录怎么使用
+
+JLPT 从 N5 到 N1 逐级增加难度，N3 连接基础级与较高级。N2 目标需要长期阅读、词汇语法和听力积累，不能由“背完多少单词”单独判定。[官方级别说明](https://www.jlpt.jp/e/about/levelsummary.html)
+
+使用 [JLPT 官方样题](https://www.jlpt.jp/e/samples/forlearners.html) 了解各级题型，并参照 [官方科目与时间](https://www.jlpt.jp/e/guideline/testsections.html) 做后期分项练习。日语学习中保留口语和写作练习，即使它们不在 JLPT 考试科目中。
