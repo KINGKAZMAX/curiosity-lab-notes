@@ -58,3 +58,13 @@ baseline: rebuild_from_basics
 - **IELTS 7.5 专项阶段：**按目标机构的总分与单项门槛建立差距表，围绕真实最弱单项安排练习；使用不同的授权材料定期计时复测，并保留评分依据。达到稳定表现后再考虑报名，不因计划日历到了某周就默认具备目标水平。
 - **日语基础门槛：**能稳定认读假名、理解并自己组成基本句子、听懂适配难度的短对话；之后依次补齐 N5/N4 基础、N3 过渡和 N2 阅读听力要求。十二周结束只决定下一阶段，不预填“已达到 N2”。
 - **日语使用能力单独维护：**每周至少两次短录音和一篇简短自写文本。JLPT 不考口语与作文，其成绩不能直接证明表达能力。[官方 FAQ](https://www.jlpt.jp/e/faq/)
+
+## IELTS 专项目录怎么使用
+
+Academic 包含听力、阅读、写作和口语，总时长约 2 小时 45 分钟；阅读与写作各 60 分钟，口语约 11–14 分钟。[官方考试结构](https://ielts.org/take-a-test/test-types/ielts-academic-test)
+
+写作 Task 1 至少 150 词，Task 2 至少 250 词；Task 2 在写作评分中的权重是 Task 1 的两倍。练习时分别存原稿、批注和修改稿，不只保存最后的漂亮版本。[官方写作说明](https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing)
+
+每份写作按任务完成、连贯衔接、词汇、语法四个维度写反馈；口语按流利连贯、词汇、语法、发音记录观察。这里使用公开标准做学习反馈，不复制整份评分表，也不把未评阅作品填上预测高分。[写作评分标准](https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf)、[口语评分标准](https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf)
+
+练习入口：[IELTS Academic 官方样题](https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test)。保存题目链接和自己的答案，公开仓库不搬运教材、付费题库、完整考试音频或未获授权的试题。
