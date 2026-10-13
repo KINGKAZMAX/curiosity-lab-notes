@@ -85,3 +85,21 @@ JLPT 从 N5 到 N1 逐级增加难度，N3 连接基础级与较高级。N2 目�
 | 周复盘 | 本周完成、没有完成、困难、下周一件事 | 链接实际文件或 commit；没有证据则保持待办 |
 
 建议给每条记录固定 ID，例如 `en-2026-10-27-01`。Obsidian 记录保存 GitHub commit 链接，公开模板只保存非私密的记录 ID；不要把私人录音和成绩自动公开。历史年份索引可以回顾已有材料，但所有新练习与新改造使用真实完成日期。
+
+## 可直接使用的学习记录模板
+
+```yaml
+id: en-YYYY-MM-DD-01
+language: en
+track: foundation
+status: planned
+planned_for: YYYY-MM-DD
+completed_on:
+source_url:
+artifact:
+github_commit:
+reviewer:
+minutes_actual:
+```
+
+正文依次填写：本次要解决的问题、独立完成的原始答案、发现的错误、修订理由、下次重测方式。`completed_on`、用时和结果在实际完成后填写。改造任务先记录输入和预期结果，再记录实际运行结果。
