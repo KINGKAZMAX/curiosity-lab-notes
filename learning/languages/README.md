@@ -103,3 +103,9 @@ minutes_actual:
 ```
 
 正文依次填写：本次要解决的问题、独立完成的原始答案、发现的错误、修订理由、下次重测方式。`completed_on`、用时和结果在实际完成后填写。改造任务先记录输入和预期结果，再记录实际运行结果。
+
+## 每周工具任务候选
+
+只选一个：Anki 卡片字段和导入检查；Yomitan 到个人卡片字段的映射文档；Lute 阅读记录导出到 Markdown 的样例；asbplayer 字幕片段到学习卡片的字段与来源追踪。具体候选、星标快照和验收条件见[语言工具清单](../../data/language-repositories.json)。这些是待做任务，尚未安装工具或验证与现有 Obsidian 插件的兼容性。
+
+[语言工具选择与星标快照](../../data/language-repositories.json) · [官方来源核查清单](../../data/language-official-sources.json)
