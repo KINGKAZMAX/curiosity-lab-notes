@@ -1,0 +1,3166 @@
+[
+  {
+    "date": "2019-08-23",
+    "path": "notes/computational-space/accessible-map-alternatives.md",
+    "section": "External project context",
+    "commit": "c3f5c0ed02c737254d819a7f10cca9762c3f0ed9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-08-28",
+    "path": "notes/computational-space/accessible-map-alternatives.md",
+    "section": "Question",
+    "commit": "34fa9e35b5043ea5d5e90b6984ba215447d18189",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-08-30",
+    "path": "notes/computational-space/accessible-map-alternatives.md",
+    "section": "Design proposal",
+    "commit": "9af1e36177c5e50ec683d0ab4d4317147f4222f5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-09-18",
+    "path": "notes/computational-space/accessible-map-alternatives.md",
+    "section": "Procedure",
+    "commit": "334e011a5a83111d9c5c36714dfb1b1dfa02c6cc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-09-18",
+    "path": "notes/computational-space/accessible-map-alternatives.md",
+    "section": "Evaluation",
+    "commit": "efb5bedc6e1cf96bc145c87fa38fbcfe740ad09e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-09-18",
+    "path": "notes/computational-space/accessible-map-alternatives.md",
+    "section": "Limitations and next steps",
+    "commit": "2eae480f5c828e6930299bb563ffad16b67d8491",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-09-24",
+    "path": "notes/computational-space/camera-guidance-with-user-control.md",
+    "section": "External project context",
+    "commit": "842b44859c168e748bfebeb4dcc32e1e224f0971",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-09-25",
+    "path": "notes/computational-space/camera-guidance-with-user-control.md",
+    "section": "Question",
+    "commit": "0bc17ce7293b6ea242d91f4685294eb909bb78ce",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-10-19",
+    "path": "notes/computational-space/camera-guidance-with-user-control.md",
+    "section": "Design proposal",
+    "commit": "eaeea68d7d984869b274231297268f49dd7d39f2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-10-19",
+    "path": "notes/computational-space/camera-guidance-with-user-control.md",
+    "section": "Procedure",
+    "commit": "626b74557dfbbaf1f4a63fec518e9928575ca2d3",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-10-26",
+    "path": "notes/computational-space/camera-guidance-with-user-control.md",
+    "section": "Evaluation",
+    "commit": "0b90a02dda68c29e3c84be12cc8203f4babf1566",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-10-26",
+    "path": "notes/computational-space/camera-guidance-with-user-control.md",
+    "section": "Limitations and next steps",
+    "commit": "10eb552874b6ad1e4169c6057d3c30850bd52125",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-11-07",
+    "path": "notes/computational-space/globe-marker-aggregation.md",
+    "section": "External project context",
+    "commit": "9ce21c89451ea2138d8f8b384eff8bdb574127d7",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-11-27",
+    "path": "notes/computational-space/globe-marker-aggregation.md",
+    "section": "Question",
+    "commit": "d84c0a7d00281e87861d4042a0f64fe6dc99c70e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-12-01",
+    "path": "notes/computational-space/globe-marker-aggregation.md",
+    "section": "Design proposal",
+    "commit": "2e07dcdece63dbc3d7fb57ae9b36c993b4a52ddc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-12-01",
+    "path": "notes/computational-space/globe-marker-aggregation.md",
+    "section": "Procedure",
+    "commit": "7bc2e0a9745df22b4de89a1de737f174428596d0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2019-12-24",
+    "path": "notes/computational-space/globe-marker-aggregation.md",
+    "section": "Evaluation",
+    "commit": "cb6f53acd1ec55eb80348de028bfd9cc9700dee9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-01-11",
+    "path": "notes/computational-space/globe-marker-aggregation.md",
+    "section": "Limitations and next steps",
+    "commit": "a3df3affc361690ee4d8cff00675146424d668a0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-01-24",
+    "path": "notes/computational-space/offshore-information-layers.md",
+    "section": "External project context",
+    "commit": "dc65124300d125ba18be3c9dabf95039dc3751e0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-02-10",
+    "path": "notes/computational-space/offshore-information-layers.md",
+    "section": "Question",
+    "commit": "93b15ca721943caca39a94db50ecb2e93b3fa715",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-02-11",
+    "path": "notes/computational-space/offshore-information-layers.md",
+    "section": "Design proposal",
+    "commit": "3e59d6dc8a211351844e103ea4ab481f275a3f01",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-03-01",
+    "path": "notes/computational-space/offshore-information-layers.md",
+    "section": "Procedure",
+    "commit": "b204b99d82915987e5099aa49a0c3c6ecce91206",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-03-12",
+    "path": "notes/computational-space/offshore-information-layers.md",
+    "section": "Evaluation",
+    "commit": "3c1a5f24fbffdaafeb8773874391e914003fdbb1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-04-17",
+    "path": "notes/computational-space/offshore-information-layers.md",
+    "section": "Limitations and next steps",
+    "commit": "e736fcbbbed434ab099983bc966ac2c922562fc6",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-04-17",
+    "path": "notes/computational-space/parametric-massing-constraints.md",
+    "section": "External project context",
+    "commit": "032b020db62402368369c7375b9e93801c0fe7d2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-04-21",
+    "path": "notes/computational-space/parametric-massing-constraints.md",
+    "section": "Question",
+    "commit": "6e6feca12405294f9d43e18f1d1de689bdb726b4",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-05-05",
+    "path": "notes/computational-space/parametric-massing-constraints.md",
+    "section": "Design proposal",
+    "commit": "23678f799645a43cc27451be5c303df2bd7d50bd",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-05-16",
+    "path": "notes/computational-space/parametric-massing-constraints.md",
+    "section": "Procedure",
+    "commit": "2fb876edf91119d33a0e85b5e1b44f7090033c45",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-05-16",
+    "path": "notes/computational-space/parametric-massing-constraints.md",
+    "section": "Evaluation",
+    "commit": "c766f7c8231c63e129af3a008a1f39f824a06f06",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-06-18",
+    "path": "notes/computational-space/parametric-massing-constraints.md",
+    "section": "Limitations and next steps",
+    "commit": "c0a00cf832825ccef95c320002ea050b519f27fe",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-06-23",
+    "path": "notes/computational-space/participatory-urban-comparison.md",
+    "section": "External project context",
+    "commit": "26c94b52c03456dba5e08136cae9f50533b4bc67",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-07-08",
+    "path": "notes/computational-space/participatory-urban-comparison.md",
+    "section": "Question",
+    "commit": "dc8866471ffb7b7d57f4ae8857851bc6f5f3cbf8",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-07-08",
+    "path": "notes/computational-space/participatory-urban-comparison.md",
+    "section": "Design proposal",
+    "commit": "3c7dcb588f90acdb892c1acf8188f29aba9643c1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-07-17",
+    "path": "notes/computational-space/participatory-urban-comparison.md",
+    "section": "Procedure",
+    "commit": "c4579da02bfff2fd6e4b610e26415cfc74de7ee3",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-08-06",
+    "path": "notes/computational-space/participatory-urban-comparison.md",
+    "section": "Evaluation",
+    "commit": "e9a8d6b68a1f28dda75a9a5ea85fb7c969aeb713",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-08-17",
+    "path": "notes/computational-space/participatory-urban-comparison.md",
+    "section": "Limitations and next steps",
+    "commit": "6b1117f99351883d9f1b3579ad2a7260be2eae8f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-08-17",
+    "path": "notes/computational-space/reproducible-procedural-generation.md",
+    "section": "External project context",
+    "commit": "6ed5fa7932eb5c0f53ed737a992d13a891b8fab0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-09-22",
+    "path": "notes/computational-space/reproducible-procedural-generation.md",
+    "section": "Question",
+    "commit": "e10f55b9e6903dba4c0c883c3199fe7969f21f5a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-09-22",
+    "path": "notes/computational-space/reproducible-procedural-generation.md",
+    "section": "Design proposal",
+    "commit": "2e9dbe09eb04b3c96e1fd7406d67647d4dc2320e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-09-29",
+    "path": "notes/computational-space/reproducible-procedural-generation.md",
+    "section": "Procedure",
+    "commit": "52f55acfa888483de1d6cbbf12120f0dbc68e8b5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-09-29",
+    "path": "notes/computational-space/reproducible-procedural-generation.md",
+    "section": "Evaluation",
+    "commit": "0ccb94f77fabc2cd4bb82de8de60b85866484a76",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-09-29",
+    "path": "notes/computational-space/reproducible-procedural-generation.md",
+    "section": "Limitations and next steps",
+    "commit": "6e4769d882b92fb231b3ae7d33939b98141a7e85",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-10-04",
+    "path": "notes/computational-space/scale-and-unit-handoff.md",
+    "section": "External project context",
+    "commit": "743ae9606c7ac0277fae5302448b486f26083853",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-10-04",
+    "path": "notes/computational-space/scale-and-unit-handoff.md",
+    "section": "Question",
+    "commit": "2f8b18c5793ddc246ff732e3241d8e046ced2cce",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-10-04",
+    "path": "notes/computational-space/scale-and-unit-handoff.md",
+    "section": "Design proposal",
+    "commit": "4f3cc752361663097bdcacd445a53dc7fce79086",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-10-06",
+    "path": "notes/computational-space/scale-and-unit-handoff.md",
+    "section": "Procedure",
+    "commit": "4743a808e0d0044d52e14a0c5cbdd34318d36497",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-10-06",
+    "path": "notes/computational-space/scale-and-unit-handoff.md",
+    "section": "Evaluation",
+    "commit": "a28893d143690450bd98a78b791e4f385b7cd77d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-11-01",
+    "path": "notes/computational-space/scale-and-unit-handoff.md",
+    "section": "Limitations and next steps",
+    "commit": "5057baa56333f6259d4e9b3d1e2d4768d83d5ecc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-11-01",
+    "path": "notes/computational-space/spatial-interface-wayfinding.md",
+    "section": "External project context",
+    "commit": "fc5bd0c918b2ef580da4e5dad76249aab3a434b5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-11-03",
+    "path": "notes/computational-space/spatial-interface-wayfinding.md",
+    "section": "Question",
+    "commit": "9e170e77c288f472fe4585669bac5868bd7936e5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-12-12",
+    "path": "notes/computational-space/spatial-interface-wayfinding.md",
+    "section": "Design proposal",
+    "commit": "df0c9ee41230bc3889a164cf2788895c68030133",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2020-12-25",
+    "path": "notes/computational-space/spatial-interface-wayfinding.md",
+    "section": "Procedure",
+    "commit": "cbc0936126d4ff864ab4c8dddc46fe913fccc9b8",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-01-05",
+    "path": "notes/computational-space/spatial-interface-wayfinding.md",
+    "section": "Evaluation",
+    "commit": "c0d9545c8a4283a427b40abd97c609571a5069ac",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-01-23",
+    "path": "notes/computational-space/spatial-interface-wayfinding.md",
+    "section": "Limitations and next steps",
+    "commit": "15247639fe77d3331dc1f51c175f54c731961898",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-02-05",
+    "path": "notes/computational-space/three-dimensional-performance-budget.md",
+    "section": "External project context",
+    "commit": "e4ed6109695e144318900ec44f5964cfb00a90a0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-02-05",
+    "path": "notes/computational-space/three-dimensional-performance-budget.md",
+    "section": "Question",
+    "commit": "8e4455da0ff040cb7641de24c6b8f91c7c045e7b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-02-13",
+    "path": "notes/computational-space/three-dimensional-performance-budget.md",
+    "section": "Design proposal",
+    "commit": "1ea4d1fd0b8303897ab95d2f4f43f561a92a54fc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-02-13",
+    "path": "notes/computational-space/three-dimensional-performance-budget.md",
+    "section": "Procedure",
+    "commit": "09c399e1843b92623841d2d4a3acd42b072b5c56",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-03-16",
+    "path": "notes/computational-space/three-dimensional-performance-budget.md",
+    "section": "Evaluation",
+    "commit": "cd338bdb6a04d364d83921436587dcdad81efcc2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-03-30",
+    "path": "notes/computational-space/three-dimensional-performance-budget.md",
+    "section": "Limitations and next steps",
+    "commit": "9b5f8200cc55746e3899b394a6db6cc49cd23aa3",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-03-30",
+    "path": "notes/digital-culture/archive-missing-fields.md",
+    "section": "External project context",
+    "commit": "3422df8a856459498bb071046c2a38416c6b6c8c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-04-02",
+    "path": "notes/digital-culture/archive-missing-fields.md",
+    "section": "Question",
+    "commit": "bf2bfedd8b20b0a0448a70eab92f9bc4dff64cbe",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-04-22",
+    "path": "notes/digital-culture/archive-missing-fields.md",
+    "section": "Design proposal",
+    "commit": "dfd96f32bf04d27e6087595ef8a8817cb21e8b63",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-04-22",
+    "path": "notes/digital-culture/archive-missing-fields.md",
+    "section": "Procedure",
+    "commit": "e52fa1192c9ab401eb38c4e8166f20605a541068",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-05-18",
+    "path": "notes/digital-culture/archive-missing-fields.md",
+    "section": "Evaluation",
+    "commit": "cb51ccc92428b41c01b25ea56df7100b6171ff3d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-05-18",
+    "path": "notes/digital-culture/archive-missing-fields.md",
+    "section": "Limitations and next steps",
+    "commit": "76882c1445cdea49dd6325b069c0f6aa4b5f348d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-05-29",
+    "path": "notes/digital-culture/audio-captions-with-context.md",
+    "section": "External project context",
+    "commit": "265f5fc1ee161d32061b293faa8ca9a0744c1ca1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-05-29",
+    "path": "notes/digital-culture/audio-captions-with-context.md",
+    "section": "Question",
+    "commit": "61baaec9fdd8cb99df37877eee659f656a64af68",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-06-15",
+    "path": "notes/digital-culture/audio-captions-with-context.md",
+    "section": "Design proposal",
+    "commit": "82f729377d005fcb1bd40a1688f2512faadb172d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-06-22",
+    "path": "notes/digital-culture/audio-captions-with-context.md",
+    "section": "Procedure",
+    "commit": "24a43aff00c341e7792ec3f8d558eee4e2d94009",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-07-10",
+    "path": "notes/digital-culture/audio-captions-with-context.md",
+    "section": "Evaluation",
+    "commit": "eea9262259cfba4802c843fee095c443e7881685",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-07-10",
+    "path": "notes/digital-culture/audio-captions-with-context.md",
+    "section": "Limitations and next steps",
+    "commit": "541fb532b6dbb0efc969ed7bf9c663ed73ef3036",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-07-10",
+    "path": "notes/digital-culture/community-permission-records.md",
+    "section": "External project context",
+    "commit": "7539315dd5bc693d9d77afe2cfd551ef24b0d1f8",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-07-14",
+    "path": "notes/digital-culture/community-permission-records.md",
+    "section": "Question",
+    "commit": "9d34e181ad1a09d32670bf2960f4e7fee78beaf9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-08-21",
+    "path": "notes/digital-culture/community-permission-records.md",
+    "section": "Design proposal",
+    "commit": "d582880bf6dcf037f80265fbcbc833fd42f3674a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-08-28",
+    "path": "notes/digital-culture/community-permission-records.md",
+    "section": "Procedure",
+    "commit": "fcd9896fcaa99d95434721794c3da88874d3348c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-08-28",
+    "path": "notes/digital-culture/community-permission-records.md",
+    "section": "Evaluation",
+    "commit": "2d23ce217d92b0db6f6968a5e496e812fbb01855",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-09-21",
+    "path": "notes/digital-culture/community-permission-records.md",
+    "section": "Limitations and next steps",
+    "commit": "5857ba5f778b7d86b1362d5bc72e25c3d92417eb",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-09-28",
+    "path": "notes/digital-culture/cross-language-exhibit-labels.md",
+    "section": "External project context",
+    "commit": "c1c4132d8c921524c56c7cdd449264424674f870",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-10-03",
+    "path": "notes/digital-culture/cross-language-exhibit-labels.md",
+    "section": "Question",
+    "commit": "d2b33862938cec2a86a8e973df107cbec74efc2c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-10-21",
+    "path": "notes/digital-culture/cross-language-exhibit-labels.md",
+    "section": "Design proposal",
+    "commit": "71b8b2f0f40401eceda04f95882922c4ada06187",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-11-03",
+    "path": "notes/digital-culture/cross-language-exhibit-labels.md",
+    "section": "Procedure",
+    "commit": "42af7044f19b2bbbafaaa2d521b942068037ddd0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-11-03",
+    "path": "notes/digital-culture/cross-language-exhibit-labels.md",
+    "section": "Evaluation",
+    "commit": "254be26a1df00e5852bf513d4816e8f7326263a8",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-11-03",
+    "path": "notes/digital-culture/cross-language-exhibit-labels.md",
+    "section": "Limitations and next steps",
+    "commit": "2e7773606ea0e26716798360f89ecec3ad90ab9d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-11-22",
+    "path": "notes/digital-culture/cultural-context-labels.md",
+    "section": "External project context",
+    "commit": "598b527e77a8e7fc965ec7589f6e29c8d2d84c35",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-11-22",
+    "path": "notes/digital-culture/cultural-context-labels.md",
+    "section": "Question",
+    "commit": "eeebb84aba7ff25cfcb337ecc726c9c6ea02991d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-12-27",
+    "path": "notes/digital-culture/cultural-context-labels.md",
+    "section": "Design proposal",
+    "commit": "af23db84a0516e9338cc37eec52745a0e4519776",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2021-12-28",
+    "path": "notes/digital-culture/cultural-context-labels.md",
+    "section": "Procedure",
+    "commit": "0bafe4b478fa28b14cfd09624560eb85d72ab628",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-01-12",
+    "path": "notes/digital-culture/cultural-context-labels.md",
+    "section": "Evaluation",
+    "commit": "51d4a68dd87aeae213b559d5debad947c505a787",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-01-14",
+    "path": "notes/digital-culture/cultural-context-labels.md",
+    "section": "Limitations and next steps",
+    "commit": "316e303e64bc278de07c0517b9e99aa3b82b5030",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-01-20",
+    "path": "notes/digital-culture/digital-object-provenance-chain.md",
+    "section": "External project context",
+    "commit": "619a203c78e4cc634f4a11bf268d2ab6ed162f4e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-01-26",
+    "path": "notes/digital-culture/digital-object-provenance-chain.md",
+    "section": "Question",
+    "commit": "cf29dbb59b589504b361b1ea86bde59b04c77196",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-01-30",
+    "path": "notes/digital-culture/digital-object-provenance-chain.md",
+    "section": "Design proposal",
+    "commit": "02919e23abac2a0678816adfd5d4e7e58b210929",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-02-06",
+    "path": "notes/digital-culture/digital-object-provenance-chain.md",
+    "section": "Procedure",
+    "commit": "7ac53899f0c8b0b269a6e312ea302d43265fd28a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-02-09",
+    "path": "notes/digital-culture/digital-object-provenance-chain.md",
+    "section": "Evaluation",
+    "commit": "c18723b96eea8b6a24e892b3feae83f836551fef",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-02-11",
+    "path": "notes/digital-culture/digital-object-provenance-chain.md",
+    "section": "Limitations and next steps",
+    "commit": "151364c99ad316eab550bd27e1b9e842ea4a310e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-02-12",
+    "path": "notes/digital-culture/memory-after-immersive-experience.md",
+    "section": "External project context",
+    "commit": "c7adfa17de949dc0e43c75a7e4e937f42865e46a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-02-12",
+    "path": "notes/digital-culture/memory-after-immersive-experience.md",
+    "section": "Question",
+    "commit": "d46014c375e2b1d492267ebe50a66d25f04f206b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-02-17",
+    "path": "notes/digital-culture/memory-after-immersive-experience.md",
+    "section": "Design proposal",
+    "commit": "b1c044d7ab8fbb784cba4ac5b6ca8830100ccec4",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-03-01",
+    "path": "notes/digital-culture/memory-after-immersive-experience.md",
+    "section": "Procedure",
+    "commit": "adfb80a9fdf9de09e455357d0e69ffcd12a55e8b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-03-14",
+    "path": "notes/digital-culture/memory-after-immersive-experience.md",
+    "section": "Evaluation",
+    "commit": "1338c213fee7944b8e62e6ddcc703efb4123ab79",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-03-15",
+    "path": "notes/digital-culture/memory-after-immersive-experience.md",
+    "section": "Limitations and next steps",
+    "commit": "ed3dba2f61a210cf0c00c4a892cbd15eea303939",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-03-24",
+    "path": "notes/digital-culture/multiple-interpretations-with-attribution.md",
+    "section": "External project context",
+    "commit": "80e5c6b15daea34bb8c94dd388894fdd571da550",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-03-24",
+    "path": "notes/digital-culture/multiple-interpretations-with-attribution.md",
+    "section": "Question",
+    "commit": "e981e5f1433b9270c68c585d8ccbccfd7c51f75c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-03-31",
+    "path": "notes/digital-culture/multiple-interpretations-with-attribution.md",
+    "section": "Design proposal",
+    "commit": "1ab593a39f07210a179cfdc1c3b9b009d2c55797",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-04-08",
+    "path": "notes/digital-culture/multiple-interpretations-with-attribution.md",
+    "section": "Procedure",
+    "commit": "48d3e45941e15cb98ee473a13d8c3e2399c101ba",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-04-10",
+    "path": "notes/digital-culture/multiple-interpretations-with-attribution.md",
+    "section": "Evaluation",
+    "commit": "6ad92fae6b63a1e85986b5fa86ef90cd33fd03e2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-04-14",
+    "path": "notes/digital-culture/multiple-interpretations-with-attribution.md",
+    "section": "Limitations and next steps",
+    "commit": "1051062f533b2d32f15045c35b9bc1fa25a421d4",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-04-18",
+    "path": "notes/digital-culture/versioned-cultural-records.md",
+    "section": "External project context",
+    "commit": "ec092728f038ed0ed9e5a8dd1a23b8a0fed45983",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-04-30",
+    "path": "notes/digital-culture/versioned-cultural-records.md",
+    "section": "Question",
+    "commit": "1341ffacf9f356faaf698e4c0f360104fd2aa1c1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-05-05",
+    "path": "notes/digital-culture/versioned-cultural-records.md",
+    "section": "Design proposal",
+    "commit": "1ed694646abc9de017e9ee0ba10f6e5940e019d0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-05-06",
+    "path": "notes/digital-culture/versioned-cultural-records.md",
+    "section": "Procedure",
+    "commit": "af9bccf558eab546556b5509936423357028fdea",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-05-09",
+    "path": "notes/digital-culture/versioned-cultural-records.md",
+    "section": "Evaluation",
+    "commit": "21c1424815acf3001ac5d1c0dfb3ded546a6f525",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-05-09",
+    "path": "notes/digital-culture/versioned-cultural-records.md",
+    "section": "Limitations and next steps",
+    "commit": "beaaf502ef1fc9f6852c14c6ba583134c7f3ecc6",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-05-17",
+    "path": "notes/digital-culture/virtual-museum-wayfinding.md",
+    "section": "External project context",
+    "commit": "3affbba3b2110c030cb4ae984d3864b7ea87cd80",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-05-28",
+    "path": "notes/digital-culture/virtual-museum-wayfinding.md",
+    "section": "Question",
+    "commit": "a351c8473f2f54ab148db3fa0e599111c97a0679",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-06-03",
+    "path": "notes/digital-culture/virtual-museum-wayfinding.md",
+    "section": "Design proposal",
+    "commit": "d3eeafce44978eb36587f27447e200d24d8bc058",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-06-06",
+    "path": "notes/digital-culture/virtual-museum-wayfinding.md",
+    "section": "Procedure",
+    "commit": "4dbb468c9d63aee6c41a2257bcb967128e61bc58",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-06-12",
+    "path": "notes/digital-culture/virtual-museum-wayfinding.md",
+    "section": "Evaluation",
+    "commit": "ff05c59c18a066d3bd76ab83c830450efbf57723",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-06-16",
+    "path": "notes/digital-culture/virtual-museum-wayfinding.md",
+    "section": "Limitations and next steps",
+    "commit": "ded1ffe7ac023c75bc89956b7d179b9a61ffafcf",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-06-22",
+    "path": "notes/human-ai-interaction/accessible-task-paths-in-ai-interfaces.md",
+    "section": "External project context",
+    "commit": "005f8193664028b0ec0316480b13e5c353aed8c2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-06-22",
+    "path": "notes/human-ai-interaction/accessible-task-paths-in-ai-interfaces.md",
+    "section": "Research question",
+    "commit": "e2b0a72971173d9c0450f88b07cbe88f1f32dcc0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-07-15",
+    "path": "notes/human-ai-interaction/accessible-task-paths-in-ai-interfaces.md",
+    "section": "Design proposal",
+    "commit": "1d9f6b58aa53560dfd79d0a3a124135494609280",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-07-16",
+    "path": "notes/human-ai-interaction/accessible-task-paths-in-ai-interfaces.md",
+    "section": "Procedure",
+    "commit": "fdd5572c3a980a63f8b3d16e0fc8b38b4c9c0306",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-07-17",
+    "path": "notes/human-ai-interaction/accessible-task-paths-in-ai-interfaces.md",
+    "section": "Evaluation plan",
+    "commit": "c5acd293bfcd4593427bde1083a8e70468eb23fd",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-07-21",
+    "path": "notes/human-ai-interaction/accessible-task-paths-in-ai-interfaces.md",
+    "section": "Limitations and next steps",
+    "commit": "0d4bce8f27b80b9a18c1663b6f7518647010ef97",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-07-21",
+    "path": "notes/human-ai-interaction/boundaries-in-ai-character-relationships.md",
+    "section": "External project context",
+    "commit": "9f4fa348782c760a45b58d677dc4066cd858e0fa",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-07-21",
+    "path": "notes/human-ai-interaction/boundaries-in-ai-character-relationships.md",
+    "section": "Research question",
+    "commit": "221a822fce42cf7bafe4ab0539a9af1c758cbda6",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-07-28",
+    "path": "notes/human-ai-interaction/boundaries-in-ai-character-relationships.md",
+    "section": "Design proposal",
+    "commit": "10fbf9c16e0e143abf7d3a8039525f62a11cc1b1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-08-06",
+    "path": "notes/human-ai-interaction/boundaries-in-ai-character-relationships.md",
+    "section": "Procedure",
+    "commit": "080ca98b123405a2474c1295492464f859f18f8a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-08-18",
+    "path": "notes/human-ai-interaction/boundaries-in-ai-character-relationships.md",
+    "section": "Evaluation plan",
+    "commit": "6d3df9060ea23c508fec693fd75c64a2305a52cf",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-08-20",
+    "path": "notes/human-ai-interaction/boundaries-in-ai-character-relationships.md",
+    "section": "Limitations and next steps",
+    "commit": "597c77d3c825a85e58514c174156766dc5519a63",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-08-28",
+    "path": "notes/human-ai-interaction/calibrating-trust-with-incomplete-evidence.md",
+    "section": "External project context",
+    "commit": "5de7eebf53212f9c0f59d9c4db98e71df009317b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-08-30",
+    "path": "notes/human-ai-interaction/calibrating-trust-with-incomplete-evidence.md",
+    "section": "Research question",
+    "commit": "76140d0f44e64513c0b1c7a466581764382f0e2c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-09-02",
+    "path": "notes/human-ai-interaction/calibrating-trust-with-incomplete-evidence.md",
+    "section": "Design proposal",
+    "commit": "132f0b98db1f893ee6d41f8ad2f314de2132ff52",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-09-17",
+    "path": "notes/human-ai-interaction/calibrating-trust-with-incomplete-evidence.md",
+    "section": "Procedure",
+    "commit": "edddc6f9ef3a776f377e0b0b04f84b15ecf31e06",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-09-19",
+    "path": "notes/human-ai-interaction/calibrating-trust-with-incomplete-evidence.md",
+    "section": "Evaluation plan",
+    "commit": "37078ba187251571928f7b031f234cc1fc5003e2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-09-23",
+    "path": "notes/human-ai-interaction/calibrating-trust-with-incomplete-evidence.md",
+    "section": "Limitations and next steps",
+    "commit": "df78e1c06035d7faaabdcb1d701be655f1a8d620",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-10-08",
+    "path": "notes/human-ai-interaction/consent-before-character-memory.md",
+    "section": "External project context",
+    "commit": "af1114275e591a5312bde5349b7cd1451695183d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-10-08",
+    "path": "notes/human-ai-interaction/consent-before-character-memory.md",
+    "section": "Research question",
+    "commit": "9608c53bf15498a36d41bf9f576c5d521c1ac307",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-10-08",
+    "path": "notes/human-ai-interaction/consent-before-character-memory.md",
+    "section": "Design proposal",
+    "commit": "cb69e472473491cc3848b79c3a2611b9de9a1375",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-10-11",
+    "path": "notes/human-ai-interaction/consent-before-character-memory.md",
+    "section": "Procedure",
+    "commit": "b3f44c4b72035308649a22efe8ee322f55c9626b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-10-20",
+    "path": "notes/human-ai-interaction/consent-before-character-memory.md",
+    "section": "Evaluation plan",
+    "commit": "a8fc76613e51cc7f6323b3fc9f24d1a9993c58d0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-10-25",
+    "path": "notes/human-ai-interaction/consent-before-character-memory.md",
+    "section": "Limitations and next steps",
+    "commit": "1134d88a8f6ab1a19b3c3eee901cf98acb7bdcef",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-11-07",
+    "path": "notes/human-ai-interaction/decision-records-for-ai-cocreation.md",
+    "section": "External project context",
+    "commit": "fd992024fd97ebc7183e58882417a91518bdaa79",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-11-15",
+    "path": "notes/human-ai-interaction/decision-records-for-ai-cocreation.md",
+    "section": "Research question",
+    "commit": "e0525625d2d1e1bb680fcd4c634b8e2b00e80a86",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-11-20",
+    "path": "notes/human-ai-interaction/decision-records-for-ai-cocreation.md",
+    "section": "Design proposal",
+    "commit": "cacbf1204f19b9e99b3c23d764919bcf044ebe6f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-11-20",
+    "path": "notes/human-ai-interaction/decision-records-for-ai-cocreation.md",
+    "section": "Procedure",
+    "commit": "259ec2f6b4e96d857bd05ff1b90cf0e8ffe19d26",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-11-29",
+    "path": "notes/human-ai-interaction/decision-records-for-ai-cocreation.md",
+    "section": "Evaluation plan",
+    "commit": "eb3446f0ad6371629274ae313b5711f99ade6d4d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-11-29",
+    "path": "notes/human-ai-interaction/decision-records-for-ai-cocreation.md",
+    "section": "Limitations and next steps",
+    "commit": "20c261e8411b1274671891fb270e066be23b8bef",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-12-08",
+    "path": "notes/human-ai-interaction/evidence-logs-for-interaction-experiments.md",
+    "section": "External project context",
+    "commit": "55506c03893f0e0b0c07a3cff0ffff7bfed2ecec",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-12-08",
+    "path": "notes/human-ai-interaction/evidence-logs-for-interaction-experiments.md",
+    "section": "Research question",
+    "commit": "7505810ed00af6e68c039877ba25fcd956bfe3db",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-12-10",
+    "path": "notes/human-ai-interaction/evidence-logs-for-interaction-experiments.md",
+    "section": "Design proposal",
+    "commit": "07b8460afd02a0603879f3dce7ce7479e0d84ffb",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-12-22",
+    "path": "notes/human-ai-interaction/evidence-logs-for-interaction-experiments.md",
+    "section": "Procedure",
+    "commit": "93985609464461ab34fecb073bb1f0b0e672c72a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2022-12-24",
+    "path": "notes/human-ai-interaction/evidence-logs-for-interaction-experiments.md",
+    "section": "Evaluation plan",
+    "commit": "0a039ffb57b170c5891608d1e965e97d44cae178",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-01-04",
+    "path": "notes/human-ai-interaction/evidence-logs-for-interaction-experiments.md",
+    "section": "Limitations and next steps",
+    "commit": "ad77159470dc91a2fdb224c4ead445a413d348d0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-01-11",
+    "path": "notes/human-ai-interaction/explanations-that-support-checking.md",
+    "section": "External project context",
+    "commit": "2dabe9f5664ee0ff62d2c808cc60bcfb9d2b3c88",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-01-15",
+    "path": "notes/human-ai-interaction/explanations-that-support-checking.md",
+    "section": "Research question",
+    "commit": "f90643f32ea95403939e7709d2a9a6a1a47b26bc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-01-18",
+    "path": "notes/human-ai-interaction/explanations-that-support-checking.md",
+    "section": "Design proposal",
+    "commit": "f18976035481bfd153dbb1fd1b7c1271ad62ed65",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-01-28",
+    "path": "notes/human-ai-interaction/explanations-that-support-checking.md",
+    "section": "Procedure",
+    "commit": "37b0ea08a87ac3a50bc2d53267a8f5fd43608009",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-02-10",
+    "path": "notes/human-ai-interaction/explanations-that-support-checking.md",
+    "section": "Evaluation plan",
+    "commit": "0137d6ecc9da75c75413140545b2a54a98894e62",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-02-10",
+    "path": "notes/human-ai-interaction/explanations-that-support-checking.md",
+    "section": "Limitations and next steps",
+    "commit": "acfdf31ea8885566c24e3c39618057c9334216ee",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-02-13",
+    "path": "notes/human-ai-interaction/interruptible-voice-turns.md",
+    "section": "External project context",
+    "commit": "e54c1cdf3ef60d56b784f9962150bd78623eb497",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-02-20",
+    "path": "notes/human-ai-interaction/interruptible-voice-turns.md",
+    "section": "Research question",
+    "commit": "75746d66f2fec8d6cdf1e5a037ef97269f6eae3b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-02-27",
+    "path": "notes/human-ai-interaction/interruptible-voice-turns.md",
+    "section": "Design proposal",
+    "commit": "8dc0d28773c8723b8e76069b5b4f93a4551d19fe",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-02-28",
+    "path": "notes/human-ai-interaction/interruptible-voice-turns.md",
+    "section": "Procedure",
+    "commit": "0d839d85640b89b8f585747bc3c5de50a6e6e405",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-03-01",
+    "path": "notes/human-ai-interaction/interruptible-voice-turns.md",
+    "section": "Evaluation plan",
+    "commit": "c4274eb734008ef97897705014f001e2b387337e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-03-01",
+    "path": "notes/human-ai-interaction/interruptible-voice-turns.md",
+    "section": "Limitations and next steps",
+    "commit": "966bb0f3e9efaf506defd0901bd9b4203e262679",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-03-10",
+    "path": "notes/human-ai-interaction/uncertainty-in-rehabilitation-prototype-feedback.md",
+    "section": "External project context",
+    "commit": "06767c1cfa4052e5e282f79001b7b0486a1aba95",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-03-11",
+    "path": "notes/human-ai-interaction/uncertainty-in-rehabilitation-prototype-feedback.md",
+    "section": "Research question",
+    "commit": "777cfed7d0e2cecb36d54f4e4c397ec01c0e9d5e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-03-16",
+    "path": "notes/human-ai-interaction/uncertainty-in-rehabilitation-prototype-feedback.md",
+    "section": "Design proposal",
+    "commit": "16952d962b82dcc56706cfc49d19790877d2ff76",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-03-22",
+    "path": "notes/human-ai-interaction/uncertainty-in-rehabilitation-prototype-feedback.md",
+    "section": "Procedure",
+    "commit": "675c872f317dc3f60e73a1ff1dd2569d24ffbf95",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-04-06",
+    "path": "notes/human-ai-interaction/uncertainty-in-rehabilitation-prototype-feedback.md",
+    "section": "Evaluation plan",
+    "commit": "96de34d5a13b5ad341eddcf70208e534e9bc8fda",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-04-09",
+    "path": "notes/human-ai-interaction/uncertainty-in-rehabilitation-prototype-feedback.md",
+    "section": "Limitations and next steps",
+    "commit": "328e862fedb2aff00c019093f65e5136e6a01612",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-04-10",
+    "path": "notes/human-ai-interaction/visible-human-override-in-robot-controls.md",
+    "section": "External project context",
+    "commit": "cb11c3366b87fe75c03f8545c394834407351555",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-04-10",
+    "path": "notes/human-ai-interaction/visible-human-override-in-robot-controls.md",
+    "section": "Research question",
+    "commit": "61cb60bb830e6e8d81e0f66ab74d84fd3f4fafec",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-04-19",
+    "path": "notes/human-ai-interaction/visible-human-override-in-robot-controls.md",
+    "section": "Design proposal",
+    "commit": "b68383c14a80cf1a62a508cd0d25f33789eca26a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-04-19",
+    "path": "notes/human-ai-interaction/visible-human-override-in-robot-controls.md",
+    "section": "Procedure",
+    "commit": "58a49dc03dcf05ebb0dec0aea602d13e4e5b07be",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-04-21",
+    "path": "notes/human-ai-interaction/visible-human-override-in-robot-controls.md",
+    "section": "Evaluation plan",
+    "commit": "25dbdabd47695277dc2193b7d83a84d1e64de560",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-05-12",
+    "path": "notes/human-ai-interaction/visible-human-override-in-robot-controls.md",
+    "section": "Limitations and next steps",
+    "commit": "13e0440270acb3e47e317b15ccbe43e66d28217e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-05-13",
+    "path": "notes/open-source-study/affaan-m--ecc.md",
+    "section": "Project context",
+    "commit": "271dd2888a9947170cc75e28a1b2437d731d6aae",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-05-22",
+    "path": "notes/open-source-study/affaan-m--ecc.md",
+    "section": "Why this project is in the collection",
+    "commit": "154587c8dfaa76edb3712859b4336ac78de360c8",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-05-27",
+    "path": "notes/open-source-study/affaan-m--ecc.md",
+    "section": "First adaptation exercise",
+    "commit": "22140ee12c2eb992cb66296e9d4a8ba4c8aaeb03",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-05-30",
+    "path": "notes/open-source-study/affaan-m--ecc.md",
+    "section": "Evidence to retain",
+    "commit": "f807c55bd0650070ce160aa52ae798f6aef85a40",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-06-03",
+    "path": "notes/open-source-study/affaan-m--ecc.md",
+    "section": "Acceptance criteria",
+    "commit": "7b86951285a14a264dc4ef623d15760234be09e4",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-06-10",
+    "path": "notes/open-source-study/affaan-m--ecc.md",
+    "section": "Maintenance and attribution",
+    "commit": "0b758792a86d34f3885a1c71ccd71a7253db2442",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-06-10",
+    "path": "notes/open-source-study/comfy-org--comfyui.md",
+    "section": "Project context",
+    "commit": "404531ced3b3a4734de12e431d7a4ead444941eb",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-06-11",
+    "path": "notes/open-source-study/comfy-org--comfyui.md",
+    "section": "Why this project is in the collection",
+    "commit": "8b108d835575f5fbf7b4cc4b702f7c44541b1ca1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-06-14",
+    "path": "notes/open-source-study/comfy-org--comfyui.md",
+    "section": "First adaptation exercise",
+    "commit": "35296760248950e6c574e01698dad07a89785e0e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-06-14",
+    "path": "notes/open-source-study/comfy-org--comfyui.md",
+    "section": "Evidence to retain",
+    "commit": "0e5fd8cc51aefba02c590d0d565b47bf4c66d05b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-06-23",
+    "path": "notes/open-source-study/comfy-org--comfyui.md",
+    "section": "Acceptance criteria",
+    "commit": "a88490b85236b86513f2c0e2b6ee5486f5dac70a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-07-13",
+    "path": "notes/open-source-study/comfy-org--comfyui.md",
+    "section": "Maintenance and attribution",
+    "commit": "73571c6e1908064284c4649f9654b35400a7a030",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-07-13",
+    "path": "notes/open-source-study/d3--d3.md",
+    "section": "Project context",
+    "commit": "6daac2b79a1598c589f7cda9b2dff9c2549c25e2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-07-14",
+    "path": "notes/open-source-study/d3--d3.md",
+    "section": "Why this project is in the collection",
+    "commit": "eba15daa53b637fc3aa400dfbd15298e61299989",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-07-14",
+    "path": "notes/open-source-study/d3--d3.md",
+    "section": "First adaptation exercise",
+    "commit": "31e2370355e032e6bca6add9f3efbcebd6b84b07",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-07-16",
+    "path": "notes/open-source-study/d3--d3.md",
+    "section": "Evidence to retain",
+    "commit": "a249dd4820fd7917e26ecd1c424ca3901c9ec447",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-07-16",
+    "path": "notes/open-source-study/d3--d3.md",
+    "section": "Acceptance criteria",
+    "commit": "fc09cb03b7347a111033a033c3ea4044b1dbdddc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-07-17",
+    "path": "notes/open-source-study/d3--d3.md",
+    "section": "Maintenance and attribution",
+    "commit": "c45d6ac10246f2673c730346c2ae3ccce9897f94",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-07-25",
+    "path": "notes/open-source-study/excalidraw--excalidraw.md",
+    "section": "Project context",
+    "commit": "d7bbe325e4521f476f0610971956ab8c6fd4a687",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-07-25",
+    "path": "notes/open-source-study/excalidraw--excalidraw.md",
+    "section": "Why this project is in the collection",
+    "commit": "3a339e6c82872d79f043133975f5b88596f47df5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-08-06",
+    "path": "notes/open-source-study/excalidraw--excalidraw.md",
+    "section": "First adaptation exercise",
+    "commit": "f8afc36c57457ac20e0e9f94a31fa3f6886cc486",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-08-16",
+    "path": "notes/open-source-study/excalidraw--excalidraw.md",
+    "section": "Evidence to retain",
+    "commit": "bec222f62f711dff67b6a4bfd3b1ff3d5fa7c363",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-08-17",
+    "path": "notes/open-source-study/excalidraw--excalidraw.md",
+    "section": "Acceptance criteria",
+    "commit": "956f7a03751da90684970101d8fbe516b9aca145",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-08-17",
+    "path": "notes/open-source-study/excalidraw--excalidraw.md",
+    "section": "Maintenance and attribution",
+    "commit": "6747dcd95c743ee052588a60fc2e2e67b01ba5c9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-08-22",
+    "path": "notes/open-source-study/firecrawl--firecrawl.md",
+    "section": "Project context",
+    "commit": "c1c1cd42f48df2cc9130978d9799e2a3f902072b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-08-23",
+    "path": "notes/open-source-study/firecrawl--firecrawl.md",
+    "section": "Why this project is in the collection",
+    "commit": "222567c3c1b732226093a7e19b044d4adba78f30",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-08-23",
+    "path": "notes/open-source-study/firecrawl--firecrawl.md",
+    "section": "First adaptation exercise",
+    "commit": "829ed3fb40735c6a3fcb24e8d636fdbd267c22fc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-09-02",
+    "path": "notes/open-source-study/firecrawl--firecrawl.md",
+    "section": "Evidence to retain",
+    "commit": "f1744859d08e533f57422a3143aadf6d24a7f008",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-09-06",
+    "path": "notes/open-source-study/firecrawl--firecrawl.md",
+    "section": "Acceptance criteria",
+    "commit": "e4781790ab3df6808f5091a423f177c9d8f67dab",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-09-10",
+    "path": "notes/open-source-study/firecrawl--firecrawl.md",
+    "section": "Maintenance and attribution",
+    "commit": "d9ca6c7a8f1fa76e0d4a091563ad6e0992ae365f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-09-24",
+    "path": "notes/open-source-study/godotengine--godot.md",
+    "section": "Project context",
+    "commit": "6402f0bd3a4b252f9c0c884f814a959189462a01",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-10-01",
+    "path": "notes/open-source-study/godotengine--godot.md",
+    "section": "Why this project is in the collection",
+    "commit": "fb50a420a96bd7a436c6ffe3458508071764255e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-10-01",
+    "path": "notes/open-source-study/godotengine--godot.md",
+    "section": "First adaptation exercise",
+    "commit": "0e3bb34d7f663c4654a754fd233d9c8e67098746",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-10-03",
+    "path": "notes/open-source-study/godotengine--godot.md",
+    "section": "Evidence to retain",
+    "commit": "df7c04360341378481a3823b1cf58bb872569bbb",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-10-03",
+    "path": "notes/open-source-study/godotengine--godot.md",
+    "section": "Acceptance criteria",
+    "commit": "990f785fbac228079b5eb0ad96c50bb3ccbfe68e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-10-30",
+    "path": "notes/open-source-study/godotengine--godot.md",
+    "section": "Maintenance and attribution",
+    "commit": "15a2f37cea1902cfa2a5f562eeebd4e7779d116f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-10-31",
+    "path": "notes/open-source-study/graphiteeditor--graphite.md",
+    "section": "Project context",
+    "commit": "64a55bb1649e7618053a29e50e11157ef409bfce",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-11-01",
+    "path": "notes/open-source-study/graphiteeditor--graphite.md",
+    "section": "Why this project is in the collection",
+    "commit": "6b75a7449944a4803b1a3dcbe838a3f6bd38de83",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-11-06",
+    "path": "notes/open-source-study/graphiteeditor--graphite.md",
+    "section": "First adaptation exercise",
+    "commit": "b712b21775cc25dd28aaa9270c3cbdffc06fcac1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-11-16",
+    "path": "notes/open-source-study/graphiteeditor--graphite.md",
+    "section": "Evidence to retain",
+    "commit": "ad30428d0f9d38382d4c926d8681afe52837d378",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-11-16",
+    "path": "notes/open-source-study/graphiteeditor--graphite.md",
+    "section": "Acceptance criteria",
+    "commit": "1bc22f8b837e4bd116253e78999e9dc410c3a6ff",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-11-16",
+    "path": "notes/open-source-study/graphiteeditor--graphite.md",
+    "section": "Maintenance and attribution",
+    "commit": "ab15720da30999e09ba17c7dda4b04557da08e59",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-11-17",
+    "path": "notes/open-source-study/huggingface--transformers.md",
+    "section": "Project context",
+    "commit": "c107b3a6870e4cdfde4924814a2d0332c1c8be7f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-12-04",
+    "path": "notes/open-source-study/huggingface--transformers.md",
+    "section": "Why this project is in the collection",
+    "commit": "2958516eeb93b3908616ea27bb040c27560bf0c1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-12-04",
+    "path": "notes/open-source-study/huggingface--transformers.md",
+    "section": "First adaptation exercise",
+    "commit": "cbbd98545f674bcb6d9437c60211cc07811da8b5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-12-04",
+    "path": "notes/open-source-study/huggingface--transformers.md",
+    "section": "Evidence to retain",
+    "commit": "851ace4c469fd7948c2c2f086210e4a0dc25e2ea",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-12-05",
+    "path": "notes/open-source-study/huggingface--transformers.md",
+    "section": "Acceptance criteria",
+    "commit": "5b03a51ea681e40e866addbf61466eee67c34644",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-12-09",
+    "path": "notes/open-source-study/huggingface--transformers.md",
+    "section": "Maintenance and attribution",
+    "commit": "aefcc0815ea18422b88ebe3870c7f3fa487e5b1e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-12-21",
+    "path": "notes/open-source-study/mermaid-js--mermaid.md",
+    "section": "Project context",
+    "commit": "9ea42ba22e876f85cc585d227d25e35c25277129",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2023-12-21",
+    "path": "notes/open-source-study/mermaid-js--mermaid.md",
+    "section": "Why this project is in the collection",
+    "commit": "62d39663a1012f48fa923b5d19f7bcfdd213498f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-01-02",
+    "path": "notes/open-source-study/mermaid-js--mermaid.md",
+    "section": "First adaptation exercise",
+    "commit": "a324a0e696100f16b9eded49d23fb3155f999423",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-01-04",
+    "path": "notes/open-source-study/mermaid-js--mermaid.md",
+    "section": "Evidence to retain",
+    "commit": "a439fe30bedb9ffdd57fe25c483236311546ddf0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-01-16",
+    "path": "notes/open-source-study/mermaid-js--mermaid.md",
+    "section": "Acceptance criteria",
+    "commit": "02dcbecbfbf74c638e6b2b1a88f9e386423d2fbb",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-01-18",
+    "path": "notes/open-source-study/mermaid-js--mermaid.md",
+    "section": "Maintenance and attribution",
+    "commit": "5180443fd49918679dd5005418665db8acb6c0c9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-01-20",
+    "path": "notes/open-source-study/microsoft--markitdown.md",
+    "section": "Project context",
+    "commit": "be16b43cb40dbbf3dee843f5932c520b0e906db9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-01-20",
+    "path": "notes/open-source-study/microsoft--markitdown.md",
+    "section": "Why this project is in the collection",
+    "commit": "c6e688d3563d7c8449c888f0494756461a99815b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-02-08",
+    "path": "notes/open-source-study/microsoft--markitdown.md",
+    "section": "First adaptation exercise",
+    "commit": "5353d9e1b507f5e256036a33fce15698b55b19df",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-02-08",
+    "path": "notes/open-source-study/microsoft--markitdown.md",
+    "section": "Evidence to retain",
+    "commit": "9039ee4e59820c6e58d2e20fb6ded33114f5cd3b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-02-16",
+    "path": "notes/open-source-study/microsoft--markitdown.md",
+    "section": "Acceptance criteria",
+    "commit": "aee4f70dbc5d6f4c744a2c4b82e16c5c0a23f914",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-02-20",
+    "path": "notes/open-source-study/microsoft--markitdown.md",
+    "section": "Maintenance and attribution",
+    "commit": "a8177480be28daba5a0540aa16ec56a61f9fc6a5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-02-20",
+    "path": "notes/open-source-study/mrdoob--three-js.md",
+    "section": "Project context",
+    "commit": "2bb9cfedc1fa82f05f7e7d50bcf13e538d1968de",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-02-27",
+    "path": "notes/open-source-study/mrdoob--three-js.md",
+    "section": "Why this project is in the collection",
+    "commit": "1ae66227f2a3fe9291a54c7cab651b935c151e85",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-02-28",
+    "path": "notes/open-source-study/mrdoob--three-js.md",
+    "section": "First adaptation exercise",
+    "commit": "502a801ee25839dbdb0e79c10ef0c90397dd5996",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-03-04",
+    "path": "notes/open-source-study/mrdoob--three-js.md",
+    "section": "Evidence to retain",
+    "commit": "493d42d4eaaba6d97c4a6f6c993da316535de4bd",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-03-14",
+    "path": "notes/open-source-study/mrdoob--three-js.md",
+    "section": "Acceptance criteria",
+    "commit": "56d3745c813224c4a0c009180b6708ba81f3dc3d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-03-16",
+    "path": "notes/open-source-study/mrdoob--three-js.md",
+    "section": "Maintenance and attribution",
+    "commit": "356121578ada364fdb2ff5e0bd03c42c8eb043a2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-03-16",
+    "path": "notes/open-source-study/n8n-io--n8n.md",
+    "section": "Project context",
+    "commit": "a854589e7de67539e25111fcadf58a51b3d7c5ee",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-03-23",
+    "path": "notes/open-source-study/n8n-io--n8n.md",
+    "section": "Why this project is in the collection",
+    "commit": "1cf0a9dcb3fc1589f14404d7d9fa5e9b4f92d623",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-03-30",
+    "path": "notes/open-source-study/n8n-io--n8n.md",
+    "section": "First adaptation exercise",
+    "commit": "67e744a5486f394eec588d45ddb62fadb317b1ab",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-03-30",
+    "path": "notes/open-source-study/n8n-io--n8n.md",
+    "section": "Evidence to retain",
+    "commit": "f446de50473f7c28823f8f86805fd4cb3b96e17f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-04-05",
+    "path": "notes/open-source-study/n8n-io--n8n.md",
+    "section": "Acceptance criteria",
+    "commit": "79cd1d8e93e77d172d1cb04318fd773e58023765",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-04-05",
+    "path": "notes/open-source-study/n8n-io--n8n.md",
+    "section": "Maintenance and attribution",
+    "commit": "238feef5c8a9c33330a46cfba0a1f570e8942f70",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-04-13",
+    "path": "notes/open-source-study/nousresearch--hermes-agent.md",
+    "section": "Project context",
+    "commit": "d2a0e9878dcc22c1c8b3941fd2c97d8e48cc512c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-04-19",
+    "path": "notes/open-source-study/nousresearch--hermes-agent.md",
+    "section": "Why this project is in the collection",
+    "commit": "b0dbca082b0979b9e18c046684d78bfaf98f3f9a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-04-23",
+    "path": "notes/open-source-study/nousresearch--hermes-agent.md",
+    "section": "First adaptation exercise",
+    "commit": "9ad2561fd287d58c237ead902c7b3068b3316153",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-04-27",
+    "path": "notes/open-source-study/nousresearch--hermes-agent.md",
+    "section": "Evidence to retain",
+    "commit": "bd9281ade1e154e0274b66d6977f703876d8f0d4",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-05-12",
+    "path": "notes/open-source-study/nousresearch--hermes-agent.md",
+    "section": "Acceptance criteria",
+    "commit": "ad9e624c008e39f02083b874e3b91ec6c03ee032",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-05-19",
+    "path": "notes/open-source-study/nousresearch--hermes-agent.md",
+    "section": "Maintenance and attribution",
+    "commit": "40a33335a2f2fbca6af678ef1fd8d0a4012ca216",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-05-23",
+    "path": "notes/open-source-study/ollama--ollama.md",
+    "section": "Project context",
+    "commit": "2444669c821cf37ff41dfce4fcea349d84f1de49",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-05-24",
+    "path": "notes/open-source-study/ollama--ollama.md",
+    "section": "Why this project is in the collection",
+    "commit": "329ff054ca717a887a117dae8bb3bb7096c61726",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-05-29",
+    "path": "notes/open-source-study/ollama--ollama.md",
+    "section": "First adaptation exercise",
+    "commit": "3a499ba6bf8c6b261f632ef80a1792ef3256a448",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-05-29",
+    "path": "notes/open-source-study/ollama--ollama.md",
+    "section": "Evidence to retain",
+    "commit": "8481394a7f0060ba1ae66543b1e961793104cbd9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-05-29",
+    "path": "notes/open-source-study/ollama--ollama.md",
+    "section": "Acceptance criteria",
+    "commit": "fd7bfd695c342c4461c050ad91ad6bbc1513b822",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-06-05",
+    "path": "notes/open-source-study/ollama--ollama.md",
+    "section": "Maintenance and attribution",
+    "commit": "0cc17fd8de637b49fd4e2179f3bd3fbc6f30ea76",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-06-17",
+    "path": "notes/open-source-study/pmndrs--react-three-fiber.md",
+    "section": "Project context",
+    "commit": "a6e55e0a8e1145fa466bdccfeef3009cc478997d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-06-22",
+    "path": "notes/open-source-study/pmndrs--react-three-fiber.md",
+    "section": "Why this project is in the collection",
+    "commit": "642525e4ab0ffbf6ff31985b9c0c9d8a97881a9a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-06-25",
+    "path": "notes/open-source-study/pmndrs--react-three-fiber.md",
+    "section": "First adaptation exercise",
+    "commit": "1020f355370453ae0b7e62a4c3bac9c507306f38",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-06-28",
+    "path": "notes/open-source-study/pmndrs--react-three-fiber.md",
+    "section": "Evidence to retain",
+    "commit": "39dd07b95fb2939d6f7c28678d62f8085bd37188",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-06-28",
+    "path": "notes/open-source-study/pmndrs--react-three-fiber.md",
+    "section": "Acceptance criteria",
+    "commit": "dbb258e3c852875bb16d399b23f856e936165ebf",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-07-04",
+    "path": "notes/open-source-study/pmndrs--react-three-fiber.md",
+    "section": "Maintenance and attribution",
+    "commit": "20caee6b95f01849183ddec5e0ab0567eec69765",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-07-11",
+    "path": "notes/open-source-study/processing--p5-js.md",
+    "section": "Project context",
+    "commit": "53925acdfba45bf8c3645e0f8aeee3e3593fd917",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-07-11",
+    "path": "notes/open-source-study/processing--p5-js.md",
+    "section": "Why this project is in the collection",
+    "commit": "e8788d000c0394a4422602456f24c88642882d23",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-07-18",
+    "path": "notes/open-source-study/processing--p5-js.md",
+    "section": "First adaptation exercise",
+    "commit": "dd871339c930adca8ed4ef2345ded242e55ddacc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-07-26",
+    "path": "notes/open-source-study/processing--p5-js.md",
+    "section": "Evidence to retain",
+    "commit": "f6da362ca6914294f61814640c87fc2c3703a7f8",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-07-28",
+    "path": "notes/open-source-study/processing--p5-js.md",
+    "section": "Acceptance criteria",
+    "commit": "c640d7e20ed114a26c316f70d8e3fc89cef5e3a0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-08-01",
+    "path": "notes/open-source-study/processing--p5-js.md",
+    "section": "Maintenance and attribution",
+    "commit": "7dc3e63dfae0b92ad99ad33e7d5dd24d4cb02ec1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-08-01",
+    "path": "notes/playful-media/boundaries-in-shared-play.md",
+    "section": "External project context",
+    "commit": "e8d39348d49a4d4ce693898c7fe5f8ef9b247212",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-08-01",
+    "path": "notes/playful-media/boundaries-in-shared-play.md",
+    "section": "Research question",
+    "commit": "de048c0d28587c3b2fcd17228721a8d3462e83cd",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-08-03",
+    "path": "notes/playful-media/boundaries-in-shared-play.md",
+    "section": "Design proposal",
+    "commit": "399c984ce067e811ad9496279b410a4f5d030e60",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-08-03",
+    "path": "notes/playful-media/boundaries-in-shared-play.md",
+    "section": "Procedure",
+    "commit": "5800cc87416a1fb2d9c8c50cbbb4ae6a1ac7e974",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-08-26",
+    "path": "notes/playful-media/boundaries-in-shared-play.md",
+    "section": "Evaluation plan",
+    "commit": "ae8c9c8be203d687089b70aca94fc3b2ebf69eee",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-08-30",
+    "path": "notes/playful-media/boundaries-in-shared-play.md",
+    "section": "Limitations and next steps",
+    "commit": "0c2c511d99a3945bc692523805c6314bb3589a0d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-08-31",
+    "path": "notes/playful-media/controller-and-keyboard-action-mapping.md",
+    "section": "External project context",
+    "commit": "d8150ac1061f19299e689d8845255571cc86891f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-08-31",
+    "path": "notes/playful-media/controller-and-keyboard-action-mapping.md",
+    "section": "Research question",
+    "commit": "51e0127a5b76ce150bc3730181bbb92fffffbd8a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-09-07",
+    "path": "notes/playful-media/controller-and-keyboard-action-mapping.md",
+    "section": "Design proposal",
+    "commit": "9c1aa21ae8218d1e9281f5893102c9899e7b3ff7",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-09-13",
+    "path": "notes/playful-media/controller-and-keyboard-action-mapping.md",
+    "section": "Procedure",
+    "commit": "29a8cbb843c426f980c265a954d4ebccc116b4b6",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-09-13",
+    "path": "notes/playful-media/controller-and-keyboard-action-mapping.md",
+    "section": "Evaluation plan",
+    "commit": "b7dc3c2c8acafd1b620af473f0012203c62d3cfe",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-09-25",
+    "path": "notes/playful-media/controller-and-keyboard-action-mapping.md",
+    "section": "Limitations and next steps",
+    "commit": "65b306fe0055f823f40447cb2e3d36deb1e31dd5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-09-29",
+    "path": "notes/playful-media/explaining-card-sampling.md",
+    "section": "External project context",
+    "commit": "ba91b2e48924e187bc22659b12ab107d8dbcec94",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-10-05",
+    "path": "notes/playful-media/explaining-card-sampling.md",
+    "section": "Research question",
+    "commit": "ffdc02c5fe43927c907ea3e1cf1ff15888ca20fe",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-10-05",
+    "path": "notes/playful-media/explaining-card-sampling.md",
+    "section": "Design proposal",
+    "commit": "eddc8fe6cc364259efb058cdae3e503beb18b57b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-10-12",
+    "path": "notes/playful-media/explaining-card-sampling.md",
+    "section": "Procedure",
+    "commit": "5d646aae70bddd715f54d89c4b814aefe3edee33",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-10-18",
+    "path": "notes/playful-media/explaining-card-sampling.md",
+    "section": "Evaluation plan",
+    "commit": "e2bbd0ae52ec3d2d211ba945d441d3a2c42f8b69",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-10-26",
+    "path": "notes/playful-media/explaining-card-sampling.md",
+    "section": "Limitations and next steps",
+    "commit": "1a0ee328882166e22bae64757f2c462fd10b47ba",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-11-11",
+    "path": "notes/playful-media/player-directed-session-time.md",
+    "section": "External project context",
+    "commit": "d3c95f6a1f34cfb4011446b25f1614566b56151d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-11-16",
+    "path": "notes/playful-media/player-directed-session-time.md",
+    "section": "Research question",
+    "commit": "4db0926c6a3a9f167d7fc7ea9de3420dc474e713",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-11-24",
+    "path": "notes/playful-media/player-directed-session-time.md",
+    "section": "Design proposal",
+    "commit": "e428bd5781857c5449562cb0a813921b12c55c21",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-11-29",
+    "path": "notes/playful-media/player-directed-session-time.md",
+    "section": "Procedure",
+    "commit": "bccc26b145de5c7de51ed85e1c03abcb33f700a2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-11-29",
+    "path": "notes/playful-media/player-directed-session-time.md",
+    "section": "Evaluation plan",
+    "commit": "62815132e1e87c4d56af5718169349f0ef9a5a44",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-12-05",
+    "path": "notes/playful-media/player-directed-session-time.md",
+    "section": "Limitations and next steps",
+    "commit": "64e88f1bb5d9860d4dcacabb4e42e940a6099ae2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-12-10",
+    "path": "notes/playful-media/provenance-in-a-retro-play-archive.md",
+    "section": "External project context",
+    "commit": "0020233947fa7d0c6386e571a8e2233f248012ea",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-12-14",
+    "path": "notes/playful-media/provenance-in-a-retro-play-archive.md",
+    "section": "Research question",
+    "commit": "6276cfecdd56fc47d945bf9d59d2943e29f1f07e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2024-12-17",
+    "path": "notes/playful-media/provenance-in-a-retro-play-archive.md",
+    "section": "Design proposal",
+    "commit": "cbe1f3ad1f986795d15ae07b092bbe3794435587",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-01-04",
+    "path": "notes/playful-media/provenance-in-a-retro-play-archive.md",
+    "section": "Procedure",
+    "commit": "a1ef09324ea3b10379563052ccb16213313f6816",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-01-09",
+    "path": "notes/playful-media/provenance-in-a-retro-play-archive.md",
+    "section": "Evaluation plan",
+    "commit": "c058cd4b3353ab167040c604c403ef3bf379a0fb",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-01-26",
+    "path": "notes/playful-media/provenance-in-a-retro-play-archive.md",
+    "section": "Limitations and next steps",
+    "commit": "5615967edd5cd4b131165fe3e181451a9668413c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-01-28",
+    "path": "notes/playful-media/readable-branching-narratives.md",
+    "section": "External project context",
+    "commit": "a01c7fad57ec49f0af641bc4ccbe929e788d0b8b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-01-29",
+    "path": "notes/playful-media/readable-branching-narratives.md",
+    "section": "Research question",
+    "commit": "1fe245b34c4297d320cc8de8974bc38b5ca0ec74",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-02-09",
+    "path": "notes/playful-media/readable-branching-narratives.md",
+    "section": "Design proposal",
+    "commit": "b54869f434cc7856377c937cc485f4ec3ec49fb6",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-02-14",
+    "path": "notes/playful-media/readable-branching-narratives.md",
+    "section": "Procedure",
+    "commit": "bb1cc69981d3ea85475625970471d866f53c770f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-02-18",
+    "path": "notes/playful-media/readable-branching-narratives.md",
+    "section": "Evaluation plan",
+    "commit": "c860665e771d222ab9506b830b6a0954d49f8740",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-02-21",
+    "path": "notes/playful-media/readable-branching-narratives.md",
+    "section": "Limitations and next steps",
+    "commit": "7c221e7f77d81730749f0283f06a68ce65129d28",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-02-27",
+    "path": "notes/playful-media/recoverable-failure-states.md",
+    "section": "External project context",
+    "commit": "751ca221ecc9fa0b1b794d8b2f83e10ef637c483",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-03-07",
+    "path": "notes/playful-media/recoverable-failure-states.md",
+    "section": "Research question",
+    "commit": "1faade0a5a57d488bb3d3c6b9fdddc1b59263015",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-03-10",
+    "path": "notes/playful-media/recoverable-failure-states.md",
+    "section": "Design proposal",
+    "commit": "aa3462296d909765de1720969d2de131e2102539",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-03-16",
+    "path": "notes/playful-media/recoverable-failure-states.md",
+    "section": "Procedure",
+    "commit": "485ceb9d176bb95eb320b499155239c436d8af5e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-03-27",
+    "path": "notes/playful-media/recoverable-failure-states.md",
+    "section": "Evaluation plan",
+    "commit": "6ad512301cdda6e472c737a2b58b52bb2118600b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-03-31",
+    "path": "notes/playful-media/recoverable-failure-states.md",
+    "section": "Limitations and next steps",
+    "commit": "5d751209bfc1c137cfefb98037c2f3250b6138a9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-04-04",
+    "path": "notes/playful-media/small-rules-legible-feedback.md",
+    "section": "External project context",
+    "commit": "bd458d97f867970262bff3da16994a323cbf176c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-04-16",
+    "path": "notes/playful-media/small-rules-legible-feedback.md",
+    "section": "Research question",
+    "commit": "912adc900c79ff3cae54e8139a32497f227ba364",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-04-22",
+    "path": "notes/playful-media/small-rules-legible-feedback.md",
+    "section": "Design proposal",
+    "commit": "3341df9af0b24bca87970d1ecd010291b4a87907",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-04-26",
+    "path": "notes/playful-media/small-rules-legible-feedback.md",
+    "section": "Procedure",
+    "commit": "1a8e4ac522022ca041da55cc8e4ae4ab241249ce",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-04-28",
+    "path": "notes/playful-media/small-rules-legible-feedback.md",
+    "section": "Evaluation plan",
+    "commit": "de3fe67a52707ba72b3fb033af2b2e22d68ef136",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-05-04",
+    "path": "notes/playful-media/small-rules-legible-feedback.md",
+    "section": "Limitations and next steps",
+    "commit": "61d383ec800d475bd43c03e36a2a50110adca96d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-05-04",
+    "path": "notes/playful-media/sound-and-reduced-motion-feedback.md",
+    "section": "External project context",
+    "commit": "1c76bb978a04bb5c722a73c908e2c1022cec46c1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-05-07",
+    "path": "notes/playful-media/sound-and-reduced-motion-feedback.md",
+    "section": "Research question",
+    "commit": "856abd563eeb18a1591ef2e2864ce4b911e83be7",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-05-17",
+    "path": "notes/playful-media/sound-and-reduced-motion-feedback.md",
+    "section": "Design proposal",
+    "commit": "14173c939025e463f22d7093c3fa063479c948ab",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-05-21",
+    "path": "notes/playful-media/sound-and-reduced-motion-feedback.md",
+    "section": "Procedure",
+    "commit": "4cd08aa38dc7903757743603b61c93f01e44f590",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-05-21",
+    "path": "notes/playful-media/sound-and-reduced-motion-feedback.md",
+    "section": "Evaluation plan",
+    "commit": "f6708ec17e122d8f85a687ab0f8070f3fc3f882e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-05-24",
+    "path": "notes/playful-media/sound-and-reduced-motion-feedback.md",
+    "section": "Limitations and next steps",
+    "commit": "a0ab53a1718bc076870f5b7ee398b90e9506dad5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-06-06",
+    "path": "notes/playful-media/virtual-pet-rhythms-without-pressure.md",
+    "section": "External project context",
+    "commit": "f1959cc940f93445042b6f8ef341e2ded0300eed",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-06-06",
+    "path": "notes/playful-media/virtual-pet-rhythms-without-pressure.md",
+    "section": "Research question",
+    "commit": "dfa230c34a6f15063faa88c3f428260f4f117e36",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-06-08",
+    "path": "notes/playful-media/virtual-pet-rhythms-without-pressure.md",
+    "section": "Design proposal",
+    "commit": "6656cdee44a31eced9f148686c411668a2562fba",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-06-08",
+    "path": "notes/playful-media/virtual-pet-rhythms-without-pressure.md",
+    "section": "Procedure",
+    "commit": "c172b521ec7f2e059ec5b1848a58649a4e2dd9bc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-06-08",
+    "path": "notes/playful-media/virtual-pet-rhythms-without-pressure.md",
+    "section": "Evaluation plan",
+    "commit": "f67b160a42aff7deee1f77215b55928b556f9945",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-06-16",
+    "path": "notes/playful-media/virtual-pet-rhythms-without-pressure.md",
+    "section": "Limitations and next steps",
+    "commit": "fdd72c9d379d19c77996d84a1dce411e879adade",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-06-25",
+    "path": "learning/12-week-plan.md",
+    "section": "complete study document",
+    "commit": "8f14c8a089cc40563df916326fec747dc48edb0b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-06-29",
+    "path": "learning/language-fixtures/anki/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Personal learning context",
+    "commit": "9bd5a8cbd6911b242191e0e3c9f958e2ff2df07c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-07-09",
+    "path": "learning/language-fixtures/anki/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Why this upstream",
+    "commit": "1a64a9e522e635c004d9b2d28124395d1b4df989",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-07-15",
+    "path": "learning/language-fixtures/anki/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "First small adaptation",
+    "commit": "c17870e76fc80f0df2e865a1602fc43ff0f23c01",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-07-15",
+    "path": "learning/language-fixtures/anki/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Acceptance checks",
+    "commit": "7ab05e87c2ca725575f992bcb6e59a86868a740f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-07-17",
+    "path": "learning/language-fixtures/anki/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Working method",
+    "commit": "31ef225cb0438af375ac32b28118c1422937bde1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-07-24",
+    "path": "learning/language-fixtures/anki/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Second-brain record",
+    "commit": "88be385b98091ddc8a1977982cc1f9d2f1c1079c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-07-24",
+    "path": "learning/language-fixtures/anki/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Attribution and resources",
+    "commit": "54446aff96181294283c0c06bb2a4def13c82f17",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-07-28",
+    "path": "learning/language-fixtures/anki/kingkazmax-study/fixtures/original-language-cards.tsv",
+    "section": "original fixture",
+    "commit": "c37ad0260edef36e98e566c09c63ca5c36f618de",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-07-28",
+    "path": "learning/language-fixtures/asbplayer/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Personal learning context",
+    "commit": "f85129e901cdb8d4657860a57e4a4529b818d726",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-08-03",
+    "path": "learning/language-fixtures/asbplayer/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Why this upstream",
+    "commit": "fe8c0f04d18df1ae76ea92fd26cfd0e712159a28",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-08-03",
+    "path": "learning/language-fixtures/asbplayer/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "First small adaptation",
+    "commit": "f8ac020c7f215755f14405e918acfe7923e08310",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-08-19",
+    "path": "learning/language-fixtures/asbplayer/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Acceptance checks",
+    "commit": "0fa315fe7149dcca44adc7db2013f7973028000f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-08-19",
+    "path": "learning/language-fixtures/asbplayer/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Working method",
+    "commit": "27f1d4fe9080f19f99da5eb72228b109a3316870",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-08-22",
+    "path": "learning/language-fixtures/asbplayer/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Second-brain record",
+    "commit": "48afa7a3dd61e99f5d6748df10694a3653be3404",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-08-24",
+    "path": "learning/language-fixtures/asbplayer/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Attribution and resources",
+    "commit": "0b2a3f138cfa65160f45503a117005699a81b84f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-08-25",
+    "path": "learning/language-fixtures/asbplayer/kingkazmax-study/clip-manifest.json",
+    "section": "original fixture",
+    "commit": "e8567e21c742215c353716b64dd09b3b38a847a1",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-08-25",
+    "path": "learning/language-fixtures/asbplayer/kingkazmax-study/original-practice.srt",
+    "section": "original fixture",
+    "commit": "d9e13b5ebd89f77f750f4521bcdb65f8f4491a02",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-09-16",
+    "path": "learning/language-fixtures/lute-v3/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Personal learning context",
+    "commit": "ae81e79967def0bfaeef2d0659a1c457845c268a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-09-23",
+    "path": "learning/language-fixtures/lute-v3/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Why this upstream",
+    "commit": "488f3547c3bb018c91c8248f002bab3356a0aabf",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-09-24",
+    "path": "learning/language-fixtures/lute-v3/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "First small adaptation",
+    "commit": "999ec360584b49bc2dae343ff308f3c346268861",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-09-24",
+    "path": "learning/language-fixtures/lute-v3/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Acceptance checks",
+    "commit": "a06db00ca3206914454dc632631982584453761d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-09-25",
+    "path": "learning/language-fixtures/lute-v3/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Working method",
+    "commit": "4fef3b8a03d3d292343c9ae701d57c0a56c6da60",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-10-01",
+    "path": "learning/language-fixtures/lute-v3/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Second-brain record",
+    "commit": "5774b8231052e4a1f0064520cbde853ea6470ad6",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-10-03",
+    "path": "learning/language-fixtures/lute-v3/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Attribution and resources",
+    "commit": "d02a5dc92243030cf6028f810ab2a9f368f1e3f0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-10-21",
+    "path": "learning/language-fixtures/lute-v3/kingkazmax-study/original-mini-texts.md",
+    "section": "text-en-001",
+    "commit": "abf0db56e1f86aa9daaec2e4db12fba95c7435c2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-10-21",
+    "path": "learning/language-fixtures/lute-v3/kingkazmax-study/original-mini-texts.md",
+    "section": "text-ja-001",
+    "commit": "fb84453b41332c045080b8ac97aa236456855184",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-10-29",
+    "path": "learning/language-fixtures/lute-v3/kingkazmax-study/reading-log-template.csv",
+    "section": "original fixture",
+    "commit": "2f1dc3aa5163c5d0e42ffc2c91e6bc61113b1e4d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-11-01",
+    "path": "learning/language-fixtures/yomitan/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Personal learning context",
+    "commit": "5db24e883056a81d5c5eb1acca99f3a710464d48",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-11-24",
+    "path": "learning/language-fixtures/yomitan/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Why this upstream",
+    "commit": "96db2920fcf21fe0f507fa465d00c00286eb2a70",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-11-24",
+    "path": "learning/language-fixtures/yomitan/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "First small adaptation",
+    "commit": "fd1b98c4c38e4fdaa19b828ec572a3d2194a7cef",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-11-25",
+    "path": "learning/language-fixtures/yomitan/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Acceptance checks",
+    "commit": "66bdf2735994cc8441a9bba131bb5c0629a2715e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-11-27",
+    "path": "learning/language-fixtures/yomitan/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Working method",
+    "commit": "2ffc43a09070c6b4a34085febd6d896923331a48",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-12-03",
+    "path": "learning/language-fixtures/yomitan/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Second-brain record",
+    "commit": "75f61860db973743d87e2351c6111889b4f40fd0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-12-04",
+    "path": "learning/language-fixtures/yomitan/KINGKAZMAX-LANGUAGE-PLAN.md",
+    "section": "Attribution and resources",
+    "commit": "0953622b749c96d818054000666c33387ef5ccc8",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-12-04",
+    "path": "learning/language-fixtures/yomitan/kingkazmax-study/card-field-contract.json",
+    "section": "original fixture",
+    "commit": "7e9e3c6fee182151f49f5de16e8e53f804e20357",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-12-07",
+    "path": "learning/templates/learning-record.md",
+    "section": "本次只解决什么",
+    "commit": "572ad390e9f11d0a6b46df1104c0227420bf5fc8",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-12-07",
+    "path": "learning/templates/learning-record.md",
+    "section": "独立完成的原始输出",
+    "commit": "eb6f74a923fb7cc3e309aa01731b9402e3896dda",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2025-12-18",
+    "path": "learning/templates/learning-record.md",
+    "section": "修改与理解",
+    "commit": "d2cc022fd4576c4c3c6f63f2d5fac2ae14033071",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-01-10",
+    "path": "learning/templates/learning-record.md",
+    "section": "实际验证",
+    "commit": "d898237128fb53bc0e2a2b955b349e1c3f79bcc2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-01-10",
+    "path": "learning/templates/learning-record.md",
+    "section": "贡献状态",
+    "commit": "e1333f45e1976a35e340a62cd083d24006628e90",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-01-13",
+    "path": "learning/templates/learning-record.md",
+    "section": "下一步",
+    "commit": "7822a40472f2421edc8ac577e3728046bf5f83c5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-01-14",
+    "path": "learning/templates/weekly-review.md",
+    "section": "这周实际完成了什么",
+    "commit": "aa0da25f138e9f1d90a482702b0b17f2a1da833c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-01-24",
+    "path": "learning/templates/weekly-review.md",
+    "section": "可以独立完成什么",
+    "commit": "bf0ddc6a6546968b5491a5bdfc29241d67fa4204",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-01-25",
+    "path": "learning/templates/weekly-review.md",
+    "section": "重复错误与调整",
+    "commit": "14f59ecaad0f8569a1f46c5b69b2697e0e2976fe",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-01-31",
+    "path": "learning/templates/weekly-review.md",
+    "section": "下周只激活这些任务",
+    "commit": "be75cf096a0f2db62f3af7ce38b32cd6b37041af",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-02-02",
+    "path": "learning/templates/weekly-review.md",
+    "section": "私人与公开的整理",
+    "commit": "8633234e83ac00c12b8d345ab01dffea75ef1ffd",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-02-07",
+    "path": "learning/tracks/design-aigc.md",
+    "section": "第一步",
+    "commit": "f22573ab6864184383ea753430f781102e4022ce",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-02-13",
+    "path": "learning/tracks/design-aigc.md",
+    "section": "本次输出",
+    "commit": "03630f1ad128e8761397abcc295053e80bfea096",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-02-19",
+    "path": "learning/tracks/design-aigc.md",
+    "section": "验收条件",
+    "commit": "ca72a4046b78098dc0852d85b00b246932f1338e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-02-21",
+    "path": "learning/tracks/design-aigc.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "5a9f0a3c3fca7b64cb7defc2682bf9ae579023ed",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-02-24",
+    "path": "learning/tracks/design-aigc.md",
+    "section": "相关新学习笔记",
+    "commit": "09becca3eba594afd7aaf8734d1a342c7044ef08",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-03-04",
+    "path": "learning/tracks/design-aigc.md",
+    "section": "从计划进入实际贡献",
+    "commit": "0bdddd4e2e74c0f13a3673cca08dbd7f34bb0e9c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-03-07",
+    "path": "learning/tracks/digital-heritage.md",
+    "section": "第一步",
+    "commit": "d5d52365589dae8d6daf5b027a858ff03f83e092",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-03-07",
+    "path": "learning/tracks/digital-heritage.md",
+    "section": "本次输出",
+    "commit": "b1b2f19bad12468689423416087104fed272fba9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-03-10",
+    "path": "learning/tracks/digital-heritage.md",
+    "section": "验收条件",
+    "commit": "65109f4576895597d9f42f179e39e0ea62187125",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-03-11",
+    "path": "learning/tracks/digital-heritage.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "df771fea87831b6802976397d5db2602fdbee812",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-03-15",
+    "path": "learning/tracks/digital-heritage.md",
+    "section": "相关新学习笔记",
+    "commit": "ef8b71c89f5d7b7d2e29382623b4619d588d1d6b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-03-24",
+    "path": "learning/tracks/digital-heritage.md",
+    "section": "从计划进入实际贡献",
+    "commit": "a727425eab067355a43d26a4eff151be519f1272",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-04-01",
+    "path": "learning/tracks/engineering-workflows.md",
+    "section": "第一步",
+    "commit": "59500846e0cbe989034bd09b8dcb8811d39eb791",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-04-01",
+    "path": "learning/tracks/engineering-workflows.md",
+    "section": "本次输出",
+    "commit": "774adfd57b4fadcdb458a7d5afe6137467124154",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-04-07",
+    "path": "learning/tracks/engineering-workflows.md",
+    "section": "验收条件",
+    "commit": "e2a1bc5475ea988de75be4c582b5a10c123d2c13",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-04-15",
+    "path": "learning/tracks/engineering-workflows.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "72f724d4ef70d40affc627381d9d6130bf0432f3",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-04-21",
+    "path": "learning/tracks/engineering-workflows.md",
+    "section": "相关新学习笔记",
+    "commit": "152b0502089b8d1c679b46e37ff10d867362bb40",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-04-25",
+    "path": "learning/tracks/engineering-workflows.md",
+    "section": "从计划进入实际贡献",
+    "commit": "f608da3f632dfe54e8f6a75dc5139515ff435b39",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-04-30",
+    "path": "learning/tracks/english-ielts.md",
+    "section": "第一步",
+    "commit": "b58ee50ec30d5d3a3a02ac79b941229b27ace514",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-05-01",
+    "path": "learning/tracks/english-ielts.md",
+    "section": "本次输出",
+    "commit": "f161fa5d698cc67cbcc3d298f541db2550ece673",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-05-08",
+    "path": "learning/tracks/english-ielts.md",
+    "section": "验收条件",
+    "commit": "23b75248213e8442af74f00c27c0b8f439652751",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-05-08",
+    "path": "learning/tracks/english-ielts.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "5a240ce9863a9fab306855975904f2f606babfac",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-05-13",
+    "path": "learning/tracks/english-ielts.md",
+    "section": "相关新学习笔记",
+    "commit": "2b58819b060ca42eccb7a65902d243c780432429",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-05-21",
+    "path": "learning/tracks/english-ielts.md",
+    "section": "从计划进入实际贡献",
+    "commit": "ce3b425d137be96b194ca2a972089f0642cadb42",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-05-25",
+    "path": "learning/tracks/hci-ai.md",
+    "section": "第一步",
+    "commit": "37742de45ad65433f591bd6520faebf3805f4a60",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-05-28",
+    "path": "learning/tracks/hci-ai.md",
+    "section": "本次输出",
+    "commit": "830e2638a0a1a81b33427cf7d20603268afb8b46",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-05-28",
+    "path": "learning/tracks/hci-ai.md",
+    "section": "验收条件",
+    "commit": "495a96492c3518b619416fe1d79fff23e8268d2e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-06-05",
+    "path": "learning/tracks/hci-ai.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "bb17c451d9ffa264dad7a3dddd5bb347b1b8d397",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-06-07",
+    "path": "learning/tracks/hci-ai.md",
+    "section": "相关新学习笔记",
+    "commit": "747d1be6cbb46fd2d84ffb05f948df23c99dea95",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-06-12",
+    "path": "learning/tracks/hci-ai.md",
+    "section": "从计划进入实际贡献",
+    "commit": "c045f5841b0a69c80c3ffd0e57cdbbdb13a36b38",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-06-12",
+    "path": "learning/tracks/japanese.md",
+    "section": "第一步",
+    "commit": "4adb7d14251c8f42f5bcffe8b3fb6f4f0a8639b4",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-06-18",
+    "path": "learning/tracks/japanese.md",
+    "section": "本次输出",
+    "commit": "56bb1e1af61211f4074b548e5cad1fc38b8007b2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-06-25",
+    "path": "learning/tracks/japanese.md",
+    "section": "验收条件",
+    "commit": "0d42e164f8a498beb90945f052ed631f3110dec2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-06-25",
+    "path": "learning/tracks/japanese.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "f4b495fb5acb3dc4abb4bdb78649b19bac91e094",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-06-28",
+    "path": "learning/tracks/japanese.md",
+    "section": "相关新学习笔记",
+    "commit": "f2ec61558e6bd589f0305a1938d34eb5ad61c20f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-06-28",
+    "path": "learning/tracks/japanese.md",
+    "section": "从计划进入实际贡献",
+    "commit": "e30a0e3914065dbb95550f84e9edb03e20aa965e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-07-05",
+    "path": "learning/tracks/playful-media.md",
+    "section": "第一步",
+    "commit": "02061d5bf05a3036d0a7e2972d4ef16a1b105be3",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-07-05",
+    "path": "learning/tracks/playful-media.md",
+    "section": "本次输出",
+    "commit": "30d417c25a138a816af4c070ead1c1514e2bb1b5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-07-07",
+    "path": "learning/tracks/playful-media.md",
+    "section": "验收条件",
+    "commit": "e39205907b1aa766b8d5e9a05d29499848a93e89",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-07-07",
+    "path": "learning/tracks/playful-media.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "85119a3a13aea6b9b0c7b3b2de16c4a748d1a27c",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-07-09",
+    "path": "learning/tracks/playful-media.md",
+    "section": "相关新学习笔记",
+    "commit": "0a3fbe48b8e3e21ae05e82d46940cbc648c3501e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-07-13",
+    "path": "learning/tracks/playful-media.md",
+    "section": "从计划进入实际贡献",
+    "commit": "8a666e3c34b6fd5e86c2b70969bc5f82b97848fe",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-07-22",
+    "path": "learning/tracks/research-writing.md",
+    "section": "第一步",
+    "commit": "4e10f7176a058901246702b0920908715f19c5c5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-07-22",
+    "path": "learning/tracks/research-writing.md",
+    "section": "本次输出",
+    "commit": "144aa10023c403cd54fa0ef57a97ccee068b0285",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-07-22",
+    "path": "learning/tracks/research-writing.md",
+    "section": "验收条件",
+    "commit": "1e67125482fce3661326d2f84571841676690c91",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-08-11",
+    "path": "learning/tracks/research-writing.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "f79dadbfb58be6a8df06c7447eed7df07291ad3e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-08-13",
+    "path": "learning/tracks/research-writing.md",
+    "section": "相关新学习笔记",
+    "commit": "eaca5981b6066b3864d503f44efecea5ae67e83d",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-08-13",
+    "path": "learning/tracks/research-writing.md",
+    "section": "从计划进入实际贡献",
+    "commit": "3a86a5f6cb454e39501dad579eb938792dff1e9f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-08-14",
+    "path": "learning/tracks/robotics.md",
+    "section": "第一步",
+    "commit": "949a3069f49bf7d961c7d96e0e8ff45c376ae47e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-08-14",
+    "path": "learning/tracks/robotics.md",
+    "section": "本次输出",
+    "commit": "b81a92bc5169799c67411f22dc291799530b1652",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-08-25",
+    "path": "learning/tracks/robotics.md",
+    "section": "验收条件",
+    "commit": "7ac14e57e51313481e8f0341fce72a39bf387a06",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-08-27",
+    "path": "learning/tracks/robotics.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "b2bc90053dc9154f86f8ace4f1f2cd61a01cad14",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-08-27",
+    "path": "learning/tracks/robotics.md",
+    "section": "相关新学习笔记",
+    "commit": "bcd7319d41a34e8886869b1f518d326f97779486",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-08-27",
+    "path": "learning/tracks/robotics.md",
+    "section": "从计划进入实际贡献",
+    "commit": "fd8cd937a53656894b53187c7243503a2ed77319",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-09-16",
+    "path": "learning/tracks/spatial-3d.md",
+    "section": "第一步",
+    "commit": "25e45de74ff8660121acdaf72789e5fdfb845229",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-09-16",
+    "path": "learning/tracks/spatial-3d.md",
+    "section": "本次输出",
+    "commit": "b575cefa7ccac05c1a05185b8db9d650ad03b640",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-09-17",
+    "path": "learning/tracks/spatial-3d.md",
+    "section": "验收条件",
+    "commit": "c4586c21729c9f26813bada8d5e1ecc12d471eac",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-09-21",
+    "path": "learning/tracks/spatial-3d.md",
+    "section": "本轮外部来源与个人 Fork",
+    "commit": "62474836acb62c4e48ad3cf8a9e1087303dcde6a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-09-21",
+    "path": "learning/tracks/spatial-3d.md",
+    "section": "相关新学习笔记",
+    "commit": "a10e516d2073561bb24c4e4be7284415fc17960a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-09-21",
+    "path": "learning/tracks/spatial-3d.md",
+    "section": "从计划进入实际贡献",
+    "commit": "726a73614f522404e8acf575e5a81f9123a12aff",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-09-26",
+    "path": "learning/languages/README.md",
+    "section": "每周十小时，先形成可持续节奏",
+    "commit": "55058ac7a049a18366f66698d82b3390a1581e58",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-09-30",
+    "path": "learning/languages/README.md",
+    "section": "前两周：建立基线，不用分数给自己贴标签",
+    "commit": "afeccd23589a2d5b1532847cc2645303500f213b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-09-30",
+    "path": "learning/languages/README.md",
+    "section": "十二周基础重建",
+    "commit": "86a74c15d628194c0203824f02edc37ec90d0bdc",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-02",
+    "path": "learning/languages/README.md",
+    "section": "进入下一阶段的门槛",
+    "commit": "7b0bfaf7d35903a578a0e3b5b5639c443dba2fe0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-05",
+    "path": "learning/languages/README.md",
+    "section": "IELTS 专项目录怎么使用",
+    "commit": "ba8b7647ecf762312b087b0ab30d3406d95cf3e6",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-05",
+    "path": "learning/languages/README.md",
+    "section": "日语专项目录怎么使用",
+    "commit": "3e3e2ba6e5d4d29e0ea43b3e3685ed6b28b283c0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-10",
+    "path": "learning/languages/README.md",
+    "section": "GitHub 与 Obsidian 的分工",
+    "commit": "5b2b210ef24cdb24a0652f5e86e6e641870f0291",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-13",
+    "path": "learning/languages/README.md",
+    "section": "可直接使用的学习记录模板",
+    "commit": "4d0aca8a32dae468453cb6cb268c5f8c46213a8f",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/languages/README.md",
+    "section": "每周工具任务候选",
+    "commit": "afb037729b8720a2f2dd6c95d42d4e40136f650a",
+    "compiled_on": "2026-10-27"
+  }
+]

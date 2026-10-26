@@ -1,0 +1,77 @@
+{
+  "checked_on": "2026-10-27",
+  "sources": [
+    {
+      "id": "ielts-academic-format",
+      "title": "IELTS Academic 官方考试结构",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "verified_use": "Four skills; total approximately 2h45m. Academic is a provisional choice for doctoral applications, subject to institution and visa requirements."
+    },
+    {
+      "id": "ielts-writing-format",
+      "title": "IELTS Academic 官方写作要求",
+      "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing",
+      "verified_use": "Task 1 at least 150 words; Task 2 at least 250 words; Task 2 twice the weighting of Task 1."
+    },
+    {
+      "id": "ielts-scoring",
+      "title": "IELTS 官方评分说明",
+      "url": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "verified_use": "Overall and component scores are distinct; exact raw-score conversions vary by test version."
+    },
+    {
+      "id": "ielts-writing-descriptors",
+      "title": "IELTS 写作公开评分描述",
+      "url": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+      "verified_use": "Public criterion reference for feedback, not authority to issue an official score."
+    },
+    {
+      "id": "ielts-speaking-descriptors",
+      "title": "IELTS 口语公开评分描述",
+      "url": "https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf",
+      "verified_use": "Public criterion reference for feedback; AI estimates are not official scores."
+    },
+    {
+      "id": "ielts-academic-samples",
+      "title": "IELTS Academic 官方样题",
+      "url": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test",
+      "verified_use": "Link to official material; do not republish full copyrighted questions or recordings."
+    },
+    {
+      "id": "english-baseline",
+      "title": "British Council 免费等级测试",
+      "url": "https://learnenglish.britishcouncil.org/english-levels/online-english-level-test",
+      "verified_use": "Approximate indication; grammar, vocabulary and phrasing multiple-choice test; login currently required."
+    },
+    {
+      "id": "jlpt-levels",
+      "title": "JLPT 官方 N1–N5 能力说明",
+      "url": "https://www.jlpt.jp/e/about/levelsummary.html",
+      "verified_use": "N5 easiest, N1 hardest; N3 bridges basic and higher levels."
+    },
+    {
+      "id": "jlpt-sections",
+      "title": "JLPT 官方科目与时间",
+      "url": "https://www.jlpt.jp/e/guideline/testsections.html",
+      "verified_use": "Language knowledge, reading and listening; timing varies by level."
+    },
+    {
+      "id": "jlpt-faq",
+      "title": "JLPT 官方 FAQ",
+      "url": "https://www.jlpt.jp/e/faq/",
+      "verified_use": "No conversation/speaking or composition/writing tests; the referenced CEFR indication does not assess productive skills."
+    },
+    {
+      "id": "jlpt-samples",
+      "title": "JLPT 官方样题",
+      "url": "https://www.jlpt.jp/e/samples/forlearners.html",
+      "verified_use": "Samples illustrate item types and are not a full proficiency certification."
+    },
+    {
+      "id": "irodori",
+      "title": "日本国际交流基金 Irodori",
+      "url": "https://www.irodori.jpf.go.jp/en/",
+      "verified_use": "Starter, Elementary and subsequent practical Japanese materials; choose starting level after baseline."
+    }
+  ]
+}

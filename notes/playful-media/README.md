@@ -1,0 +1,14 @@
+# Playful media
+
+Retrospective study material compiled on 2026-10-27. Historical Git author dates are editorial archive slots chosen for this collection, not evidence that the notes, experiments, forks, or software existed or were completed on those dates. Git committer dates retain the actual time of compilation. Referenced projects and APIs may postdate an archive slot. All proposed exercises remain unexecuted unless a later dated record supplies results. No participant data or research findings are claimed.
+
+- [Small Rules, Legible Feedback](small-rules-legible-feedback.md) — A prospective microgame exercise examining whether a simple rule can be learned from immediate, understandable feedback without relying on elaborate instructions.
+- [Controller and Keyboard Action Mapping](controller-and-keyboard-action-mapping.md) — A new design exercise for discoverable, reversible input mappings across keyboard and game controller use, with device transitions treated as part of the interface.
+- [Virtual Pet Rhythms Without Pressure](virtual-pet-rhythms-without-pressure.md) — A proposed virtual pet interaction study emphasizing optional routines, visible state changes, and comfortable return after an absence without guilt or punitive mechanics.
+- [Explaining Card Sampling Without Mystique](explaining-card-sampling.md) — A prospective card toy exercise showing how deck composition and replacement rules shape draws, using original geometric cards and transparent arithmetic.
+- [Readable Branching Narratives](readable-branching-narratives.md) — A new narrative interface plan for making choices, consequences, and revisitable branches understandable without revealing every future event or erasing player intent.
+- [Recoverable Failure States in Small Games](recoverable-failure-states.md) — A prospective prototype exercise distinguishing intended game failure from technical interruption, with clear checkpoints, reversible recovery, and honest save status.
+- [Boundaries in Shared Play](boundaries-in-shared-play.md) — A new cooperative game interface plan for legible action ownership, shared decisions, and respectful pause behavior in a small local two player scenario.
+- [Sound and Reduced Motion Feedback](sound-and-reduced-motion-feedback.md) — A prospective audiovisual design exercise preserving essential game information when sound is muted or motion is reduced, with independent player controls.
+- [Provenance in a Retro Play Archive](provenance-in-a-retro-play-archive.md) — A practical design plan for keeping creators, upstream projects, asset origins, and recorded reuse terms visible throughout a retro inspired game archive.
+- [Player Directed Session Time](player-directed-session-time.md) — A new game interface exercise supporting optional session awareness, comfortable stopping points, and transparent local timing without pressure to continue or return.

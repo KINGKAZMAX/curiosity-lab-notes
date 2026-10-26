@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "KINGKAZMAX/anki",
+    "url": "https://github.com/KINGKAZMAX/anki",
+    "upstream": "ankitects/anki",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-LANGUAGE-PLAN.md"
+  },
+  {
+    "repository": "KINGKAZMAX/yomitan",
+    "url": "https://github.com/KINGKAZMAX/yomitan",
+    "upstream": "yomidevs/yomitan",
+    "default_branch": "master",
+    "study_path": "KINGKAZMAX-LANGUAGE-PLAN.md"
+  },
+  {
+    "repository": "KINGKAZMAX/lute-v3",
+    "url": "https://github.com/KINGKAZMAX/lute-v3",
+    "upstream": "LuteOrg/lute-v3",
+    "default_branch": "develop",
+    "study_path": "KINGKAZMAX-LANGUAGE-PLAN.md"
+  },
+  {
+    "repository": "KINGKAZMAX/asbplayer",
+    "url": "https://github.com/KINGKAZMAX/asbplayer",
+    "upstream": "asbplayer/asbplayer",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-LANGUAGE-PLAN.md"
+  }
+]

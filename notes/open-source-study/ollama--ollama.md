@@ -35,3 +35,4 @@ These are proposed checks, not completed results. After implementing the exercis
 ## Maintenance and attribution
 
 Retain the upstream license and notices: metadata currently identifies `MIT`. This metadata is a discovery aid; consult the actual license files before redistribution. Keep the upstream remote identifiable, review upstream changes before merging, and document which files are personal additions. Do not represent this fork or this unexecuted study plan as original upstream software.
+

@@ -1,0 +1,130 @@
+[
+  {
+    "repository": "KINGKAZMAX/ECC",
+    "url": "https://github.com/KINGKAZMAX/ECC",
+    "upstream": "affaan-m/ECC",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "24cf825e7ca8b7b6f4fb97a9efa0948926f709f9"
+  },
+  {
+    "repository": "KINGKAZMAX/hermes-agent",
+    "url": "https://github.com/KINGKAZMAX/hermes-agent",
+    "upstream": "NousResearch/hermes-agent",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "0ed5a783ccf8d0d4c0ad6e96b149e36cc7545ddc"
+  },
+  {
+    "repository": "KINGKAZMAX/n8n",
+    "url": "https://github.com/KINGKAZMAX/n8n",
+    "upstream": "n8n-io/n8n",
+    "default_branch": "master",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "342a03e11f3d79d3e70de961e8a662effd429e0b"
+  },
+  {
+    "repository": "KINGKAZMAX/firecrawl",
+    "url": "https://github.com/KINGKAZMAX/firecrawl",
+    "upstream": "firecrawl/firecrawl",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "f7a892e51e7da57281cb9a2c1a99be2e6eb8f188"
+  },
+  {
+    "repository": "KINGKAZMAX/markitdown",
+    "url": "https://github.com/KINGKAZMAX/markitdown",
+    "upstream": "microsoft/markitdown",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "c8a3266541c987923d7d5e68901f7dc71b3a9a57"
+  },
+  {
+    "repository": "KINGKAZMAX/ollama",
+    "url": "https://github.com/KINGKAZMAX/ollama",
+    "upstream": "ollama/ollama",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "a95f2829adbf130651cd05aa779bf186a3080c83"
+  },
+  {
+    "repository": "KINGKAZMAX/transformers",
+    "url": "https://github.com/KINGKAZMAX/transformers",
+    "upstream": "huggingface/transformers",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "67248a2c077aa653f80f0a4084ff2396edd68b47"
+  },
+  {
+    "repository": "KINGKAZMAX/ComfyUI",
+    "url": "https://github.com/KINGKAZMAX/ComfyUI",
+    "upstream": "Comfy-Org/ComfyUI",
+    "default_branch": "master",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "e06dc8c5ec7d4eeb8061171661d20c5af602e42f"
+  },
+  {
+    "repository": "KINGKAZMAX/excalidraw",
+    "url": "https://github.com/KINGKAZMAX/excalidraw",
+    "upstream": "excalidraw/excalidraw",
+    "default_branch": "master",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "e29a3c15711bde97da3cd7821309c14567688e0a"
+  },
+  {
+    "repository": "KINGKAZMAX/godot",
+    "url": "https://github.com/KINGKAZMAX/godot",
+    "upstream": "godotengine/godot",
+    "default_branch": "master",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "14ed1fac0ce4aee7ccf53c25c00c3a0e291e4578"
+  },
+  {
+    "repository": "KINGKAZMAX/three.js",
+    "url": "https://github.com/KINGKAZMAX/three.js",
+    "upstream": "mrdoob/three.js",
+    "default_branch": "dev",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "b7a87804fda6a846a2425ed696bb54c095b028af"
+  },
+  {
+    "repository": "KINGKAZMAX/d3",
+    "url": "https://github.com/KINGKAZMAX/d3",
+    "upstream": "d3/d3",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "98ded407f89fa1a86b8d767446c84925829aa4d2"
+  },
+  {
+    "repository": "KINGKAZMAX/mermaid",
+    "url": "https://github.com/KINGKAZMAX/mermaid",
+    "upstream": "mermaid-js/mermaid",
+    "default_branch": "develop",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "d46b4086391203dd2c2ccb99ade9e219fcf5f897"
+  },
+  {
+    "repository": "KINGKAZMAX/react-three-fiber",
+    "url": "https://github.com/KINGKAZMAX/react-three-fiber",
+    "upstream": "pmndrs/react-three-fiber",
+    "default_branch": "master",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "8cbc3c93a1821e291b9142e4c4ca824895104ccd"
+  },
+  {
+    "repository": "KINGKAZMAX/Graphite",
+    "url": "https://github.com/KINGKAZMAX/Graphite",
+    "upstream": "GraphiteEditor/Graphite",
+    "default_branch": "master",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "f13732264df2374ea6ed9c39544f34a2e5326644"
+  },
+  {
+    "repository": "KINGKAZMAX/p5.js",
+    "url": "https://github.com/KINGKAZMAX/p5.js",
+    "upstream": "processing/p5.js",
+    "default_branch": "main",
+    "study_path": "KINGKAZMAX-STUDY.md",
+    "study_commit": "7ae7001342413b9deab78a22becdd1bb10ea5a5b"
+  }
+]

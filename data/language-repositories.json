@@ -1,0 +1,152 @@
+{
+  "captured_at": "2026-10-26T20:38:27.353661+00:00",
+  "client_date": "2026-10-27",
+  "methodology": "Official GitHub repository metadata and upstream documentation. Six non-archived candidates, two archived exclusions; four selected by direct learning fit, not stars alone. No software was installed or executed.",
+  "personal_context": {
+    "english": "rebuild from basics",
+    "japanese": "rebuild from basics",
+    "ielts_goal": 7.5,
+    "jlpt_goal": "N2",
+    "exam_date": null,
+    "first_phase": "12-week foundations",
+    "weekly_budget_hours": 10
+  },
+  "candidates": [
+    {
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "stars": 32311,
+      "forks": 3380,
+      "license": "NOASSERTION",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-10-26T04:04:20Z",
+      "created_at": "2012-12-21T08:03:31Z",
+      "selected": true,
+      "reason": "A mature spaced-repetition program for a small personal English/Japanese card workflow; choose it for repeatable review and editable note structure, not as a promise of exam success.",
+      "starter_task": "Define a personal note type and inspect a 12-row original bilingual TSV fixture before any import. Map fields, retain stable record IDs, and design a Markdown export for the second brain.",
+      "acceptance_criteria": [
+        "All 12 fixture rows have unique record IDs and all required fields.",
+        "An import trial into a disposable test deck preserves the IDs and handles a repeated import without unintended duplication; this runtime test remains pending.",
+        "A future Markdown export preserves expression, reading, self-authored example, source, and actual creation date.",
+        "No private performance history or copyrighted deck is placed in the public fork."
+      ],
+      "docs_url": "https://docs.ankiweb.net/"
+    },
+    {
+      "full_name": "koodo-reader/koodo-reader",
+      "url": "https://github.com/koodo-reader/koodo-reader",
+      "stars": 28636,
+      "forks": 2142,
+      "license": "AGPL-3.0",
+      "default_branch": "dev",
+      "archived": false,
+      "pushed_at": "2026-10-26T10:11:31Z",
+      "created_at": "2020-03-05T02:18:30Z",
+      "selected": false,
+      "reason": "Reserve: a useful general ebook reader, but the first batch prioritizes language-specific review, lookup, reading logs, and listening."
+    },
+    {
+      "full_name": "open-spaced-repetition/fsrs4anki",
+      "url": "https://github.com/open-spaced-repetition/fsrs4anki",
+      "stars": 4118,
+      "forks": 165,
+      "license": "MIT",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-08-14T03:34:18Z",
+      "created_at": "2022-09-08T10:53:22Z",
+      "selected": false,
+      "reason": "Reserve: investigate scheduling only after a stable basic review routine; avoid algorithm tuning as a substitute for language practice."
+    },
+    {
+      "full_name": "yomidevs/yomitan",
+      "url": "https://github.com/yomidevs/yomitan",
+      "stars": 2902,
+      "forks": 284,
+      "license": "GPL-3.0",
+      "default_branch": "master",
+      "archived": false,
+      "pushed_at": "2026-10-22T04:40:44Z",
+      "created_at": "2023-03-04T13:40:07Z",
+      "selected": true,
+      "reason": "A language-focused browser dictionary project suited to Japanese reading and a later Anki field mapping; lower stars than general readers but closer to the stated Japanese goal.",
+      "starter_task": "Review a proposed dictionary-to-card field contract using six original Japanese examples. Compare the contract with the current official Anki integration documentation before producing real extension settings.",
+      "acceptance_criteria": [
+        "Expression, reading, own example, source URL, and source date have distinct fields.",
+        "Dictionary definitions and audio retain their separate licensing and provenance; none are bundled in this fixture.",
+        "Repeated captures of the same example have an explicit deduplication key.",
+        "The JSON contract is labelled a study specification, not importable Yomitan settings."
+      ],
+      "docs_url": "https://yomitan.wiki/anki/"
+    },
+    {
+      "full_name": "kantord/LibreLingo",
+      "url": "https://github.com/kantord/LibreLingo",
+      "stars": 2633,
+      "forks": 263,
+      "license": "AGPL-3.0",
+      "default_branch": "main",
+      "archived": true,
+      "pushed_at": "2026-06-19T14:50:08Z",
+      "created_at": "2019-12-01T23:15:08Z",
+      "selected": false,
+      "reason": "Excluded from the active shortlist because the repository is archived."
+    },
+    {
+      "full_name": "LuteOrg/lute-v3",
+      "url": "https://github.com/LuteOrg/lute-v3",
+      "stars": 1600,
+      "forks": 171,
+      "license": "MIT",
+      "default_branch": "develop",
+      "archived": false,
+      "pushed_at": "2026-09-05T02:33:00Z",
+      "created_at": "2023-09-08T20:25:49Z",
+      "selected": true,
+      "reason": "A language-reading tool suited to tracking comprehension, unknown terms, and summaries alongside an Obsidian note; selected for direct learning fit rather than popularity alone.",
+      "starter_task": "Design a reading-log-to-Markdown contract using two original miniature texts and a CSV fixture. Keep reading evidence separate from proposed lesson completion.",
+      "acceptance_criteria": [
+        "The English and Japanese text samples are explicitly self-authored and carry unique IDs.",
+        "Each reading-log row links a text ID, own summary, terms to review, and a status.",
+        "A future export handles punctuation, Unicode, empty observations, and repeat runs without silently overwriting a private note.",
+        "Actual reading time and scores remain blank until measured."
+      ],
+      "docs_url": "https://luteorg.github.io/lute-manual/"
+    },
+    {
+      "full_name": "asbplayer/asbplayer",
+      "url": "https://github.com/asbplayer/asbplayer",
+      "stars": 1494,
+      "forks": 230,
+      "license": "AGPL-3.0",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-10-26T15:45:51Z",
+      "created_at": "2020-11-21T04:24:02Z",
+      "selected": true,
+      "reason": "A focused subtitle and sentence-mining project for small listening exercises; the current canonical repository is asbplayer/asbplayer, redirected from killergerbah/asbplayer.",
+      "starter_task": "Use a four-cue original SRT and a provenance manifest to design a short listening-to-card workflow. Record a matching original audio/video clip later; no media has been produced or imported by this task.",
+      "acceptance_criteria": [
+        "SRT cue numbers are sequential and times are monotonic and non-overlapping.",
+        "The manifest explicitly states that this is a text-only fixture with no recorded media yet.",
+        "Every future card can be traced to a clip ID, cue, source rights, and actual learning date.",
+        "A real playback/import test is documented only after it is executed."
+      ],
+      "docs_url": "https://docs.asbplayer.dev/"
+    },
+    {
+      "full_name": "jzohrab/lute",
+      "url": "https://github.com/jzohrab/lute",
+      "stars": 129,
+      "forks": 9,
+      "license": "Unlicense",
+      "default_branch": "master",
+      "archived": true,
+      "pushed_at": "2023-11-12T03:57:01Z",
+      "created_at": "2022-12-23T00:10:49Z",
+      "selected": false,
+      "reason": "Excluded from the active shortlist because the repository is archived."
+    }
+  ]
+}
