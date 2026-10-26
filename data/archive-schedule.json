@@ -3162,5 +3162,145 @@
     "section": "每周工具任务候选",
     "commit": "afb037729b8720a2f2dd6c95d42d4e40136f650a",
     "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-01.md",
+    "section": "original foundation exercise",
+    "commit": "17a8de29f1254f2546f4acc3096753496240d339",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-02.md",
+    "section": "original foundation exercise",
+    "commit": "23a5de658b24ad609ba91e5ac0b22301ddca6ced",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-03.md",
+    "section": "original foundation exercise",
+    "commit": "a9e5299d1cd09135bb2f704e88fff74effba6fc4",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-04.md",
+    "section": "original foundation exercise",
+    "commit": "d15018adb1b21b4157ea8c419cf663d337cc16e4",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-05.md",
+    "section": "original foundation exercise",
+    "commit": "04610e858a236daab02fcc35b3114247ed3f8a2b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-06.md",
+    "section": "original foundation exercise",
+    "commit": "7828ac552873315de06cec8b8448e8c9fb28a336",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-07.md",
+    "section": "original foundation exercise",
+    "commit": "ec4ad3c9f452ebb84a7a6fb97618955b4b3426b5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-08.md",
+    "section": "original foundation exercise",
+    "commit": "e7897b788402bf96363756c3d1fb81bb53770fc5",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-09.md",
+    "section": "original foundation exercise",
+    "commit": "4fd6ac45315b7ea140ac4ede9e3ff504372075ee",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/en-basics-10.md",
+    "section": "original foundation exercise",
+    "commit": "f77c59109be38033c66324bda1ba6dad4db6c337",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-01.md",
+    "section": "original foundation exercise",
+    "commit": "dbca89abf345bc737595c57904b486b6160c01a9",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-02.md",
+    "section": "original foundation exercise",
+    "commit": "38fcf524b40711ff8ac65cef0982ed8c714d1f7a",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-03.md",
+    "section": "original foundation exercise",
+    "commit": "add09095dddc74915d259fca98463fa6c88d163e",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-04.md",
+    "section": "original foundation exercise",
+    "commit": "204686fd06cc84b33992fa49bc5bb390c6f41bf2",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-05.md",
+    "section": "original foundation exercise",
+    "commit": "c87c49407fd0fae296e4e48d9150daa86298f0c0",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-06.md",
+    "section": "original foundation exercise",
+    "commit": "a1d32096a45fe35d2671a2c72f1c63569a5c631b",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-07.md",
+    "section": "original foundation exercise",
+    "commit": "6b6971f20e11201c325c0c30fd1a8473ea53c2d7",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-08.md",
+    "section": "original foundation exercise",
+    "commit": "994aea6b8c2f23455a7a2b7eedef57500cacc225",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-09.md",
+    "section": "original foundation exercise",
+    "commit": "8660dfd0ff33e23de6e04e98fc48a7d1e1aa04af",
+    "compiled_on": "2026-10-27"
+  },
+  {
+    "date": "2026-10-19",
+    "path": "learning/exercises/ja-basics-10.md",
+    "section": "original foundation exercise",
+    "commit": "86fb2a465dc6482910a254bac1320a38cb483c68",
+    "compiled_on": "2026-10-27"
   }
 ]

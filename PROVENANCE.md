@@ -8,7 +8,7 @@ The current reachable archive uses external upstream projects and new personal s
 
 ## Editorial schedule
 
-The account was created on 2019-08-21. New archive slots begin after that date; existing 2022–2026 archive days are retained. Each stage adds document content or an original fixture. Daily stage counts vary from one to three, with deliberate gaps. GitHub controls the exact contribution colors. These counts measure editorial commits, not hours learned or skills mastered.
+The account was created on 2019-08-21. New archive slots begin after that date; existing 2022–2026 archive days are retained. Each stage adds document content or an original fixture. Daily stage counts vary by the amount of actual documentation added, with deliberate gaps and one larger batch of 20 original foundation exercises. GitHub controls the exact contribution colors. These counts measure editorial commits, not hours learned or skills mastered.
 
 | Year | Archive days | Document-stage commits |
 |---|---:|---:|
@@ -19,6 +19,6 @@ The account was created on 2019-08-21. New archive slots begin after that date; 
 | 2023 | 56 | 75 |
 | 2024 | 56 | 73 |
 | 2025 | 56 | 72 |
-| 2026 | 56 | 77 |
+| 2026 | 56 | 97 |
 
 The complete assigned date, document, section and commit mapping is in [archive-schedule.json](data/archive-schedule.json). Actual execution records must record their real completion dates and evidence. No original GitHub creation, Fork, push or cached history timestamps can be guaranteed hidden by this editorial schedule.

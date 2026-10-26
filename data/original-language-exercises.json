@@ -1,0 +1,402 @@
+[
+  {
+    "id": "en-basics-01",
+    "language": "en",
+    "title": "把词语写成完整句子",
+    "objective": "先掌握最短的完整英语句子：让读者知道谁或什么处于什么状态。本练习是雅思长期路线的句子基础，不要求复杂词汇。",
+    "instructions": [
+      "先读原创例句，分别圈出表示人或事物的主语，再划出 am、is 或 are。",
+      "把每句翻译成自己的中文理解，检查自己是否真的理解，而不是只照着字母抄写。",
+      "完成任务后大声读一遍，听听是否漏了主语或 be 动词；不会的词先查官方学习材料。",
+      "保留第一次写出的版本，再用不同颜色改错，并用中文说明一处修改的原因。"
+    ],
+    "original_example": "I am a learner.\nThis is a small exhibit.\nThe room is quiet.",
+    "task": "将 a learner / I / am 和 quiet / the room / is 分别组成句子。然后用 I、This、The room 各写一个新的完整句子，可以描述一个虚构的学习空间。",
+    "self_check": [
+      "三句新句子都有明确主语和适合主语的 be 动词。",
+      "每句句首大写，句尾有标点，没有只写名词短语。",
+      "我能用中文解释自己写的句子，并指出至少一个与例句不同的内容。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "en-basics-02",
+    "language": "en",
+    "title": "用 be 动词提问与否定",
+    "objective": "在同一个简单场景中练习肯定句、一般疑问句和否定句，理解移动 be 动词和加入 not 的不同作用。",
+    "instructions": [
+      "阅读原创例句，观察肯定句中 is 的位置，以及问句中 is 移到哪里。",
+      "把同一个事实依次写成肯定、提问和否定，暂时只使用 am、is、are，不混入 do。",
+      "为每个问句写出简短回答，并确认回答中的代词对应同一个人或事物。",
+      "第一次写错的句子不要删除；在旁边标出是词序、代词还是 not 的位置出错。"
+    ],
+    "original_example": "The room is open.\nIs the room open? Yes, it is.\nThe room is not open.",
+    "task": "把 The light is on. 和 The cards are blue. 各改成一个一般疑问句和一个否定句；再分别写一个简短的肯定回答。",
+    "self_check": [
+      "两个问句分别以 Is 和 Are 开头，并以问号结束。",
+      "否定句中的 not 放在 be 动词后，原来的主语没有丢失。",
+      "简短回答中的 it 或 they 与前面的主语一致。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "en-basics-03",
+    "language": "en",
+    "title": "说明每天做什么",
+    "objective": "用一般现在时表达规律性的行为，初步注意 I 与第三人称单数主语之间的动词变化。这里使用虚构人物，不记录已完成学习。",
+    "instructions": [
+      "先读两组例句，比较 I read 与 Lin reads、I study 与 Lin studies。",
+      "用中文写出三个简单的日常行为，再选择自己会的英语动词表达，不急着增加从句。",
+      "把同一组行为分别放在 I 和虚构人物 Lin 后面，观察动词形式是否需要变化。",
+      "完成后检查时间表达是否描述习惯，例如 every day，而不是把过去某一次事件误写成现在的习惯。"
+    ],
+    "original_example": "I read a short text every day.\nLin reads a short text every day.\nI study English in the evening.\nLin studies English in the evening.",
+    "task": "使用 read、study、write 三个动词，先写三个以 I 为主语的习惯句，再写三个以 Lin 为主语的对应句。情境由你新编。",
+    "self_check": [
+      "以 I 为主语时使用本题要求的动词原形。",
+      "以 Lin 为主语时已检查 reads、studies、writes 的形式。",
+      "每组两句表达同一种习惯，变化主要来自主语与动词形式。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "en-basics-04",
+    "language": "en",
+    "title": "用 do 和 does 提问",
+    "objective": "练习一般现在时中的提问与否定，特别注意出现 does 或 does not 后，后面的实义动词回到原形。",
+    "instructions": [
+      "比较原创例句中的 read、reads 和 does read，先理解句子在问哪一种习惯。",
+      "写问句之前先找主语，决定使用 Do 还是 Does，不靠句子长短来选择。",
+      "为每个问题写简短回答，再写完整的否定句；本轮先使用 do not 和 does not 的完整形式。",
+      "朗读修改后的句子，找出是否出现 does reads 一类重复标记的错误。"
+    ],
+    "original_example": "Do you read at night? Yes, I do.\nDoes Lin read at night? No, Lin does not.\nLin does not read at night.",
+    "task": "将 You study English. 和 Lin writes notes. 各改成一个一般疑问句、一个简短否定回答和一个完整否定句。",
+    "self_check": [
+      "You 对应 do，Lin 对应 does。",
+      "在 does 或 does not 后面，我使用 study 或 write 一类原形。",
+      "回答真正回应了前面的同一个问题，代词和主语没有随意改变。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "en-basics-05",
+    "language": "en",
+    "title": "描述正在发生的动作",
+    "objective": "在一个虚构的学习场景中，用 be 加动词 ing 形式描述正在发生的动作，并与日常习惯的表达作简单区分。",
+    "instructions": [
+      "阅读原创例句，分别标出 be 动词和后面的动作词，注意两部分需要一起出现。",
+      "在纸上画三个简单人物，分别安排一个正在做的动作；画得简单即可，重点是句子的意思。",
+      "为三个画面写说明，再为其中一个动作写出否定句，检查自己是否保留了 be 动词。",
+      "最后用中文说明一句正在做什么与一句每天做什么的区别，不把 now 和 every day 随意混用。"
+    ],
+    "original_example": "I am writing a short note now.\nLin is reading a book.\nThey are checking the labels.",
+    "task": "使用 write、read、check，为 I、Lin、They 各写一句现在正在进行的动作。任选一句改为否定，并另写一句相应的日常习惯句。",
+    "self_check": [
+      "本题的进行时句子同时包含合适的 be 动词和 ing 形式。",
+      "否定句中的 not 没有使 be 动词消失。",
+      "我能区分描述此刻的句子与描述规律习惯的句子。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "en-basics-06",
+    "language": "en",
+    "title": "叙述一个虚构的昨天",
+    "objective": "用少量常见动词练习一般过去时，并理解 did not 后面使用动词原形。虚构故事仅用于练习，不作为个人历史记录。",
+    "instructions": [
+      "先读原创短故事，找出 yesterday 与过去发生的动作之间的关系。",
+      "把一个全新虚构人物昨天做的两件事写在纸上，再写一件没有做的事。",
+      "本轮可以使用 visited、read 和 wrote；不知道的变化要单独查清，不把所有动词都机械加 ed。",
+      "将否定句中的动作词与肯定句比较，确认 did not 后面的词形，并在稿旁注明故事是虚构练习。"
+    ],
+    "original_example": "Yesterday, Lin visited a small museum.\nLin wrote a short note.\nLin did not buy a postcard.",
+    "task": "为虚构人物 Mei 写四句昨天的故事：两句肯定、一个使用 Did 的问句，以及一个使用 did not 的否定句。使用 visit、write、buy 中至少两个动词。",
+    "self_check": [
+      "故事中的过去动作使用了合适的过去式。",
+      "Did 或 did not 后面的实义动词使用原形。",
+      "我将内容标为虚构故事，没有把它写成自己真实完成过的学习活动。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "en-basics-07",
+    "language": "en",
+    "title": "写一个小而明确的计划",
+    "objective": "使用 be going to 表达未来安排，给计划加上具体对象和时间，让计划与已经完成的事情保持清楚区别。",
+    "instructions": [
+      "阅读原创例句，确认 be going to 后接的是准备做的动作，而不是已经发生的成果。",
+      "先用中文写一个很小的练习目标，例如复习五个词，而不是笼统地写学好英语。",
+      "把目标写成英语，再加一句时间或地点；任务可以是虚构安排，不需要承诺实际执行。",
+      "检查 am、is、are 是否匹配主语，并保留 planned 标记，不在练习结束时自动填成 completed。"
+    ],
+    "original_example": "Tomorrow, I am going to review five words.\nLin is going to write three sentences.\nWe are going to compare two labels.",
+    "task": "写三句计划，分别以 I、Lin、We 为主语；每句使用 be going to，并包含一个可以数清或检查的小任务。",
+    "self_check": [
+      "每句都包含与主语匹配的 be going to。",
+      "动作使用原形，任务对象足够具体。",
+      "句子被当作未来计划，没有被记录为已完成结果。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "en-basics-08",
+    "language": "en",
+    "title": "比较两个简单对象",
+    "objective": "练习用形容词比较级和 than 说明差异，并让表达与给定数据一致，避免只使用好看或更好一类没有依据的判断。",
+    "instructions": [
+      "先读原创例句，找到比较的两个对象和表示差异的形容词。",
+      "使用任务中的虚构尺寸做比较，不用猜测图片；先确认哪一个数值更大。",
+      "写完后将两个对象对调，再用相反的比较词表达同一事实。",
+      "本题只使用 taller、shorter、larger、smaller；把比较关系讲清楚比增加生僻词更重要。"
+    ],
+    "original_example": "The blue box is taller than the green box.\nThe green box is shorter than the blue box.",
+    "task": "虚构数据：蓝盒高 12 厘米，绿盒高 8 厘米；A 卡面积 20 平方厘米，B 卡面积 10 平方厘米。写四句比较，分别使用 taller、shorter、larger、smaller。",
+    "self_check": [
+      "每个比较句都明确写出两个对象并使用 than。",
+      "四句与给定尺寸一致，没有把大小关系写反。",
+      "对象名称前后的表达保持一致，读者能判断我在比较哪一组。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "en-basics-09",
+    "language": "en",
+    "title": "把四个步骤讲清楚",
+    "objective": "用简单顺序词组织说明，让别人可以跟着完成一个新的小练习，为以后介绍研究方法和项目流程打基础。",
+    "instructions": [
+      "阅读原创说明，观察 First、Then、Next、Finally 如何把独立动作连起来。",
+      "为一个虚构的展品卡制作任务列出四个动作，保证每一步只处理一个主要动作。",
+      "把动作写成完整说明，不使用只有动词或名词、却无法判断操作对象的碎片。",
+      "请自己按写出的步骤检查一次逻辑，找出是否先用了尚未准备的资料，并保留修订痕迹。"
+    ],
+    "original_example": "First, I choose one object.\nThen, I write a short label.\nNext, I check the words.\nFinally, I save the note.",
+    "task": "新编一个四步学习流程，分别用 First、Then、Next、Finally 开头。流程要包含阅读、写一句自己的话、检查和保存四类动作。",
+    "self_check": [
+      "四个步骤顺序合理，不要求使用尚未准备的东西。",
+      "每一步都明确说明做什么以及对什么做。",
+      "我没有只复制例句，而是至少改动了对象或动作细节。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "en-basics-10",
+    "language": "en",
+    "title": "完成一个有中心的小段落",
+    "objective": "把完整句子连成一个围绕单一主题的短段落，练习目的、细节和理由之间的关系；这一基础任务不用于估算雅思分数。",
+    "instructions": [
+      "阅读原创段落，用中文写一句它主要在介绍什么，再指出支持主题的细节。",
+      "为一个全新虚构的小展览选择一个主题，先列出地点、一个特点和一个理由。",
+      "写四到六句相互关联的英语，不为了凑字数重复同一句意思，也不要求使用复杂语法。",
+      "保留初稿后，只检查本阶段最重要的项目：完整句、基本时态、对象一致和标点，再写修订稿。"
+    ],
+    "original_example": "I am planning a small exhibition about everyday objects. The room has three tables. Each table has one object and a short label. I want the labels to be simple because visitors need clear information.",
+    "task": "写四到六句介绍一个原创虚构展览，包含主题、两个具体细节和一个使用 because 表达的理由。不要照搬例句中的房间安排。",
+    "self_check": [
+      "所有句子围绕同一个展览主题。",
+      "至少两个细节是我自己新编的，并且前后不矛盾。",
+      "我能指出一次修订及其原因，而不是只留下最后的版本。"
+    ],
+    "source_url": "https://learnenglish.britishcouncil.org/level"
+  },
+  {
+    "id": "ja-basics-01",
+    "language": "ja",
+    "title": "平假名：看、读、遮住再写",
+    "objective": "从两行平假名开始建立字形和读音的对应，区分认得、容易混淆和还不会三种状态，不用抄写数量代替掌握。",
+    "instructions": [
+      "先看原创字序练习中的两行假名，配合官方入门材料核对读音，不用中文近似音替代长期发音学习。",
+      "每次只看一个字，读出后遮住例子再写；不会时记录具体是哪一个字，不整行反复机械抄写。",
+      "把十个字打乱后再认读，检查自己是认识单字，还是仅记住了固定顺序。",
+      "另起一栏记录混淆字，稍后用不同顺序复查；未核实的读音先标为待确认。"
+    ],
+    "original_example": "あ　い　う　え　お\nか　き　く　け　こ",
+    "task": "先将十个字各读一次，再遮住例子写出你记得的字。最后用 こ・い・か・え・く・あ・け・う・き・お 的顺序重新认读，记录需要回看的字。",
+    "self_check": [
+      "我把认识、混淆和不会的字分别记录了，而不是全部勾成会。",
+      "打乱顺序后也尝试认读，没有只按五十音顺序背诵。",
+      "不确定读音的字已回到官方入门材料核对。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  },
+  {
+    "id": "ja-basics-02",
+    "language": "ja",
+    "title": "片假名与平假名配对",
+    "objective": "认识片假名的基本字形，并观察它在常见借词中的使用；先用少量配对和短词建立辨认能力。",
+    "instructions": [
+      "先比较原创配对示例中表示同一读音的两种字形，注意形状不同并不等于读音不同。",
+      "完成配对任务后，尝试阅读三个短词；遇到长音符号时先查入门音频，不直接省略。",
+      "把最容易混淆的两组单独写在一张练习纸上，遮住答案后再次辨认。",
+      "本轮只要求认读和准确抄写，不根据见过几个词就判断自己已经掌握全部片假名。"
+    ],
+    "original_example": "あ → ア　い → イ　う → ウ\nカメラ　ノート　ペン",
+    "task": "将 ア・イ・ウ・エ・オ・カ・キ・ク・ケ・コ 与相应平假名配对，再抄写 カメラ、ノート、ペン，并用中文记录词义和仍需确认的读音。",
+    "self_check": [
+      "十组配对都已逐项检查，不是凭顺序连线。",
+      "ノート 中的长音符号没有被漏掉。",
+      "我单独记录了仍然容易混淆的字形。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  },
+  {
+    "id": "ja-basics-03",
+    "language": "ja",
+    "title": "用です做最简单的介绍",
+    "objective": "用简短礼貌句介绍一个虚构人物，先掌握姓名和身份的基本表达，不急于增加年龄、籍贯等复杂信息。",
+    "instructions": [
+      "阅读原创例句，识别表示主题的部分和句尾的 です，并尝试用自己的中文解释。",
+      "先为虚构人物选择名字和身份，再按照例句结构表达，避免把每个词直接照中文顺序排列。",
+      "将写出的两句慢慢读出，注意 は 在这里作为助词时的读音；不熟悉的部分查入门材料。",
+      "保留第一次写的句子，再检查标点和句尾形式；本练习不需要透露真实个人信息。"
+    ],
+    "original_example": "わたしはリンです。\nがくせいです。\nよろしくおねがいします。",
+    "task": "以虚构人物 アン 为例写两句介绍，说明名字和学生身份；再换一个自己新编的名字，写出对应版本。",
+    "self_check": [
+      "姓名表达采用本题的基本句型，句尾有 です。",
+      "我能解释例句中 は 的作用，并核对了助词读音。",
+      "人物信息是新编练习，没有被当作真实个人经历记录。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  },
+  {
+    "id": "ja-basics-04",
+    "language": "ja",
+    "title": "用の表达所属关系",
+    "objective": "区分主题助词 は 与连接所属关系的 の，用一个小物品场景说明是谁的东西，建立最基本的名词连接方式。",
+    "instructions": [
+      "先读原创例句，分别找出表示主题的 は 和连接两个人或物名词的 の。",
+      "为任务中的两个虚构人物各分配一件物品，用中文确认所属关系之后再写日语。",
+      "将同一个句子中的所属人替换一次，观察主要需要改动哪一部分。",
+      "写完后用中文回译检查，确认没有把谁的东西写反；不会的物品词可以先查入门材料。"
+    ],
+    "original_example": "これはわたしのノートです。\nこれはリンのペンです。",
+    "task": "虚构情境：アン 的物品是 本，リン 的物品是 ノート。分别用 これは……の……です 写两句；再用 わたし 替换其中一位所属人。",
+    "self_check": [
+      "の 位于所属人和物品之间，顺序没有写反。",
+      "句子仍然包含主题部分和完整的 です 结尾。",
+      "我能用中文准确说明每件物品属于谁。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  },
+  {
+    "id": "ja-basics-05",
+    "language": "ja",
+    "title": "用时间说一个简单安排",
+    "objective": "用具体钟点和基本动词描述一个虚构日程，初步认识时间表达中的 に，并将安排与已经发生的记录区分。",
+    "instructions": [
+      "先看原创日程，找出钟点、助词和动作；读音不确定时用官方入门材料核对。",
+      "在纸上先列三个不重叠的虚构钟点和动作，再用本题句型写成日语。",
+      "本轮只练习具体钟点后面的 に，不把规则随意套到所有时间词上。",
+      "读完后检查事件的先后关系，注明这是一份练习日程，不填写为已经完成的学习记录。"
+    ],
+    "original_example": "わたしは七時に起きます。\n八時に勉強します。\n九時に本を読みます。",
+    "task": "新编一个包含起床、学习和读书的三步上午日程，用 六時、七時、八時 中的时间写三句，并在中文旁注中说明动作。",
+    "self_check": [
+      "具体钟点后面的 に 没有漏写。",
+      "三个时间与动作的先后安排能够解释。",
+      "我将它标作虚构安排，没有假定这些活动实际发生过。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  },
+  {
+    "id": "ja-basics-06",
+    "language": "ja",
+    "title": "名词句的肯定与否定",
+    "objective": "在简单物品判断中练习 です 与 ではありません，理解完整否定表达，不把中文的不是逐词搬进日语。",
+    "instructions": [
+      "阅读原创例句，比较肯定和否定结尾，先确认否定的是哪一个判断。",
+      "用任务给定的真实设定作答：这里的真实仅指虚构练习内部的设定，不代表现实中的物品。",
+      "先写否定句，再写一句正确的肯定说明，确保两句说的是同一个对象。",
+      "把长一点的否定结尾分段读几次，然后遮住例句重写，检查是否漏字。"
+    ],
+    "original_example": "これは本です。\nこれはペンではありません。\nこれはノートです。",
+    "task": "虚构设定：桌上物品是 ノート，不是 本；另一个物品是 ペン，不是 ノート。每个物品分别写一肯定句和一否定句。",
+    "self_check": [
+      "肯定句采用 です，否定句采用完整的 ではありません。",
+      "四句与给定的两组物品设定相符。",
+      "我能说明每句是在肯定还是在否定什么。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  },
+  {
+    "id": "ja-basics-07",
+    "language": "ja",
+    "title": "用を连接动作与对象",
+    "objective": "用三个常用动作练习对象加 を 的简单句，理解读什么、喝什么、写什么之间的对应关系。",
+    "instructions": [
+      "阅读原创例句，圈出动作对象，划出 を 后面的动词，先在中文中确认句意。",
+      "按照任务中的三组词写句子，不需要添加自己还不会的复杂修饰。",
+      "写完后朗读，核对 を 作为助词时的读音，并观察它与前面的名词是怎样连接的。",
+      "再选择一件新物品替换原来的对象，但要检查替换后与动作是否搭配合理。"
+    ],
+    "original_example": "本を読みます。\n水を飲みます。\n名前を書きます。",
+    "task": "用 本／読みます、水／飲みます、名前／書きます 各组成一句。然后将其中一组的对象替换为你查明词义的新词，再写一条新句子。",
+    "self_check": [
+      "动作对象和动词之间都有 を。",
+      "新替换的对象与动作搭配合理，我能解释其含义。",
+      "我已核对 を 的助词读音，而不是按中文逐字念。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  },
+  {
+    "id": "ja-basics-08",
+    "language": "ja",
+    "title": "ます句的问句与否定回答",
+    "objective": "练习把礼貌动词句变成简单问题，并用 ます 或 ません 回答，让问答表达相互对应。",
+    "instructions": [
+      "先读原创问答，注意句尾的 か 与回答中的肯定、否定形式。",
+      "把给定的两个动作句改成问句，保持动作对象不变，不额外引入不熟悉的语法。",
+      "每个问题分别写一个肯定回答和一个否定回答；开始时可以保留完整动词，减少歧义。",
+      "最后按对话顺序朗读，检查否定回答是否真的回应了同一个动作。"
+    ],
+    "original_example": "コーヒーを飲みますか。\nはい、飲みます。\nいいえ、飲みません。",
+    "task": "将 本を読みます。和 名前を書きます。各改成问句，并为每个问题写一个 はい 回答与一个 いいえ 回答。",
+    "self_check": [
+      "两个问句的句尾都包含 か。",
+      "否定回答使用相应的 ません 形式。",
+      "回答中的动作与前面的提问一致，没有换成另一个动作。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  },
+  {
+    "id": "ja-basics-09",
+    "language": "ja",
+    "title": "说明物品和动物在哪里",
+    "objective": "在一个简单虚构房间里练习位置说明，初步区分本题中物品使用的 あります 与动物使用的 います。",
+    "instructions": [
+      "阅读原创例句，找出对象、位置和句尾表达，并先画一张很简单的房间示意图。",
+      "只使用任务给出的物品、动物和位置，先确认中文意思，再写日语句子。",
+      "比较两句结尾为何不同，暂时限定在本题的书和猫，不把初学规则扩大到所有特殊情况。",
+      "完成后把文字与自己画的示意图逐项对照，查看是否遗漏位置中的 の 或 に。"
+    ],
+    "original_example": "本は机の上にあります。\nねこはへやにいます。",
+    "task": "虚构设定：书在桌子上，猫在房间里。写出对应的两句说明；再把书的位置改为 いすの上，写一条新的物品位置句。",
+    "self_check": [
+      "本题的书使用 あります，猫使用 います。",
+      "位置表达与 に 的连接完整，机の上 和 いすの上 没有漏掉 の。",
+      "三个句子与房间示意图一致，我能用中文复述。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  },
+  {
+    "id": "ja-basics-10",
+    "language": "ja",
+    "title": "写四句简单的一天",
+    "objective": "把已练过的时间、动词和简单连接表达组合成短段落，用四句可理解的话说明一个虚构学习日。",
+    "instructions": [
+      "阅读原创小段，分别找出日期、上午动作和下午动作，不认识的字词先标记再核对。",
+      "先用中文写一个新的四步日程，选择自己已经会的日语词，不为了显得高级加入未理解的表达。",
+      "将四步写成四句日语，可以使用 それから 连接其中两句，保持时间顺序清楚。",
+      "保留初稿并逐句检查助词与结尾；本题完成只代表做过这次基础练习，不代表达到 N2。"
+    ],
+    "original_example": "今日は日曜日です。\n午前九時に勉強します。\nそれから、本を読みます。\n午後は休みます。",
+    "task": "新编一个四句的学习日日程，包含一个具体钟点、两个不同动作和一句休息安排。不要完全复制例句的星期与时间。",
+    "self_check": [
+      "四句围绕同一个虚构日程，时间先后没有冲突。",
+      "我检查了具体钟点后的 に、动作对象后的 を 以及句尾形式。",
+      "我能不看中文解释主要意思，并明确记录仍需要查证的词句。"
+    ],
+    "source_url": "https://www.irodori.jpf.go.jp/en/"
+  }
+]
